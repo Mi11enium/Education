@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "523c60728dc7d711",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde36bd36eb687a2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "525c217e6b43844a",
+    "type": "split",
+    "children": [
+      {
+        "id": "810c6cf4640718df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5005e377ebd9acc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60114fbb2ba21cd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76cb4184de3f14a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0607bf575578e997",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfa1a28b3f6363d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbec154ae17640b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d2e88e1f9faab9e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37ba09e9d7027d71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f247509e1e47133c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a5005e377ebd9acc",
+  "lastOpenFiles": [
+    "Книги/Web на практике/1. Общая методика.md",
+    "XML.md",
+    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
+    "Тестирование программного обеспечения/Методологии разработки/Agile/Фреймворки/Scrum.md",
+    "Тестирование программного обеспечения/Методологии разработки/Agile/Agile - философия.md",
+    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
+    "Компьютерные сети/Модели/Модель.md",
+    "Компьютерные сети/Модели/OSI Модель.md",
+    "Компьютерные сети/Модели/TCP_IP Модель.md",
+    "Компьютерные сети/Уровни/6. Уровень представления.md"
+  ]
+}
