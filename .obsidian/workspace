@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/vol 3/Основы алгоритмизации и программирования/Основы алгоритмов.md",
+            "file": "Programming/vol 3/Основы алгоритмизации и программирования/Центральные устройства ЭВМ.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Основы алгоритмов.md",
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Центральные устройства ЭВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Основы алгоритмов.md"
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Центральные устройства ЭВМ.md"
               }
             }
           },
@@ -124,7 +124,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fde36bd36eb687a2",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
     "Книги/Web на практике/1. Общая методика.md",
     "XML.md",
