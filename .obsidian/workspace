@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Обзор статей/Как грамотно составить резюме.md",
+            "file": "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обзор статей/Как грамотно составить резюме.md",
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Обзор статей/Как грамотно составить резюме.md"
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md"
               }
             }
           },
@@ -126,10 +126,10 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
-    "Programming/pic/closed_vac.png",
-    "Обзор статей/Как грамотно составить резюме.md",
-    "Programming/pic/hh_filter.png",
     "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
+    "Обзор статей/Как грамотно составить резюме.md",
+    "Programming/pic/closed_vac.png",
+    "Programming/pic/hh_filter.png",
     "Programming/pic/maslou.png",
     "README.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md",
