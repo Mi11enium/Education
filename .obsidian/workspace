@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
+            "file": "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
+                "file": "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md"
+                "file": "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md"
               }
             }
           },
@@ -126,9 +126,9 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/1. Центральные устройства ЭВМ.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
     "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "Programming/pic/closed_vac.png",
