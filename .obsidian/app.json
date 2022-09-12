@@ -4,5 +4,7 @@
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": [
+    "ru"
+  ]
 }
