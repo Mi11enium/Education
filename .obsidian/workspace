@@ -7,8 +7,12 @@
         "id": "fde36bd36eb687a2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md"
+              }
             }
           },
           {
@@ -117,17 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "37ba09e9d7027d71",
+  "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Programming/vol 3/Основы философии/Термины/Материализм.md",
+    "Programming/vol 3/Основы философии/Термины/Монистический подход.md",
     "openedu/Веб программирование НИЯУ МИФИ/Модуль 1. Введение/Урок 1.md",
     "Programming/Оформление/Работа в Word и Excel.md",
     "Programming/vol 3/Основы философии/1. Предмет философии.md",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
     "Programming/vol 3/Основы философии/Термины/Дуалистический подход.md",
     "Programming/vol 3/Основы философии/Термины/Идеализм.md",
-    "Programming/vol 3/Основы философии/Термины/Материализм.md",
     "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
-    "Programming/vol 3/Психология общения/2. Виды и уровни общения.md",
-    "Programming/vol 3/Основы философии/Термины/Монистический подход.md"
+    "Programming/vol 3/Психология общения/2. Виды и уровни общения.md"
   ]
 }
