@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/vol 3/Основы философии/1. Предмет философии.md",
+            "file": "Теология.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Основы философии/1. Предмет философии.md",
+                "file": "Теология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Основы философии/1. Предмет философии.md"
+                "file": "Теология.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
-    "Programming/vol 3/Основы философии/Основные термины (1).md",
-    "Этика.md",
     "Programming/vol 3/Основы философии/1. Предмет философии.md",
+    "Programming/vol 3/Основы философии/Основные термины (1).md",
+    "Programming/vol 3/Основы философии/Термины/Герменевтика.md",
+    "Эстетика.md",
+    "Этика.md",
     "Социальная философия.md",
     "Логика.md",
     "Programming/vol 3/Основы философии/Термины/Аксиология.md",
     "Programming/vol 3/Основы философии/Термины/Онтология.md",
-    "Programming/vol 3/Основы философии/Термины/Гносеология (эпистемология).md",
-    "Programming/vol 3/Основы философии/Термины/Монистический подход.md",
-    "Programming/vol 3/Основы философии/Термины/Философская антропология.md"
+    "Programming/vol 3/Основы философии/Термины/Гносеология (эпистемология).md"
   ]
 }
