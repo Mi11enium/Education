@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "f247509e1e47133c",
+            "id": "3450fd1dee19c52b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,7 +135,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fde36bd36eb687a2",
+  "active": "3450fd1dee19c52b",
   "lastOpenFiles": [
     "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
     "README.md",
