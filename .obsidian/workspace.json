@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "523c60728dc7d711",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73873db474b4dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde36bd36eb687a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "525c217e6b43844a",
+    "type": "split",
+    "children": [
+      {
+        "id": "810c6cf4640718df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5005e377ebd9acc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60114fbb2ba21cd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76cb4184de3f14a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0607bf575578e997",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfa1a28b3f6363d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbec154ae17640b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d2e88e1f9faab9e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37ba09e9d7027d71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md"
+              }
+            }
+          },
+          {
+            "id": "f247509e1e47133c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "fde36bd36eb687a2",
+  "lastOpenFiles": [
+    "Programming/vol 3/Основы алгоритмизации и программирования/4. Вычислительные системы.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+    "Programming/vol 3/Основы философии/1. Предмет философии.md",
+    "Programming/vol 3/Основы философии/Термины/Аксиология.md",
+    "Programming/vol 3/Основы философии/Основные термины (1).md",
+    "Programming/vol 3/Основы философии/Термины/Социальная философия.md",
+    "Programming/vol 3/Основы философии/Термины/Теология.md",
+    "Programming/vol 3/Основы философии/Термины/Эстетика.md",
+    "Programming/vol 3/Основы философии/Термины/Этика.md",
+    "Programming/vol 3/Психология общения/Вебинар.md"
+  ]
+}
