@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинар.md",
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "009219f80dc34872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинар.md",
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинар.md"
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md"
               }
             }
           },
@@ -135,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fde36bd36eb687a2",
+  "active": "009219f80dc34872",
   "lastOpenFiles": [
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
+    "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
     "README.md",
     "Untitled.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/4. Вычислительные системы.md",
-    "Programming/vol 3/Основы философии/1. Предмет философии.md",
-    "Programming/vol 3/Основы философии/Термины/Аксиология.md",
-    "Programming/vol 3/Основы философии/Основные термины (1).md",
-    "Programming/vol 3/Основы философии/Термины/Социальная философия.md"
+    "Programming/vol 3/Основы философии/1. Предмет философии.md"
   ]
 }
