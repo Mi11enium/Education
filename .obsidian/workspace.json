@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
+                "file": "Programming/Оформление/Работа в Word и Excel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9816f9039fe752f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/vol 3/ПРАКТИКА.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
+                "file": "Programming/vol 3/ПРАКТИКА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md"
+                "file": "Programming/vol 3/ПРАКТИКА.md"
               }
             }
           },
@@ -145,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2eb1b4a656f9da86",
+  "active": "9816f9039fe752f2",
   "lastOpenFiles": [
+    "Programming/Оформление/Работа в Word и Excel.md",
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md",
     "zpic/Pasted image 20221031212723.png",
     "Programming/vol 3/Проектирование и дизайн информационных систем/3. Анализ и моделирование функциональной области.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/3. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/4. Вебинар.md",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/2. Спецификация функциональных требований ИС.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md"
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/4. Вебинар.md"
   ]
 }
