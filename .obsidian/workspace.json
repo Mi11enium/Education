@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "736f6e8721f66b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md",
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md"
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md"
               }
             }
           },
@@ -181,8 +193,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "489d5e6b8f9dc854",
+  "active": "736f6e8721f66b8d",
   "lastOpenFiles": [
+    "Programming/Оформление/Работа в Word и Excel.md",
     "Programming/vol 3/ПРАКТИКА.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
@@ -191,7 +204,6 @@
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/3. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
-    "Programming/Оформление/Работа в Word и Excel.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md"
   ]
 }
