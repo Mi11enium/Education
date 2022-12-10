@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
+                "file": "Programming/Оформление/Работа в Word и Excel.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
+                "file": "Programming/Оформление/Работа в Word и Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md"
+                "file": "Programming/Оформление/Работа в Word и Excel.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "489d5e6b8f9dc854",
   "lastOpenFiles": [
+    "Programming/vol 3/ПРАКТИКА.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/4. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/3. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
-    "Programming/vol 3/ПРАКТИКА.md",
     "Programming/Оформление/Работа в Word и Excel.md",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md"
+    "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md"
   ]
 }
