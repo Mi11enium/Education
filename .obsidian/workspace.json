@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b40bbd93c34a4b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,17 +217,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cefb4aa5e7f775ac",
+  "active": "b40bbd93c34a4b74",
   "lastOpenFiles": [
     "Programming/vol 3/ПРАКТИКА.md",
+    "Programming/vol 3/1. Задание.md",
+    "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "Programming/Оформление/Работа в Word и Excel.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/4. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/3. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md"
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/3. Вебинар.md"
   ]
 }
