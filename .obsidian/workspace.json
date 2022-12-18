@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/vol 3/Работа.md",
+                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,11 +217,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cefb4aa5e7f775ac",
+  "active": "b40bbd93c34a4b74",
   "lastOpenFiles": [
     "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
-    "Programming/vol 3/ПРАКТИКА.md",
     "Programming/vol 3/Работа.md",
+    "Programming/vol 3/ПРАКТИКА.md",
     "Pasted image 20221031213431.png",
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "Programming/Оформление/Работа в Word и Excel.md",
