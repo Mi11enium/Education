@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
+                "file": "Programming/vol 3/ПРАКТИКА.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
+                "file": "Programming/vol 3/ПРАКТИКА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md"
+                "file": "Programming/vol 3/ПРАКТИКА.md"
               }
             }
           },
@@ -233,8 +233,8 @@
   },
   "active": "b40bbd93c34a4b74",
   "lastOpenFiles": [
-    "Programming/vol 3/ПРАКТИКА.md",
     "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
+    "Programming/vol 3/ПРАКТИКА.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "Programming/Оформление/Работа в Word и Excel.md",
     "Programming/vol 3/Работа.md",
