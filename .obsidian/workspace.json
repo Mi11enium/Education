@@ -107,16 +107,24 @@
             "id": "f37cb05264b10b44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programming/vol 4/Английский/Вебинар.md",
-                "mode": "source",
-                "source": false
+                "file": "zpic/Pasted image 20221031213431.png"
+              }
+            }
+          },
+          {
+            "id": "ca7152b976537109",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230217121408.png"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 4/Английский/Вебинар.md",
+                "file": "Pasted image 20230217121408.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 4/Английский/Вебинар.md"
+                "file": "Pasted image 20230217121408.png"
               }
             }
           },
@@ -243,17 +251,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f37cb05264b10b44",
+  "active": "ca7152b976537109",
   "lastOpenFiles": [
+    "Trad/Tradi.md",
+    "zpic/Pasted image 20221031213431.png",
+    "zpic/Pasted image 20230208193115.png",
+    "zpic/Pasted image 20230208192913.png",
+    "zpic/Pasted image 20230208192834.png",
+    "Programming/vol 4/Английский/Вебинар.md",
     "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
     "Programming/vol 3/Работа.md",
     "Programming/vol 3/ПРАКТИКА.md",
-    "Programming/Оформление/Работа в Word и Excel.md",
-    "Обзор статей/Как грамотно составить резюме.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
-    "Pasted image 20221031213431.png",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md"
+    "Programming/Оформление/Работа в Word и Excel.md"
   ]
 }
