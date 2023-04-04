@@ -117,10 +117,8 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230217121408.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -190,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230217121408.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted image 20230217121408.png"
-              }
+              "state": {}
             }
           },
           {
@@ -251,7 +246,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca7152b976537109",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
     "Trad/Tradi.md",
     "zpic/Pasted image 20221031213431.png",
