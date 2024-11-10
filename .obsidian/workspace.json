@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md",
+                "file": "templates/Понятие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа в Word и Excel"
+              "title": "Понятие"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md",
+                "file": "templates/Понятие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Работа в Word и Excel"
+              "title": "Backlinks for Понятие"
             }
           },
           {
@@ -135,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md"
+                "file": "templates/Понятие.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Работа в Word и Excel"
+              "title": "Outline of Понятие"
             }
           },
           {
@@ -182,10 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5005e377ebd9acc",
+  "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "templates",
     "Programming/Оформление/Работа в Word и Excel.md",
+    "templates/Понятие.md",
+    "templates",
     "zpic/closed_vac.png",
     "zpic/asd.png",
     "zpic/ММС_МПС.png",
