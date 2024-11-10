@@ -4,9 +4,7 @@
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheckLanguages": [
-    "ru"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

@@ -8,137 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97e53731a41d34d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/vol 4/Английский/Вебинар.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вебинар"
-            }
-          },
-          {
-            "id": "2eb1b4a656f9da86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа в Word и Excel"
-            }
-          },
-          {
-            "id": "9816f9039fe752f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Вебинар"
-            }
-          },
-          {
-            "id": "23be6a6b1a44da9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Вебинар"
-            }
-          },
-          {
-            "id": "489d5e6b8f9dc854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Оформление/Работа в Word и Excel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа в Word и Excel"
-            }
-          },
-          {
-            "id": "736f6e8721f66b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/vol 3/ПРАКТИКА.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ПРАКТИКА"
-            }
-          },
-          {
-            "id": "cefb4aa5e7f775ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ПРАКТИКА ПО ПРЕЗЕНТАЦИИ"
-            }
-          },
-          {
-            "id": "b40bbd93c34a4b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ПРАКТИКА ПО ПРЕЗЕНТАЦИИ"
-            }
-          },
-          {
-            "id": "f37cb05264b10b44",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zpic/Pasted image 20221031213431.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20221031213431"
-            }
-          },
-          {
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Анализ и моделирование ИС"
             }
           }
         ]
@@ -223,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 4/Английский/Вебинар.md",
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вебинар"
+              "title": "Backlinks for 1. Анализ и моделирование ИС"
             }
           },
           {
@@ -255,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 4/Английский/Вебинар.md"
+                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Вебинар"
+              "title": "Outline of 1. Анализ и моделирование ИС"
             }
           },
           {
@@ -270,9 +150,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "858192348a10f0b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -287,14 +177,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97e53731a41d34d1",
+  "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "Pasted image 20230404221038.png",
-    "zpic/Pasted image 20230404160504.png",
+    "Programming/vol 3/Работа.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+    "Programming/vol 3/Психология общения/2. Виды и уровни общения.md",
+    "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
+    "Programming/vol 3/ПРАКТИКА.md",
+    "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
     "Programming/vol 4/Английский/Вебинар.md",
+    "Pasted image 20230404221038.png",
+    "Trad/Tradi.md",
+    "Untitled.canvas",
+    "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",
     "zpic/Pasted image 20230404215725.png",
     "zpic/Pasted image 20230404215620.png",
@@ -304,11 +204,6 @@
     "zpic/Pasted image 20230404162314.png",
     "zpic/Pasted image 20230404162233.png",
     "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md",
-    "Trad/Tradi.md",
-    "zpic/Pasted image 20221031213431.png",
-    "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
-    "Programming/vol 3/Работа.md",
-    "Programming/vol 3/ПРАКТИКА.md",
     "Programming/Оформление/Работа в Word и Excel.md"
   ]
 }
