@@ -16,7 +16,9 @@
                 "file": "Programming/vol 4/Английский/Вебинар.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Вебинар"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Programming/Оформление/Работа в Word и Excel.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Работа в Word и Excel"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "5. Вебинар"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6. Вебинар"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Programming/Оформление/Работа в Word и Excel.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Работа в Word и Excel"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Programming/vol 3/ПРАКТИКА.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ПРАКТИКА"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ПРАКТИКА ПО ПРЕЗЕНТАЦИИ"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "Programming/vol 3/ПРАКТИКА ПО ПРЕЗЕНТАЦИИ.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ПРАКТИКА ПО ПРЕЗЕНТАЦИИ"
             }
           },
           {
@@ -110,7 +126,9 @@
               "type": "image",
               "state": {
                 "file": "zpic/Pasted image 20221031213431.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20221031213431"
             }
           },
           {
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,7 +161,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -156,7 +178,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -164,7 +188,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f8b14276b5005911",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -195,7 +231,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Вебинар"
             }
           },
           {
@@ -206,7 +244,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -216,7 +256,9 @@
               "type": "outline",
               "state": {
                 "file": "Programming/vol 4/Английский/Вебинар.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Вебинар"
             }
           },
           {
@@ -224,7 +266,9 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -236,8 +280,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
