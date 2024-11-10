@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Анализ и моделирование ИС"
+              "title": "2. Вебинар"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Анализ и моделирование ИС"
+              "title": "Backlinks for 2. Вебинар"
             }
           },
           {
@@ -135,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md"
+                "file": "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/2. Вебинар.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Анализ и моделирование ИС"
+              "title": "Outline of 2. Вебинар"
             }
           },
           {
@@ -184,8 +184,11 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "Programming/vol 3/Работа.md",
+    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
+    "Programming/Оформление/Работа в Word и Excel.md",
+    "Обзор статей/Как грамотно составить резюме.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+    "Programming/vol 3/Работа.md",
     "Programming/vol 3/Психология общения/2. Виды и уровни общения.md",
     "Programming/vol 3/Психология общения/1. Понятие общения, его структура и функции.md",
     "Programming/vol 3/ПРАКТИКА.md",
@@ -203,7 +206,6 @@
     "zpic/Pasted image 20230404162452.png",
     "zpic/Pasted image 20230404162314.png",
     "zpic/Pasted image 20230404162233.png",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md",
-    "Programming/Оформление/Работа в Word и Excel.md"
+    "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md"
   ]
 }
