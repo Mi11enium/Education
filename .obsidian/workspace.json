@@ -11,17 +11,14 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 965.298515215088,
-                  "y": -1588.7962022815304,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "templates/Concept.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Concept"
             }
           }
         ]
@@ -187,18 +184,20 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "if_elif_else.md",
+    "Untitled 1.canvas",
+    "2024-11-12.md",
+    "range().md",
+    "for.md",
     "Untitled.canvas",
+    "if_elif_else.md",
     "if/elif/else.md",
     "if/elif",
     "if",
-    "range().md",
     "nested loop.md",
     "pass.md",
-    "for.md",
     "continue.md",
     "break.md",
-    "templates/Понятие.md",
+    "templates/Concept.md",
     "Приыв.md",
     "Programming/Оформление/Работа в Word и Excel.md",
     "templates",
@@ -218,7 +217,6 @@
     "Programming/vol 3/Основы философии/Термины/Герменевтика.md",
     "Programming/vol 3/Основы философии/Термины/Аксиология.md",
     "Programming/vol 3/Основы философии/Термины/Этика.md",
-    "Programming/vol 3/Основы философии/Термины/Онтология.md",
     "zpic/Pasted image 20230404221038.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",
