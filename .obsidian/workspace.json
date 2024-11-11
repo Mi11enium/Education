@@ -11,14 +11,17 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "templates/Concept.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 345,
+                  "y": -1860,
+                  "zoom": -1.176588731723323
+                }
               },
-              "icon": "lucide-file",
-              "title": "Concept"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -184,12 +187,13 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "2024-11-12.md",
     "range().md",
-    "for.md",
-    "Untitled.canvas",
     "if_elif_else.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "templates/Concept.md",
+    "2024-11-12.md",
+    "for.md",
     "if/elif/else.md",
     "if/elif",
     "if",
@@ -197,7 +201,6 @@
     "pass.md",
     "continue.md",
     "break.md",
-    "templates/Concept.md",
     "Приыв.md",
     "Programming/Оформление/Работа в Word и Excel.md",
     "templates",

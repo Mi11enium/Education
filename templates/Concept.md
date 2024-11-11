@@ -4,7 +4,7 @@
 
 # Object
 
-# How to work (Logic)
+# How does it work (Logic)
 
 # Features/Attribute
 
