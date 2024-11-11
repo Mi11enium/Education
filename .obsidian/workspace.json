@@ -11,14 +11,17 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "templates/Понятие.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Понятие"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Понятие.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Понятие"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -135,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Понятие.md"
+                "file": "Untitled.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Понятие"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -184,8 +187,10 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "Programming/Оформление/Работа в Word и Excel.md",
+    "Приыв.md",
+    "Untitled.canvas",
     "templates/Понятие.md",
+    "Programming/Оформление/Работа в Word и Excel.md",
     "templates",
     "zpic/closed_vac.png",
     "zpic/asd.png",
@@ -213,9 +218,7 @@
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/5. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/4. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/3. Вебинар.md",
     "zpic/Pasted image 20230404221038.png",
-    "Untitled.canvas",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",
     "zpic/Pasted image 20230404215725.png",
