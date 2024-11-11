@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for.md",
+                "file": "nested loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "for"
+              "title": "nested loop"
             }
           }
         ]
@@ -185,7 +185,11 @@
   "active": "ca7152b976537109",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "nested loop.md",
+    "pass.md",
     "for.md",
+    "continue.md",
+    "break.md",
     "templates/Понятие.md",
     "Приыв.md",
     "Programming/Оформление/Работа в Word и Excel.md",
@@ -210,10 +214,6 @@
     "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/1. Вебинар.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/4. Вычислительные системы.md",
     "Programming/vol 3/Основы алгоритмизации и программирования/3. Дисковая ОС.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/2. Центральный процессор ЭВМ.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/1. Центральные устройства ЭВМ.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/7. Вебинар.md",
-    "Programming/vol 3/Основы алгоритмизации и программирования/Вебинары/6. Вебинар.md",
     "zpic/Pasted image 20230404221038.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",

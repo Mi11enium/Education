@@ -16,5 +16,10 @@ for item in iterable:
 # Особенности/атрибуты
 
 # Примеры
+```python
+fruits = ["apple", "banana", "cherry"]
 
+for fruit in fruits:
+    print(fruit)
+```
 # Частые ошибки

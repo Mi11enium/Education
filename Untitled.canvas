@@ -1,13 +1,14 @@
 {
 	"nodes":[
 		{"id":"1d5a1fbf0cf9d209","type":"text","text":"conditional statements","x":80,"y":-620,"width":250,"height":60},
-		{"id":"9f1ae963a799fd4e","x":520,"y":-460,"width":250,"height":60,"type":"text","text":"control statements"},
-		{"id":"077532241b2be58d","x":320,"y":-360,"width":250,"height":60,"type":"text","text":"[[break]]"},
-		{"id":"d0876b58ff7b89cf","x":600,"y":-360,"width":250,"height":60,"type":"text","text":"[[continue]]"},
+		{"id":"9f1ae963a799fd4e","type":"text","text":"control statements","x":520,"y":-460,"width":250,"height":60},
+		{"id":"077532241b2be58d","type":"text","text":"[[break]]","x":320,"y":-360,"width":250,"height":60},
+		{"id":"d0876b58ff7b89cf","type":"text","text":"[[continue]]","x":600,"y":-360,"width":250,"height":60},
 		{"id":"59da912167c14cdb","type":"text","text":"[[loops]]","x":-285,"y":-140,"width":250,"height":60},
-		{"id":"e2ce3edd1c00cfd4","x":0,"y":-40,"width":250,"height":60,"type":"text","text":"nested loops"},
+		{"id":"e2ce3edd1c00cfd4","type":"text","text":"[[nested loop]]","x":0,"y":-40,"width":250,"height":60},
 		{"id":"21b8c697789a35ec","type":"text","text":"[[for]]","x":-285,"y":-40,"width":250,"height":60},
-		{"id":"126ab43b3ab3ed0f","type":"text","text":"[[while]]","x":-580,"y":-40,"width":250,"height":60}
+		{"id":"126ab43b3ab3ed0f","type":"text","text":"[[while]]","x":-580,"y":-40,"width":250,"height":60},
+		{"id":"a5fca1c4a6085916","type":"text","text":"[[pass]]","x":880,"y":-360,"width":250,"height":60}
 	],
 	"edges":[]
 }
