@@ -3,7 +3,7 @@
 		{"id":"59da912167c14cdb","type":"text","text":"[[loops]]","x":-160,"y":-220,"width":250,"height":60},
 		{"id":"1d5a1fbf0cf9d209","x":90,"y":-360,"width":250,"height":60,"type":"text","text":"conditional statements"},
 		{"id":"21b8c697789a35ec","type":"text","text":"[[for]]","x":-160,"y":-35,"width":250,"height":60},
-		{"id":"126ab43b3ab3ed0f","type":"text","text":"while","x":-460,"y":-35,"width":250,"height":60}
+		{"id":"126ab43b3ab3ed0f","type":"text","text":"[[while]]","x":-460,"y":-35,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"6fc8ec63eabc2c1a","fromNode":"59da912167c14cdb","fromSide":"bottom","toNode":"126ab43b3ab3ed0f","toSide":"top"},

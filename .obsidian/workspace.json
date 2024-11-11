@@ -11,17 +11,14 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -7.897347600855028,
-                  "y": -132.6920919553639,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "for.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "for"
             }
           }
         ]
@@ -187,8 +184,8 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "for.md",
     "Untitled.canvas",
+    "for.md",
     "templates/Понятие.md",
     "Приыв.md",
     "Programming/Оформление/Работа в Word и Excel.md",
