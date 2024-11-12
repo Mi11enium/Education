@@ -6,7 +6,7 @@
 
 # How does it work (Logic)
 
-# Features/Attribute
+# Features/Attributes
 
 # Syntax
 # Examples
