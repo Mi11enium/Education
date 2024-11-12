@@ -11,17 +11,14 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -233.09895833333357,
-                  "y": -1396.8132794499395,
-                  "zoom": -0.6462586799900298
-                }
+                "file": "Data Aggregation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Data Aggregation"
             }
           }
         ]
@@ -187,8 +184,10 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
+    "Python.canvas",
+    "Обзор статей/Как грамотно составить резюме.md",
+    "Data Aggregation.md",
     "for.md",
-    "Untitled.canvas",
     "range().md",
     "templates/Concept.md",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
@@ -199,7 +198,6 @@
     "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "built-in functions.md",
-    "Обзор статей/Как грамотно составить резюме.md",
     "if/elif/else.md",
     "if_elif_else.md",
     "Untitled 1.canvas",
@@ -219,7 +217,6 @@
     "Programming/vol 4/Английский/Вебинар.md",
     "Programming/vol 3/Основы философии/Термины/Идеализм.md",
     "Programming/vol 3/Основы философии/Термины/Дуалистический подход.md",
-    "Programming/vol 3/Основы философии/Термины/Гносеология (эпистемология).md",
     "zpic/Pasted image 20230404221038.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",
