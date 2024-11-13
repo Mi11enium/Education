@@ -11,17 +11,14 @@
             "id": "ca7152b976537109",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Python.canvas",
-                "viewState": {
-                  "x": 502.5,
-                  "y": -1811.109375,
-                  "zoom": -1.6462586799900296
-                }
+                "file": "code review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Python"
+              "icon": "lucide-file",
+              "title": "code review"
             }
           }
         ]
@@ -187,11 +184,13 @@
   },
   "active": "ca7152b976537109",
   "lastOpenFiles": [
-    "Data Aggregation.md",
     "Python.canvas",
+    "code review.md",
+    "range().md",
+    "if_elif_else.md",
+    "Data Aggregation.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "for.md",
-    "range().md",
     "templates/Concept.md",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
@@ -202,7 +201,6 @@
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "built-in functions.md",
     "if/elif/else.md",
-    "if_elif_else.md",
     "Untitled 1.canvas",
     "2024-11-12.md",
     "if/elif",
@@ -219,7 +217,6 @@
     "zpic/ММС_МПС.png",
     "Programming/vol 4/Английский/Вебинар.md",
     "Programming/vol 3/Основы философии/Термины/Идеализм.md",
-    "Programming/vol 3/Основы философии/Термины/Дуалистический подход.md",
     "zpic/Pasted image 20230404221038.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",

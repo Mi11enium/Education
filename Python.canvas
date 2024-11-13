@@ -73,7 +73,8 @@
 		{"id":"f5f4fb6ca72bfb33","type":"text","text":"[[type()]]","x":-980,"y":-820,"width":250,"height":60},
 		{"id":"fd0555d22c0a28ea","type":"text","text":"[[isinstance()]]","x":-980,"y":-760,"width":250,"height":60},
 		{"id":"bf5b6d09798a5472","type":"text","text":"[[dir()]]","x":-980,"y":-700,"width":250,"height":60},
-		{"id":"6b1a6a3ebae3ad4a","x":-400,"y":-1760,"width":250,"height":60,"type":"text","text":"[[Data Aggregation]]"}
+		{"id":"6b1a6a3ebae3ad4a","type":"text","text":"[[Data Aggregation]]","x":-400,"y":-1760,"width":250,"height":60},
+		{"id":"a15602d2de539ae7","x":362,"y":-2234,"width":250,"height":60,"type":"text","text":"[[code review]]"}
 	],
 	"edges":[
 		{"id":"98e3a61301107c83","fromNode":"59da912167c14cdb","fromSide":"top","toNode":"7142376421919bfe","toSide":"bottom"},
