@@ -11,14 +11,17 @@
             "id": "9d2142f7a6c65794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "loops.md",
-                "mode": "source",
-                "source": false
+                "file": "Python.canvas",
+                "viewState": {
+                  "x": 502.5,
+                  "y": -1811.109375,
+                  "zoom": -1.6462586799900296
+                }
               },
-              "icon": "lucide-file",
-              "title": "loops"
+              "icon": "lucide-layout-dashboard",
+              "title": "Python"
             }
           }
         ]
@@ -184,10 +187,10 @@
   },
   "active": "9d2142f7a6c65794",
   "lastOpenFiles": [
-    "nested loop.md",
-    "loops.md",
-    "Python.canvas",
     "range().md",
+    "loops.md",
+    "nested loop.md",
+    "Python.canvas",
     "pass.md",
     "code review.md",
     "if_elif_else.md",
