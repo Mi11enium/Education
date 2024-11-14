@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e73873db474b4dfe",
+        "id": "aa54b4b304f47ab8",
         "type": "tabs",
         "children": [
           {
-            "id": "ca7152b976537109",
+            "id": "9d2142f7a6c65794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code review.md",
+                "file": "loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code review"
+              "title": "loops"
             }
           }
         ]
@@ -182,11 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca7152b976537109",
+  "active": "9d2142f7a6c65794",
   "lastOpenFiles": [
+    "nested loop.md",
+    "loops.md",
     "Python.canvas",
-    "code review.md",
     "range().md",
+    "pass.md",
+    "code review.md",
     "if_elif_else.md",
     "Data Aggregation.md",
     "Обзор статей/Как грамотно составить резюме.md",
@@ -205,8 +208,6 @@
     "2024-11-12.md",
     "if/elif",
     "if",
-    "nested loop.md",
-    "pass.md",
     "continue.md",
     "break.md",
     "Приыв.md",
