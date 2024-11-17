@@ -11,17 +11,14 @@
             "id": "9d2142f7a6c65794",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Python.canvas",
-                "viewState": {
-                  "x": -4712.541350385034,
-                  "y": -2647.498930027248,
-                  "zoom": -1
-                }
+                "file": "int.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Python"
+              "icon": "lucide-file",
+              "title": "int"
             }
           }
         ]
@@ -188,11 +185,12 @@
   },
   "active": "9d2142f7a6c65794",
   "lastOpenFiles": [
+    "Python.canvas",
+    "int.md",
     "Pasted image 20241118012211.png",
     "range().md",
     "loops.md",
     "nested loop.md",
-    "Python.canvas",
     "pass.md",
     "code review.md",
     "if_elif_else.md",
@@ -221,13 +219,11 @@
     "zpic/closed_vac.png",
     "zpic/asd.png",
     "zpic/ММС_МПС.png",
-    "Programming/vol 4/Английский/Вебинар.md",
     "zpic/Pasted image 20230404221038.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404220343.png",
     "zpic/Pasted image 20230404215725.png",
     "zpic/Pasted image 20230404215620.png",
-    "zpic/Pasted image 20230404215118.png",
-    "zpic/Pasted image 20230404162758.png"
+    "zpic/Pasted image 20230404215118.png"
   ]
 }
