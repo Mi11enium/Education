@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loops.md",
+                "file": "nested loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loops"
+              "title": "nested loop"
             }
           }
         ]
@@ -184,11 +184,11 @@
   },
   "active": "33e94f49ad271e7c",
   "lastOpenFiles": [
+    "loops.md",
     "nested loop.md",
     "int.md",
     "Pasted image 20241118012211.png",
     "range().md",
-    "loops.md",
     "Python.canvas",
     "built-in functions.md",
     "pass.md",
