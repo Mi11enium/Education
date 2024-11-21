@@ -55,7 +55,7 @@ output:
 for i in range(3):
 	for j in range(5):
 		print('*', end='')
-	print('')  # Перенос на новую строку, после всех прохода всех итераций во вложенном скрипте. 'Таблица' 3x5
+	print()  # Перенос на новую строку, после всех прохода всех итераций во вложенном скрипте. 'Таблица' 3x5
 
 output:
 *****
@@ -67,10 +67,23 @@ output:
 for i in range(3):
 	for j in range(5):
 		print(i, end='')
+	print()
 
 output:
 00000
 11111
 22222
+```
+
+```python
+for i in range(3):
+	for j in range(5):
+		print(j, end='')
+	print()
+
+output:
+01234
+01234
+01234
 ```
 # Частые ошибки
