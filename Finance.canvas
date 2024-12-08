@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"670c2c1622cda24d","type":"text","text":"[[Маржа]]","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"eced7675f5b3164f","x":0,"y":80,"width":250,"height":60,"type":"text","text":"[[Наценка]]"}
+	],
+	"edges":[]
+}
