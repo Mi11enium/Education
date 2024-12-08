@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Маржа.md",
+                "file": "Наценка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Маржа"
+              "title": "Наценка"
             }
           }
         ]
@@ -184,10 +184,10 @@
   },
   "active": "63421c99a758936f",
   "lastOpenFiles": [
+    "Маржа.md",
     "Наценка.md",
     "Untitled.canvas",
     "Finance.canvas",
-    "Маржа.md",
     "Python.canvas",
     "Untitled.png.md",
     "Pasted image 20241118012211.png",
