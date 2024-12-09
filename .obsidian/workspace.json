@@ -11,14 +11,17 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "чистая маржа.md",
-                "mode": "source",
-                "source": false
+                "file": "Finance.canvas",
+                "viewState": {
+                  "x": -225,
+                  "y": 40,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "чистая маржа"
+              "icon": "lucide-layout-dashboard",
+              "title": "Finance"
             }
           }
         ]
@@ -184,16 +187,17 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "операционная маржа.md",
-    "Маржа.md",
-    "валовая маржа.md",
-    "Finance.canvas",
-    "чистая маржа.md",
     "range().md",
     "Python.canvas",
-    "Pasted image 20241118012211.png",
     "Untitled.canvas",
+    "чистая маржа.md",
+    "операционная маржа.md",
     "Наценка.md",
+    "Маржа.md",
+    "break.md",
+    "валовая маржа.md",
+    "Finance.canvas",
+    "Pasted image 20241118012211.png",
     "LTV.md",
     "Untitled.png.md",
     "nested loop.md",
@@ -212,7 +216,6 @@
     "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/3. Анализ и моделирование функциональной области.md",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/2. Спецификация функциональных требований ИС.md",
     "Untitled 1.canvas",
     "if/elif",
     "if",
