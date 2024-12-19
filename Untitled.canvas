@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"0fab16a17e97ef1b","type":"text","text":"[[Python.canvas|Python]]","x":-1220,"y":-520,"width":250,"height":60},
 		{"id":"f6e476053d90179c","type":"text","text":"Тестирование ПО","x":-820,"y":-840,"width":250,"height":60},
-		{"id":"88a739084b09e761","type":"text","text":"Git","x":-820,"y":-520,"width":250,"height":60}
+		{"id":"88a739084b09e761","type":"text","text":"[[Git]]","x":-820,"y":-520,"width":250,"height":60},
+		{"id":"7e0080813332908f","x":-800,"y":-460,"width":250,"height":60,"type":"text","text":"[[Первичная настройка]]"}
 	],
 	"edges":[]
 }
