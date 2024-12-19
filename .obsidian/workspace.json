@@ -11,17 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -885,
-                  "y": -620,
-                  "zoom": 0
-                }
+                "file": "Основы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Основы"
             }
           }
         ]
@@ -187,8 +184,9 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "fin/Finance.canvas",
     "Untitled.canvas",
+    "Основы.md",
+    "fin/Finance.canvas",
     "Python.canvas",
     "Тестирование ПО/Python/range().md",
     "Тестирование ПО/Git/Pasted image 20241118012211.png",
@@ -219,7 +217,6 @@
     "fin/операционная маржа.md",
     "Untitled.png.md",
     "Обзор статей/Как грамотно составить резюме.md",
-    "templates/Concept.md",
     "Untitled 1.canvas",
     "if/elif",
     "if",
