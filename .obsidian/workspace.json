@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы.md",
+                "file": "Тестирование ПО/Git/Первичная настройка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы"
+              "title": "Первичная настройка"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Основы.md",
+    "Untitled.canvas",
     "fin/Finance.canvas",
     "Python.canvas",
     "Тестирование ПО/Python/range().md",
