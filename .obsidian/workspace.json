@@ -11,12 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/Git/Pasted image 20241118012211.png"
+                "file": "Тестирование ПО/Git/Основы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241118012211"
+              "icon": "lucide-file",
+              "title": "Основы"
             }
           }
         ]
@@ -180,16 +182,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0c23068d9a9cd14",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
     "Тестирование ПО/Git/Git.md",
+    "Тестирование ПО/Git/Pasted image 20241118012211.png",
     "Тестирование ПО/Git/Первичная настройка.md",
-    "Основы.md",
+    "Тестирование ПО/Git/Основы.md",
     "Untitled.canvas",
     "fin/Finance.canvas",
     "Python.canvas",
     "Тестирование ПО/Python/range().md",
-    "Тестирование ПО/Git/Pasted image 20241118012211.png",
     "pass.md",
     "Тестирование ПО/Python/nested loop.md",
     "fin/LTV.md",
