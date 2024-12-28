@@ -11,17 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Базовая информация.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Базовая информация"
             }
           }
         ]
@@ -187,8 +184,9 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "Тестирование ПО/Git/Основы.md",
     "Untitled 1.canvas",
+    "Базовая информация.md",
+    "Тестирование ПО/Git/Основы.md",
     "Algo/Lua",
     "Algo",
     "Тестирование ПО/Git/Git.md",
@@ -222,7 +220,6 @@
     "fin/чистая маржа.md",
     "fin/операционная маржа.md",
     "Untitled.png.md",
-    "Обзор статей/Как грамотно составить резюме.md",
     "if/elif",
     "if",
     "templates",

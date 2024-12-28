@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"58fa1651e1a9906f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Lua"}
+		{"id":"58fa1651e1a9906f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Lua"},
+		{"id":"2d6f5456322f402c","x":-80,"y":80,"width":250,"height":60,"type":"text","text":"[[Базовая информация]]"}
 	],
 	"edges":[]
 }
