@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"58fa1651e1a9906f","type":"text","text":"Lua","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"58fa1651e1a9906f","type":"text","text":"[[Lua]]","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"2d6f5456322f402c","type":"text","text":"[[Базовая информация]]","x":-100,"y":30,"width":250,"height":60},
-		{"id":"f3aa215f0f9614be","x":-80,"y":90,"width":250,"height":60,"type":"text","text":"[[Переменные]]"}
+		{"id":"f3aa215f0f9614be","type":"text","text":"[[Переменные]]","x":-100,"y":90,"width":250,"height":60},
+		{"id":"875be827b27d9e1f","type":"text","text":"[[Типы данных]]","x":-100,"y":150,"width":250,"height":60}
 	],
 	"edges":[]
 }
