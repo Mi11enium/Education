@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Lua/Типы данных.md",
+                "file": "Базовая информация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы данных"
+              "title": "Базовая информация"
             }
           }
         ],
@@ -210,8 +210,8 @@
   "active": "04fc341b9218e99a",
   "lastOpenFiles": [
     "Lua.canvas",
-    "Algo/Lua/Lua.md",
     "Algo/Lua/Типы данных.md",
+    "Algo/Lua/Lua.md",
     "Переменные.md",
     "Базовая информация.md",
     "Тестирование ПО/Git/Основы.md",
