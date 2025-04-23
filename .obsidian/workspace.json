@@ -11,14 +11,12 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
-                "mode": "source",
-                "source": false
+                "file": "zpic/Pasted image 20221031213049.png"
               },
-              "icon": "lucide-file",
-              "title": "1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20221031213049"
             }
           }
         ]
@@ -40,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,6 +193,17 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
+    "zpic/Pasted image 20221031213311.png",
+    "zpic/Pasted image 20230404160504.png",
+    "zpic/Pasted image 20230404162758.png",
+    "zpic/Pasted image 20230404221038.png",
+    "zpic/rrr.png",
+    "zpic/xx.png",
+    "zpic/register_connection.png",
+    "zpic/Pasted image 20230404220343.png",
+    "zpic/Pasted image 20230404215620.png",
+    "pass.md",
+    "zpic/control_func.png",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "Programming/vol 3/Основы философии/1. Предмет философии.md",
@@ -220,28 +230,17 @@
     "Тестирование ПО/Git/Первичная настройка.md",
     "Untitled.canvas",
     "Тестирование ПО/Python/range().md",
-    "pass.md",
     "Тестирование ПО/Python/nested loop.md",
     "Тестирование ПО/Python/loops.md",
     "Тестирование ПО/Python/int.md",
     "Тестирование ПО/Python/if_elif_else.md",
     "Тестирование ПО/Python/for.md",
-    "Тестирование ПО/Python/float.md",
     "Тестирование ПО/Python",
     "Тестирование ПО/Git",
     "Тестирование ПО",
     "fin",
     "if/elif",
     "if",
-    "templates",
-    "zpic/closed_vac.png",
-    "zpic/asd.png",
-    "zpic/ММС_МПС.png",
-    "zpic/Pasted image 20230404221038.png",
-    "zpic/Pasted image 20230404160504.png",
-    "zpic/Pasted image 20230404220343.png",
-    "zpic/Pasted image 20230404215725.png",
-    "zpic/Pasted image 20230404215620.png",
-    "zpic/Pasted image 20230404215118.png"
+    "templates"
   ]
 }
