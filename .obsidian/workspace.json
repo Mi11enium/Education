@@ -11,14 +11,17 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Типы данных.md",
-                "mode": "source",
-                "source": false
+                "file": "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
+                "viewState": {
+                  "x": -85,
+                  "y": 50,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Типы данных"
+              "icon": "lucide-layout-dashboard",
+              "title": "100 Year QA"
             }
           }
         ]
@@ -197,8 +200,10 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
+    "Python.canvas",
+    "pass.md",
     "Типы данных.md",
+    "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
     "Отношения и типы данных.md",
     "Отношения.md",
     "Тестирование ПО/Mentorpiece/Термины БД.md",
@@ -216,7 +221,6 @@
     "zpic/register_connection.png",
     "zpic/Pasted image 20230404220343.png",
     "zpic/Pasted image 20230404215620.png",
-    "pass.md",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "Programming/vol 3/Основы философии/1. Предмет философии.md",
@@ -229,7 +233,6 @@
     "fin/Маржа.md",
     "fin/валовая маржа.md",
     "templates/Concept.md",
-    "Python.canvas",
     "Algo/Lua/Lua.md",
     "Lua.canvas",
     "Переменные.md",
