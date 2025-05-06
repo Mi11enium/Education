@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Отношения.md",
+                "file": "Типы данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отношения"
+              "title": "Типы данных"
             }
           }
         ]
@@ -124,7 +124,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -173,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,9 +198,10 @@
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
     "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
+    "Типы данных.md",
+    "Отношения и типы данных.md",
     "Отношения.md",
     "Тестирование ПО/Mentorpiece/Термины БД.md",
-    "Отношения и типы данных.md",
     "Тестирование ПО/Mentorpiece/Реляционные базы данных.md",
     "Тестирование ПО/Mentorpiece/Первичный ключ (PK).md",
     "Тестирование ПО/Mentorpiece/Внешний ключ (FK).md",
@@ -236,7 +239,6 @@
     "Algo/Lua",
     "Algo",
     "Тестирование ПО/Git/Git.md",
-    "Тестирование ПО/Git/Первичная настройка.md",
     "Untitled.canvas",
     "Тестирование ПО/Python",
     "Тестирование ПО/Git",
