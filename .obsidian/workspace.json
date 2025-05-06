@@ -11,12 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zpic/Pasted image 20221031213049.png"
+                "file": "Тестирование ПО/Mentorpiece/Реляционные базы данных.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20221031213049"
+              "icon": "lucide-file",
+              "title": "Реляционные базы данных"
             }
           }
         ]
@@ -191,8 +193,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0c23068d9a9cd14",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
+    "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
+    "Тестирование ПО/Mentorpiece/Реляционные базы данных.md",
+    "zpic/Pasted image 20221031213049.png",
+    "Тестирование ПО/Mentorpiece",
     "zpic/Pasted image 20221031213311.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404162758.png",
@@ -203,7 +209,6 @@
     "zpic/Pasted image 20230404220343.png",
     "zpic/Pasted image 20230404215620.png",
     "pass.md",
-    "zpic/control_func.png",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "Programming/vol 3/Основы философии/1. Предмет философии.md",
@@ -226,7 +231,6 @@
     "Algo/Lua",
     "Algo",
     "Тестирование ПО/Git/Git.md",
-    "Тестирование ПО/Git/Pasted image 20241118012211.png",
     "Тестирование ПО/Git/Первичная настройка.md",
     "Untitled.canvas",
     "Тестирование ПО/Python/range().md",
@@ -234,7 +238,6 @@
     "Тестирование ПО/Python/loops.md",
     "Тестирование ПО/Python/int.md",
     "Тестирование ПО/Python/if_elif_else.md",
-    "Тестирование ПО/Python/for.md",
     "Тестирование ПО/Python",
     "Тестирование ПО/Git",
     "Тестирование ПО",
