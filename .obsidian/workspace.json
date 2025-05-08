@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "DNS, Domain, IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "DNS, Domain, IP"
             }
           }
         ]
@@ -198,7 +198,8 @@
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
     "Тестирование ПО/QA/100 Year QA.canvas",
-    "Internet.md",
+    "DNS, Domain, IP.md",
+    "Тестирование ПО/QA/Internet.md",
     "ER - диаграмма.md",
     "Тестирование ПО/QA/Отношения.md",
     "Тестирование ПО/QA/Отношения и типы данных.md",
@@ -236,7 +237,6 @@
     "Algo/Lua/Lua.md",
     "Lua.canvas",
     "Переменные.md",
-    "Базовая информация.md",
     "Algo/Lua",
     "Algo",
     "Untitled.canvas",
