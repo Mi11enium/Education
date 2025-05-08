@@ -9,7 +9,8 @@
 		{"id":"8ddc65ff92f26289","type":"text","text":"[[Типы данных]]","x":-200,"y":200,"width":250,"height":60},
 		{"id":"c68e5cf9291d07c6","type":"text","text":"Вопросы","x":-560,"y":520,"width":250,"height":60},
 		{"id":"c8f3ec29c14f2508","type":"text","text":"[[Q Базы данных]]","x":-540,"y":580,"width":250,"height":60},
-		{"id":"1eede85ebc609790","x":-200,"y":260,"width":250,"height":60,"type":"text","text":"[[ER - диаграмма]]"}
+		{"id":"1eede85ebc609790","type":"text","text":"[[ER - диаграмма]]","x":-200,"y":260,"width":250,"height":60},
+		{"id":"8998619dc349cccf","x":333,"y":181,"width":250,"height":60,"type":"text","text":"[[Internet]]"}
 	],
 	"edges":[]
 }

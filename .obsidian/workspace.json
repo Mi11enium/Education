@@ -11,17 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/QA/100 Year QA.canvas",
-                "viewState": {
-                  "x": 457.9751390648853,
-                  "y": 210.6647050226453,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "Internet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "100 Year QA"
+              "icon": "lucide-file",
+              "title": "Internet"
             }
           }
         ]
@@ -198,10 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5005e377ebd9acc",
+  "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "ER - диаграмма.md",
     "Тестирование ПО/QA/100 Year QA.canvas",
+    "Internet.md",
+    "ER - диаграмма.md",
     "Тестирование ПО/QA/Отношения.md",
     "Тестирование ПО/QA/Отношения и типы данных.md",
     "Тестирование ПО/QA/Типы данных.md",
@@ -239,7 +237,6 @@
     "Lua.canvas",
     "Переменные.md",
     "Базовая информация.md",
-    "Algo/Lua/Типы данных.md",
     "Algo/Lua",
     "Algo",
     "Untitled.canvas",
