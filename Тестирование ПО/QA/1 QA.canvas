@@ -13,7 +13,9 @@
 		{"id":"8998619dc349cccf","type":"text","text":"[[Internet]]","x":400,"y":20,"width":250,"height":60},
 		{"id":"8d66f5d55500c76b","type":"text","text":"[[DNS, Domain, IP]]","x":400,"y":80,"width":250,"height":60},
 		{"id":"fa1d97ffd04c0874","type":"text","text":"[[Кэширование]]","x":-540,"y":640,"width":250,"height":60},
-		{"id":"73ba9bc3798cc54c","type":"text","text":"[[Что происходит после вбития адреса в строку]]","x":-540,"y":700,"width":250,"height":65}
+		{"id":"73ba9bc3798cc54c","type":"text","text":"[[Что происходит после вбития адреса в строку]]","x":-540,"y":700,"width":250,"height":65},
+		{"id":"840529d963d88e37","x":221,"y":154,"width":250,"height":60,"type":"text","text":"[[CMD - команды]]"},
+		{"id":"8a7a14a127843be4","x":228,"y":376,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }

@@ -25,17 +25,14 @@
             "id": "ad9fbf9a61329dbf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
-                "viewState": {
-                  "x": 45,
-                  "y": 302.5,
-                  "zoom": -0.11276216642507278
-                }
+                "file": "CMD - команды.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1 QA"
+              "icon": "lucide-file",
+              "title": "CMD - команды"
             }
           }
         ],
@@ -215,8 +212,9 @@
   },
   "active": "ad9fbf9a61329dbf",
   "lastOpenFiles": [
-    "Тестирование ПО/QA/DNS, Domain, IP.md",
     "Тестирование ПО/QA/1 QA.canvas",
+    "CMD - команды.md",
+    "Тестирование ПО/QA/DNS, Domain, IP.md",
     "Тестирование ПО/QA/Кэширование.md",
     "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
     "ER - диаграмма.md",
@@ -253,7 +251,6 @@
     "fin/Наценка.md",
     "fin/Маржа.md",
     "fin/валовая маржа.md",
-    "templates/Concept.md",
     "Lua.canvas",
     "Algo/Lua",
     "Algo",
