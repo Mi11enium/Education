@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
+                "file": "Тестирование ПО/QA/100 Year QA.canvas",
                 "viewState": {
-                  "x": -255,
-                  "y": 240,
-                  "zoom": 0
+                  "x": 457.9751390648853,
+                  "y": 210.6647050226453,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -198,22 +198,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0c23068d9a9cd14",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
     "ER - диаграмма.md",
-    "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
-    "Тестирование ПО/Mentorpiece/Отношения.md",
-    "Тестирование ПО/Mentorpiece/Отношения и типы данных.md",
-    "Тестирование ПО/Mentorpiece/Типы данных.md",
-    "Тестирование ПО/Mentorpiece/Q Базы данных.md",
+    "Тестирование ПО/QA/100 Year QA.canvas",
+    "Тестирование ПО/QA/Отношения.md",
+    "Тестирование ПО/QA/Отношения и типы данных.md",
+    "Тестирование ПО/QA/Типы данных.md",
+    "Тестирование ПО/QA/Q Базы данных.md",
     "Python.canvas",
     "pass.md",
-    "Тестирование ПО/Mentorpiece/Термины БД.md",
-    "Тестирование ПО/Mentorpiece/Реляционные базы данных.md",
-    "Тестирование ПО/Mentorpiece/Первичный ключ (PK).md",
-    "Тестирование ПО/Mentorpiece/Внешний ключ (FK).md",
+    "Тестирование ПО/QA/Термины БД.md",
+    "Тестирование ПО/QA/Реляционные базы данных.md",
+    "Тестирование ПО/QA/Первичный ключ (PK).md",
+    "Тестирование ПО/QA/Внешний ключ (FK).md",
     "zpic/Pasted image 20221031213049.png",
-    "Тестирование ПО/Mentorpiece",
+    "Тестирование ПО/QA",
     "zpic/Pasted image 20221031213311.png",
     "zpic/Pasted image 20230404160504.png",
     "zpic/Pasted image 20230404162758.png",
