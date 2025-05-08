@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "python",
+  "search": "",
   "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.740497823076593,
+  "scale": 1.7404978230765962,
   "close": false
 }
