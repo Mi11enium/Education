@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"1eede85ebc609790","x":-220,"y":296,"width":250,"height":60,"type":"text","text":""},
 		{"id":"31380a04ab1b24aa","type":"text","text":"2. [[Реляционные базы данных]]","x":-220,"y":-160,"width":250,"height":60},
 		{"id":"5dbfbdf96dd3e2ab","type":"text","text":"[[Термины БД]]","x":-200,"y":-100,"width":250,"height":60},
 		{"id":"19db0b41a8833a2f","type":"text","text":"[[Первичный ключ (PK)]]","x":-200,"y":-40,"width":250,"height":60},
@@ -9,7 +8,8 @@
 		{"id":"6cc165584bbecc09","type":"text","text":"[[Отношения]]","x":-200,"y":140,"width":250,"height":60},
 		{"id":"8ddc65ff92f26289","type":"text","text":"[[Типы данных]]","x":-200,"y":200,"width":250,"height":60},
 		{"id":"c68e5cf9291d07c6","type":"text","text":"Вопросы","x":-560,"y":520,"width":250,"height":60},
-		{"id":"c8f3ec29c14f2508","type":"text","text":"[[Q Базы данных]]","x":-540,"y":580,"width":250,"height":60}
+		{"id":"c8f3ec29c14f2508","type":"text","text":"[[Q Базы данных]]","x":-540,"y":580,"width":250,"height":60},
+		{"id":"1eede85ebc609790","x":-200,"y":260,"width":250,"height":60,"type":"text","text":"[[ER - диаграмма]]"}
 	],
 	"edges":[]
 }

@@ -11,17 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
-                "viewState": {
-                  "x": -95,
-                  "y": 326,
-                  "zoom": 0
-                }
+                "file": "ER - диаграмма.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "100 Year QA"
+              "icon": "lucide-file",
+              "title": "ER - диаграмма"
             }
           }
         ]
@@ -200,10 +197,11 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
+    "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
+    "ER - диаграмма.md",
     "Тестирование ПО/Mentorpiece/Отношения.md",
     "Тестирование ПО/Mentorpiece/Отношения и типы данных.md",
     "Тестирование ПО/Mentorpiece/Типы данных.md",
-    "Тестирование ПО/Mentorpiece/100 Year QA.canvas",
     "Тестирование ПО/Mentorpiece/Q Базы данных.md",
     "Python.canvas",
     "pass.md",
@@ -239,7 +237,6 @@
     "Переменные.md",
     "Базовая информация.md",
     "Algo/Lua/Типы данных.md",
-    "Тестирование ПО/Git/Основы.md",
     "Algo/Lua",
     "Algo",
     "Untitled.canvas",
