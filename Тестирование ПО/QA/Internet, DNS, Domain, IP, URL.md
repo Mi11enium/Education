@@ -76,3 +76,7 @@ URL
 | **Путь (Path)**      | Путь к конкретной странице или файлу на сервере                       | `/path/to/page`                     |
 | **Запрос (Query)**   | Параметры запроса (начинаются с `?`, разделяются `&`)                 | `?query=value`                      |
 | **Якорь (Fragment)** | Ссылка на конкретную часть страницы (начинается с `#`)                | `#section`                          |
+
+## URI URL URN
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdaXK48broc?si=9ahjQVpQcdKlomdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
