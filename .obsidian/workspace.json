@@ -11,17 +11,14 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
-                "viewState": {
-                  "x": 45,
-                  "y": 370,
-                  "zoom": -0.30930116047195966
-                }
+                "file": "Тестирование ПО/QA/Internet, DNS, Domain, IP, URL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1 QA"
+              "icon": "lucide-file",
+              "title": "Internet, DNS, Domain, IP, URL"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
+                "file": "Тестирование ПО/QA/Internet, DNS, Domain, IP, URL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 QA"
+              "title": "Outline of Internet, DNS, Domain, IP, URL"
             }
           },
           {
@@ -203,8 +200,8 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "Тестирование ПО/QA/Internet, DNS, Domain, IP, URL.md",
     "Тестирование ПО/QA/1 QA.canvas",
+    "Тестирование ПО/QA/Internet, DNS, Domain, IP, URL.md",
     "Тестирование ПО/QA/Internet.md",
     "ER - диаграмма.md",
     "Тестирование ПО/QA/CMD - команды.md",
