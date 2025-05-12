@@ -14,7 +14,7 @@
 		{"id":"73ba9bc3798cc54c","type":"text","text":"[[Что происходит после вбития адреса в строку]]","x":-540,"y":700,"width":250,"height":65},
 		{"id":"840529d963d88e37","type":"text","text":"[[CMD - команды]]","x":-220,"y":840,"width":250,"height":60},
 		{"id":"8d66f5d55500c76b","type":"text","text":"[[Internet, DNS, Domain, IP, URL]]","x":400,"y":20,"width":250,"height":60},
-		{"id":"bf7ad0f4f592132d","type":"text","text":"[[КС - Архитектура, OSI, TCP-UDP-QUIC]]","x":400,"y":80,"width":250,"height":60}
+		{"id":"bf7ad0f4f592132d","type":"text","text":"[[КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация]]","x":400,"y":80,"width":250,"height":60}
 	],
 	"edges":[]
 }
