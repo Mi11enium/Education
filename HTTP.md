@@ -28,3 +28,10 @@ HTTP - Hyper Text Transfer Protocol - <mark style="background: #FF5582A6;">Пр�
 ## Body
 - request body - тело запроса
 - response body - тело ответа
+
+Типы данных в body:
+- JSON
+- XML
+- form-data
+- text
+- ...

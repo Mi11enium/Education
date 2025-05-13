@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec14cc1c6d67903",
+        "id": "29532f0e882375de",
         "type": "tabs",
         "children": [
           {
-            "id": "e4a7d0bce40f7ac8",
+            "id": "fd074f5806359909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP.md",
+                "file": "Вопросы на собесе.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "Вопросы на собесе"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP.md",
+                "file": "Вопросы на собесе.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTP"
+              "title": "Outline of Вопросы на собесе"
             }
           },
           {
@@ -198,14 +198,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4a7d0bce40f7ac8",
+  "active": "fd074f5806359909",
   "lastOpenFiles": [
-    "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
     "Тестирование ПО/QA/1 QA.canvas",
     "HTTP.md",
-    "Тестирование ПО/QA/Q Базы данных.md",
-    "Тестирование ПО/QA/Типы данных.md",
+    "Вопросы на собесе.md",
     "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
+    "Тестирование ПО/QA/Внешний ключ (FK).md",
+    "Тестирование ПО/QA/Кэширование.md",
+    "Тестирование ПО/QA/Q Базы данных.md",
+    "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
+    "Тестирование ПО/QA/Типы данных.md",
     "Тестирование ПО/QA/Internet, DNS, Domain, IP, URL.md",
     "Тестирование ПО/QA/CMD - команды.md",
     "Тестирование ПО/QA/Термины БД.md",
@@ -213,8 +216,6 @@
     "Тестирование ПО/QA/Первичный ключ (PK).md",
     "Тестирование ПО/QA/Отношения и типы данных.md",
     "Тестирование ПО/QA/Отношения.md",
-    "Тестирование ПО/QA/Кэширование.md",
-    "Тестирование ПО/QA/Внешний ключ (FK).md",
     "Pasted image 20250510001034.png",
     "Pasted image 20250510001028.png",
     "Pasted image 20250510001023.png",
@@ -240,7 +241,6 @@
     "fin/LTV.md",
     "fin/чистая маржа.md",
     "fin/операционная маржа.md",
-    "fin/Наценка.md",
     "Lua.canvas",
     "Algo/Lua",
     "Algo",
