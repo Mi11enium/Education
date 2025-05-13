@@ -35,3 +35,14 @@ HTTP - Hyper Text Transfer Protocol - <mark style="background: #FF5582A6;">Пр�
 - form-data
 - text
 - ...
+
+## Statuses
+
+2** - success
+ - 200 - OK
+ - 201 - Created
+3** - redirect
+- 301 - Moved Permanently - перенаправление на новый постоянный URL
+- 302 - Mover Temporarily - временное перенаправление
+4** client error
+- 400 - Bad request (неправильное тело)
