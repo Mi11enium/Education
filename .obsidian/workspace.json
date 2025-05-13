@@ -11,14 +11,17 @@
             "id": "c0c23068d9a9cd14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
-                "mode": "source",
-                "source": false
+                "file": "Тестирование ПО/QA/1 QA.canvas",
+                "viewState": {
+                  "x": 101.99893730074405,
+                  "y": 184.1339001062699,
+                  "zoom": -0.30930116047195966
+                }
               },
-              "icon": "lucide-file",
-              "title": "КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация"
+              "icon": "lucide-layout-dashboard",
+              "title": "1 QA"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
+                "file": "Тестирование ПО/QA/1 QA.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация"
+              "title": "Outline of 1 QA"
             }
           },
           {
@@ -200,8 +203,8 @@
   },
   "active": "c0c23068d9a9cd14",
   "lastOpenFiles": [
-    "Тестирование ПО/QA/1 QA.canvas",
     "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
+    "Тестирование ПО/QA/1 QA.canvas",
     "Тестирование ПО/QA/Q Базы данных.md",
     "Тестирование ПО/QA/Типы данных.md",
     "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
