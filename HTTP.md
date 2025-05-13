@@ -68,3 +68,15 @@ HTTP - Hyper Text Transfer Protocol - <mark style="background: #FF5582A6;">Пр�
 - 502 - Bad Gateway - прокси сервер не получил ответ от основного сервера
 - 503 - Service Unavaliable - сервер временно недоступен (перегрузка, техработы)
 - 504 - Gateway Timeout - прокси не дождался ответа основного сервера
+
+# Headers
+заголовки, дополнительная информация
+
+- Request/response headers
+- Examples: 
+	- Authorization: token
+	- Cookie + Set-Cookie
+	- Content-Type: text/html
+	- Content-Encoding: gzip
+	- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+	- Referer, CORS headers, Caching headers - homework
