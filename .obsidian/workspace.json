@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35060c66831a0b13",
+        "id": "8ec14cc1c6d67903",
         "type": "tabs",
         "children": [
           {
-            "id": "c0c23068d9a9cd14",
+            "id": "e4a7d0bce40f7ac8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
-                "viewState": {
-                  "x": 45,
-                  "y": 370,
-                  "zoom": -0.30930116047195966
-                }
+                "file": "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1 QA"
+              "icon": "lucide-file",
+              "title": "КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
+                "file": "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 QA"
+              "title": "Outline of КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация"
             }
           },
           {
@@ -201,10 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0c23068d9a9cd14",
+  "active": "e4a7d0bce40f7ac8",
   "lastOpenFiles": [
-    "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
     "Тестирование ПО/QA/1 QA.canvas",
+    "HTTP.md",
+    "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
     "Тестирование ПО/QA/Q Базы данных.md",
     "Тестирование ПО/QA/Типы данных.md",
     "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
@@ -243,7 +241,6 @@
     "fin/чистая маржа.md",
     "fin/операционная маржа.md",
     "fin/Наценка.md",
-    "fin/Маржа.md",
     "Lua.canvas",
     "Algo/Lua",
     "Algo",
