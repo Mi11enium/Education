@@ -13,3 +13,14 @@
 |                     |                                 |                                                      |              |
 # Кто решает какую версию протокола использовать?
 Мультиплексирование (multiplexing) - передача нескольких потоков данных по одному каналу связи.
+
+Header
+Connection: keep-alive
+Connection: close
+
+# HTTP + TLS = HTTPS (Secure HTTP)
+TLS - Transport Layer Security - протокол защиты транспортного уровня
+
+HTTPS 1.1: HTTP + TLS (optional) + TCP
+HTTPS 2: HTTP + TLS + TCP
+HTTPS 3: HTTP + TLS + UDP
