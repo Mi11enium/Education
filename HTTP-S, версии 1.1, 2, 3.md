@@ -23,4 +23,9 @@ TLS - Transport Layer Security - протокол защиты транспор�
 
 HTTPS 1.1: HTTP + TLS (optional) + TCP
 HTTPS 2: HTTP + TLS + TCP
-HTTPS 3: HTTP + TLS + UDP
+HTTPS 3: HTTP + TLS + QUIC
+
+# SSL сертификаты
+Что такое SSL - сертификат?
+Кем выдается?
+Как используется?
