@@ -15,7 +15,8 @@
 		{"id":"bf7ad0f4f592132d","type":"text","text":"[[КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация]]","x":400,"y":80,"width":250,"height":60},
 		{"id":"4cc04cf1f41d1520","type":"text","text":"[[HTTP, методы, коды ответов]]","x":400,"y":140,"width":250,"height":60},
 		{"id":"955e0a57e43fbe4d","type":"text","text":"[[HTTP-S, версии 1.1, 2, 3, SSL]]","x":400,"y":200,"width":250,"height":60},
-		{"id":"201f5cdfcba671cb","x":400,"y":260,"width":250,"height":60,"type":"text","text":"[[Порты, длина URL]]"}
+		{"id":"201f5cdfcba671cb","type":"text","text":"[[Порты, длина URL]]","x":400,"y":260,"width":250,"height":60},
+		{"id":"1a56852a747c9514","x":400,"y":320,"width":250,"height":60,"type":"text","text":"[[XML, JSON]]"}
 	],
 	"edges":[]
 }
