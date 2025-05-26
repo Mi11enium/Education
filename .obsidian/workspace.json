@@ -11,14 +11,17 @@
             "id": "9cf0e86b205c51f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "XML, JSON.md",
-                "mode": "source",
-                "source": false
+                "file": "Тестирование ПО/QA/1 QA.canvas",
+                "viewState": {
+                  "x": 668.6840745072562,
+                  "y": 474.0850159404889,
+                  "zoom": -0.30930116047195966
+                }
               },
-              "icon": "lucide-file",
-              "title": "XML, JSON"
+              "icon": "lucide-layout-dashboard",
+              "title": "1 QA"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XML, JSON.md",
+                "file": "Тестирование ПО/QA/1 QA.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of XML, JSON"
+              "title": "Outline of 1 QA"
             }
           },
           {
@@ -200,11 +203,11 @@
   },
   "active": "9cf0e86b205c51f4",
   "lastOpenFiles": [
+    "XML, JSON.md",
     "Тестирование ПО/QA/1 QA.canvas",
     "Тестирование ПО/QA/HTTP, методы, коды ответов.md",
     "Тестирование ПО/QA/Internet, DNS, Domain, IP, URL.md",
     "КС - Архитектура, OSI, TCP/UDP/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
-    "XML, JSON.md",
     "Порты, длина URL.md",
     "Тестирование ПО/QA/CMD - команды.md",
     "Pasted image 20250521012816.png",
