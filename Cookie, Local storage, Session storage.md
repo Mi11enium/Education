@@ -10,9 +10,39 @@
 Set-Cookie, Cookie headers
 
 ## Атрибуты cookie
-1. domain
-2. path
-3. expires
+1. domain=domain.com
+2. path=/
+3. expires, max-age
 4. secure
-5. httpOnly
+5. httpOnly (data from server only)
 6. SameSite
+
+Как сделать так, чтобы Javascript код на клиенте не смог прочитать cookie?
+Должен стоять атрибут httpOnly
+
+Как сделать так, чтобы cookie передавались только по HTTPS?
+Должен быть атрибут secure
+
+Может ли в значении cookie содержаться пробел?
+?
+
+# Local storage
+это хранилище данных в формате ключ/значение без срока давности
+
+Что может хранить?
+
+# Session storage
+это хранилище данных в формате ключ/значение существующее в рамках текущей вкладки
+
+
+
+
+# Отличия
+Кто является поставщиком данных?
+Cookie - сервер
+Local storage - браузер
+
+
+Время экспирации
+Cookie - имеет срок истечения
+Local storage - не имеет срока истечения
