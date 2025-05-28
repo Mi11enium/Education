@@ -11,17 +11,14 @@
             "id": "9cf0e86b205c51f4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
-                "viewState": {
-                  "x": 45,
-                  "y": 370,
-                  "zoom": -0.30930116047195966
-                }
+                "file": "Cookie, Local storage, Session storage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1 QA"
+              "icon": "lucide-file",
+              "title": "Cookie, Local storage, Session storage"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование ПО/QA/1 QA.canvas",
+                "file": "Cookie, Local storage, Session storage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 QA"
+              "title": "Outline of Cookie, Local storage, Session storage"
             }
           },
           {
@@ -203,8 +200,9 @@
   },
   "active": "9cf0e86b205c51f4",
   "lastOpenFiles": [
-    "Client cache, Server cache.md",
     "Тестирование ПО/QA/1 QA.canvas",
+    "Cookie, Local storage, Session storage.md",
+    "Client cache, Server cache.md",
     "XML, JSON.md",
     "Порты, длина URL.md",
     "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
@@ -243,7 +241,6 @@
     "zpic/Pasted image 20230404162758.png",
     "zpic/Pasted image 20230404221038.png",
     "Programming/vol 3/Основы философии/Основные термины (1).md",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/Вебинары/1.md",
     "fin/Finance.canvas",
     "Lua.canvas",
     "Algo/Lua",
