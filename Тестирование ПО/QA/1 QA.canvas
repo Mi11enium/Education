@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"5e16781dc09ee2e0","x":-80,"y":340,"width":250,"height":60,"type":"text","text":""},
 		{"id":"31380a04ab1b24aa","type":"text","text":"2. [[Реляционные базы данных]]","x":-220,"y":-160,"width":250,"height":60},
 		{"id":"5dbfbdf96dd3e2ab","type":"text","text":"[[Термины БД]]","x":-200,"y":-100,"width":250,"height":60},
 		{"id":"19db0b41a8833a2f","type":"text","text":"[[Первичный ключ (PK)]]","x":-200,"y":-40,"width":250,"height":60},
@@ -17,7 +18,7 @@
 		{"id":"955e0a57e43fbe4d","type":"text","text":"[[HTTP-S, версии 1.1, 2, 3, SSL]]","x":400,"y":200,"width":250,"height":60},
 		{"id":"201f5cdfcba671cb","type":"text","text":"[[Порты, длина URL]]","x":400,"y":260,"width":250,"height":60},
 		{"id":"1a56852a747c9514","type":"text","text":"[[XML, JSON]]","x":400,"y":320,"width":250,"height":60},
-		{"id":"07824cc1a079b1e9","x":400,"y":380,"width":250,"height":60,"type":"text","text":"[[Браузер кэш, сервер кэш]]"}
+		{"id":"07824cc1a079b1e9","type":"text","text":"[[Client cache, Server cache]]","x":400,"y":380,"width":250,"height":60}
 	],
 	"edges":[]
 }
