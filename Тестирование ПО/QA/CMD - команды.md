@@ -20,3 +20,19 @@ cls
 
 ## Просмотр текущей папки
 dir /b
+
+## Создать папку
+mkdir name1 name2 name3 ...
+
+## Удалить папку
+rmdir name1 name2 name3 ...
+
+## Создать файл
+type name.format
+type newdoc.txt
+
+## Просмотреть документ
+namedoc.format
+
+## Просмотр IP адресов подключенных устройств или программ
+ipconfig
