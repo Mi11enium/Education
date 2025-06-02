@@ -18,7 +18,8 @@
 		{"id":"201f5cdfcba671cb","type":"text","text":"[[Порты, длина URL]]","x":400,"y":260,"width":250,"height":60},
 		{"id":"1a56852a747c9514","type":"text","text":"[[XML, JSON]]","x":400,"y":320,"width":250,"height":60},
 		{"id":"07824cc1a079b1e9","type":"text","text":"[[Client cache, Server cache]]","x":400,"y":380,"width":250,"height":60},
-		{"id":"5e16781dc09ee2e0","x":400,"y":440,"width":250,"height":60,"type":"text","text":"[[Cookie, Local storage, Session storage]]"}
+		{"id":"5e16781dc09ee2e0","type":"text","text":"[[Cookie, Local storage, Session storage]]","x":400,"y":440,"width":250,"height":60},
+		{"id":"b9cf8e844a1b025d","x":400,"y":500,"width":250,"height":60,"type":"text","text":"[[Chrome Dev Tools]]"}
 	],
 	"edges":[]
 }
