@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chrome Dev Tools.md",
+                "file": "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chrome Dev Tools"
+              "title": "HTTP-S, версии 1.1, 2, 3, SSL"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chrome Dev Tools.md",
+                "file": "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chrome Dev Tools"
+              "title": "Outline of HTTP-S, версии 1.1, 2, 3, SSL"
             }
           },
           {
