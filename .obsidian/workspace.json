@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client cache, Server cache.md",
+                "file": "Chrome Dev Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client cache, Server cache"
+              "title": "Chrome Dev Tools"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Client cache, Server cache.md",
+                "file": "Chrome Dev Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Client cache, Server cache"
+              "title": "Outline of Chrome Dev Tools"
             }
           },
           {
@@ -200,11 +200,11 @@
   },
   "active": "9cf0e86b205c51f4",
   "lastOpenFiles": [
+    "Тестирование ПО/QA/1 QA.canvas",
+    "Client cache, Server cache.md",
     "Cookie, Local storage, Session storage.md",
     "Chrome Dev Tools.md",
     "Порты, длина URL.md",
-    "Тестирование ПО/QA/1 QA.canvas",
-    "Client cache, Server cache.md",
     "Тестирование ПО/QA/CMD - команды.md",
     "XML, JSON.md",
     "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
