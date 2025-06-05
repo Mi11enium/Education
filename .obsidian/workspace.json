@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
+                "file": "HTML, CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что происходит после вбития адреса в строку"
+              "title": "HTML, CSS"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
+                "file": "HTML, CSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Что происходит после вбития адреса в строку"
+              "title": "Outline of HTML, CSS"
             }
           },
           {
@@ -201,6 +201,8 @@
   "active": "9cf0e86b205c51f4",
   "lastOpenFiles": [
     "Тестирование ПО/QA/1 QA.canvas",
+    "HTML, CSS.md",
+    "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
     "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
     "Client cache, Server cache.md",
     "Cookie, Local storage, Session storage.md",
@@ -222,7 +224,6 @@
     "Тестирование ПО/QA/Вопросы на собесе.md",
     "HTTP/S, версии 1.1, 2, 3.md",
     "HTTP",
-    "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
     "Тестирование ПО/QA/Внешний ключ (FK).md",
     "Тестирование ПО/QA/Кэширование.md",
     "Тестирование ПО/QA/Q Базы данных.md",
@@ -234,7 +235,6 @@
     "Тестирование ПО/QA/Отношения.md",
     "КС - Архитектура, OSI, TCP/UDP",
     "КС - Архитектура, OSI, TCP",
-    "Тестирование ПО/QA/Internet.md",
     "zpic/Pasted image 20221031213049.png",
     "Тестирование ПО/QA",
     "zpic/Pasted image 20221031213311.png",

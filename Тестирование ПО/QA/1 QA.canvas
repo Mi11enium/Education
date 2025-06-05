@@ -19,7 +19,8 @@
 		{"id":"07824cc1a079b1e9","type":"text","text":"[[Client cache, Server cache]]","x":400,"y":380,"width":250,"height":60},
 		{"id":"5e16781dc09ee2e0","type":"text","text":"[[Cookie, Local storage, Session storage]]","x":400,"y":440,"width":250,"height":60},
 		{"id":"b9cf8e844a1b025d","type":"text","text":"[[Chrome Dev Tools]]","x":400,"y":500,"width":250,"height":60},
-		{"id":"73ba9bc3798cc54c","type":"text","text":"[[Что происходит после вбития адреса в строку]]","x":400,"y":560,"width":250,"height":65}
+		{"id":"73ba9bc3798cc54c","type":"text","text":"[[Что происходит после вбития адреса в строку]]","x":400,"y":560,"width":250,"height":65},
+		{"id":"7e074bff5e9b8f44","x":740,"y":20,"width":250,"height":60,"type":"text","text":"[[HTML, CSS]]"}
 	],
 	"edges":[]
 }
