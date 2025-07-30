@@ -11,14 +11,17 @@
             "id": "3852c1788c302dbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Базовые элементы.md",
-                "mode": "source",
-                "source": false
+                "file": "Python.canvas",
+                "viewState": {
+                  "x": -3065.050536789925,
+                  "y": -2920.771200932102,
+                  "zoom": -2.4865890330704463
+                }
               },
-              "icon": "lucide-file",
-              "title": "Базовые элементы"
+              "icon": "lucide-layout-dashboard",
+              "title": "Python"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовые элементы.md",
+                "file": "Python.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Базовые элементы"
+              "title": "Outline of Python"
             }
           },
           {
@@ -200,11 +203,11 @@
   },
   "active": "3852c1788c302dbb",
   "lastOpenFiles": [
+    "BMPN/BPMN.canvas",
+    "Базовые элементы.md",
     "Pasted image 20250730112259.png",
     "Pasted image 20250730111711.png",
     "Pasted image 20250730111030.png",
-    "BMPN/BPMN.canvas",
-    "Базовые элементы.md",
     "BMPN/BPMN - Что это такое.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "BMPN",
@@ -244,7 +247,6 @@
     "zpic/Pasted image 20221031213049.png",
     "Тестирование ПО/QA",
     "zpic/Pasted image 20221031213311.png",
-    "zpic/Pasted image 20230404160504.png",
     "fin/Finance.canvas",
     "Lua.canvas",
     "Algo/Lua",
