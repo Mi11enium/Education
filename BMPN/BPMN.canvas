@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"26cbd4f36c992db2","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"[[BPMN - Что это такое]]"}
+		{"id":"26cbd4f36c992db2","type":"text","text":"[[BPMN - Что это такое]]","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"5a323e8a26ea08db","x":-125,"y":30,"width":250,"height":60,"type":"text","text":"[[Базовые элементы]]"}
 	],
 	"edges":[]
 }
