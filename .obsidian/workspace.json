@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BMPN/Базовые элементы.md",
+                "file": "BMPN/BPMN - Что это такое.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Базовые элементы"
+              "title": "BPMN - Что это такое"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BMPN/Базовые элементы.md",
+                "file": "BMPN/BPMN - Что это такое.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Базовые элементы"
+              "title": "Outline of BPMN - Что это такое"
             }
           },
           {
