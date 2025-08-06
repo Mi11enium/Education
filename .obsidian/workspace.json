@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что такое API.md",
+                "file": "Оркестровка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что такое API"
+              "title": "Оркестровка"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что такое API.md",
+                "file": "Оркестровка.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Что такое API"
+              "title": "Outline of Оркестровка"
             }
           },
           {
@@ -200,22 +200,26 @@
   },
   "active": "3852c1788c302dbb",
   "lastOpenFiles": [
-    "API/API Canvas.canvas",
-    "Что такое API.md",
+    "BMPN/BPMN.canvas",
+    "Оркестровка.md",
+    "BMPN/BPMN - Что это такое.md",
     "BMPN/Базовые элементы.md",
+    "BMPN/Виды диаграмм.md",
+    "Pasted image 20250806115923.png",
+    "Pasted image 20250806115806.png",
+    "Pasted image 20250806115450.png",
+    "Pasted image 20250806115245.png",
+    "Порты, длина URL.md",
+    "Что такое API.md",
+    "API/API Canvas.canvas",
     "API",
     "Pasted image 20250731201936.png",
     "Pasted image 20250731201827.png",
-    "BMPN/BPMN.canvas",
-    "BMPN/BPMN - Что это такое.md",
     "zpic/Pasted image 20250510000039.png",
     "zpic/Pasted image 20250731111308.png",
     "zpic/Pasted image 20250730210148.png",
     "zpic/Pasted image 20250730205831.png",
     "Python.canvas",
-    "zpic/Pasted image 20250730112259.png",
-    "zpic/Pasted image 20250730111711.png",
-    "zpic/Pasted image 20250730111030.png",
     "Обзор статей/Как грамотно составить резюме.md",
     "BMPN",
     "fin/Наценка.md",
@@ -237,11 +241,7 @@
     "Client cache, Server cache.md",
     "Cookie, Local storage, Session storage.md",
     "Chrome Dev Tools.md",
-    "Порты, длина URL.md",
     "Тестирование ПО/QA/CMD - команды.md",
-    "XML, JSON.md",
-    "Тестирование ПО/QA/HTTP, методы, коды ответов.md",
-    "zpic/Pasted image 20250521012816.png",
     "HTTP",
     "КС - Архитектура, OSI, TCP/UDP",
     "КС - Архитектура, OSI, TCP",
