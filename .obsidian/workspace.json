@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Оркестровка.md",
+                "file": "Виды стрелок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оркестровка"
+              "title": "Виды стрелок"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Оркестровка.md",
+                "file": "Виды стрелок.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Оркестровка"
+              "title": "Outline of Виды стрелок"
             }
           },
           {
@@ -200,9 +200,12 @@
   },
   "active": "3852c1788c302dbb",
   "lastOpenFiles": [
-    "Pasted image 20250806120507.png",
     "BMPN/BPMN.canvas",
+    "Виды стрелок.md",
+    "Порты, длина URL.md",
+    "Что такое API.md",
     "Оркестровка.md",
+    "Pasted image 20250806120507.png",
     "BMPN/BPMN - Что это такое.md",
     "BMPN/Базовые элементы.md",
     "BMPN/Виды диаграмм.md",
@@ -210,8 +213,6 @@
     "Pasted image 20250806115806.png",
     "Pasted image 20250806115450.png",
     "Pasted image 20250806115245.png",
-    "Порты, длина URL.md",
-    "Что такое API.md",
     "API/API Canvas.canvas",
     "API",
     "Pasted image 20250731201936.png",
@@ -219,7 +220,6 @@
     "zpic/Pasted image 20250510000039.png",
     "zpic/Pasted image 20250731111308.png",
     "zpic/Pasted image 20250730210148.png",
-    "zpic/Pasted image 20250730205831.png",
     "Python.canvas",
     "Обзор статей/Как грамотно составить резюме.md",
     "BMPN",
@@ -242,7 +242,6 @@
     "Client cache, Server cache.md",
     "Cookie, Local storage, Session storage.md",
     "Chrome Dev Tools.md",
-    "Тестирование ПО/QA/CMD - команды.md",
     "HTTP",
     "КС - Архитектура, OSI, TCP/UDP",
     "КС - Архитектура, OSI, TCP",
