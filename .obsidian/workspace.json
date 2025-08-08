@@ -11,14 +11,17 @@
             "id": "3852c1788c302dbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Виды стрелок.md",
-                "mode": "source",
-                "source": false
+                "file": "BMPN/BPMN.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 120,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Виды стрелок"
+              "icon": "lucide-layout-dashboard",
+              "title": "BPMN"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Виды стрелок.md",
+                "file": "BMPN/BPMN.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Виды стрелок"
+              "title": "Outline of BPMN"
             }
           },
           {
@@ -200,18 +203,19 @@
   },
   "active": "3852c1788c302dbb",
   "lastOpenFiles": [
+    "BMPN/Виды стрелок.md",
+    "BMPN/Базовые элементы.md",
+    "BMPN/BPMN - Что это такое.md",
+    "XML, JSON.md",
     "Pasted image 20250806125449.png",
     "Pasted image 20250806125404.png",
     "Pasted image 20250806125314.png",
     "Pasted image 20250806124600.png",
     "BMPN/BPMN.canvas",
-    "Виды стрелок.md",
     "Порты, длина URL.md",
     "Что такое API.md",
-    "Оркестровка.md",
+    "BMPN/Оркестровка.md",
     "Pasted image 20250806120507.png",
-    "BMPN/BPMN - Что это такое.md",
-    "BMPN/Базовые элементы.md",
     "BMPN/Виды диаграмм.md",
     "Pasted image 20250806115923.png",
     "Pasted image 20250806115806.png",
@@ -220,7 +224,6 @@
     "API/API Canvas.canvas",
     "API",
     "Pasted image 20250731201936.png",
-    "Pasted image 20250731201827.png",
     "Python.canvas",
     "Обзор статей/Как грамотно составить резюме.md",
     "BMPN",
