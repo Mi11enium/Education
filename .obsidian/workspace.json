@@ -11,17 +11,14 @@
             "id": "3852c1788c302dbb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "BMPN/BPMN.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 120,
-                  "zoom": 0
-                }
+                "file": "Виды задач (активностей).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BPMN"
+              "icon": "lucide-file",
+              "title": "Виды задач (активностей)"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BMPN/BPMN.canvas",
+                "file": "Виды задач (активностей).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BPMN"
+              "title": "Outline of Виды задач (активностей)"
             }
           },
           {
@@ -203,20 +200,22 @@
   },
   "active": "3852c1788c302dbb",
   "lastOpenFiles": [
-    "BMPN/Виды стрелок.md",
+    "BMPN/BPMN.canvas",
+    "Виды задач (активностей).md",
     "BMPN/Базовые элементы.md",
     "BMPN/BPMN - Что это такое.md",
+    "BMPN/Виды диаграмм.md",
+    "BMPN/Потоки.md",
+    "BMPN/Виды стрелок.md",
     "XML, JSON.md",
     "Pasted image 20250806125449.png",
     "Pasted image 20250806125404.png",
     "Pasted image 20250806125314.png",
     "Pasted image 20250806124600.png",
-    "BMPN/BPMN.canvas",
     "Порты, длина URL.md",
     "Что такое API.md",
     "BMPN/Оркестровка.md",
     "Pasted image 20250806120507.png",
-    "BMPN/Виды диаграмм.md",
     "Pasted image 20250806115923.png",
     "Pasted image 20250806115806.png",
     "Pasted image 20250806115450.png",
@@ -243,9 +242,6 @@
     "HTML, CSS.md",
     "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
     "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
-    "Client cache, Server cache.md",
-    "Cookie, Local storage, Session storage.md",
-    "Chrome Dev Tools.md",
     "HTTP",
     "КС - Архитектура, OSI, TCP/UDP",
     "КС - Архитектура, OSI, TCP",
