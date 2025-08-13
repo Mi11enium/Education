@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Виды задач (активностей).md",
+                "file": "Виды шлюзов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды задач (активностей)"
+              "title": "Виды шлюзов"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Виды задач (активностей).md",
+                "file": "Виды шлюзов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Виды задач (активностей)"
+              "title": "Outline of Виды шлюзов"
             }
           },
           {
@@ -200,36 +200,40 @@
   },
   "active": "3852c1788c302dbb",
   "lastOpenFiles": [
-    "Pasted image 20250812001836.png",
-    "Pasted image 20250812001749.png",
+    "Pasted image 20250814014853.png",
+    "Pasted image 20250814014622.png",
+    "Pasted image 20250814014454.png",
+    "Pasted image 20250814014427.png",
+    "Pasted image 20250814014310.png",
+    "Pasted image 20250814014236.png",
     "BMPN/BPMN.canvas",
-    "BMPN/Потоки.md",
+    "Виды шлюзов.md",
     "BMPN/Оркестровка.md",
+    "BMPN/Виды потоков.md",
+    "BMPN/Виды задач (активностей).md",
     "BMPN/Виды диаграмм.md",
     "BMPN/Базовые элементы.md",
+    "fin/валовая маржа.md",
+    "fin/Finance.canvas",
+    "fin/чистая маржа.md",
+    "fin/операционная маржа.md",
+    "fin/Маржа.md",
+    "BMPN/BPMN - Что это такое.md",
+    "Порты, длина URL.md",
+    "Pasted image 20250812001836.png",
+    "Pasted image 20250812001749.png",
     "zpic/Pasted image 20250731201827.png",
-    "Виды задач (активностей).md",
     "zpic/Pasted image 20250812001555.png",
     "zpic/Pasted image 20250812001455.png",
-    "BMPN/BPMN - Что это такое.md",
     "BMPN/Виды стрелок.md",
     "XML, JSON.md",
-    "zpic/Pasted image 20250806125449.png",
-    "zpic/Pasted image 20250806125404.png",
-    "zpic/Pasted image 20250806125314.png",
-    "zpic/Pasted image 20250806124600.png",
-    "Порты, длина URL.md",
     "Что такое API.md",
-    "zpic/Pasted image 20250806120507.png",
-    "zpic/Pasted image 20250806115923.png",
     "API/API Canvas.canvas",
     "API",
     "Python.canvas",
     "Обзор статей/Как грамотно составить резюме.md",
     "BMPN",
     "fin/Наценка.md",
-    "fin/Маржа.md",
-    "fin/валовая маржа.md",
     "templates/Concept.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/3. Анализ и моделирование функциональной области.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/2. Спецификация функциональных требований ИС.md",
@@ -240,14 +244,10 @@
     "Untitled.canvas",
     "Postman, API, Swagger.md",
     "Тестирование ПО/QA/1 QA.canvas",
-    "HTML, CSS.md",
-    "Тестирование ПО/QA/Что происходит после вбития адреса в строку.md",
-    "Тестирование ПО/QA/HTTP-S, версии 1.1, 2, 3, SSL.md",
     "HTTP",
     "КС - Архитектура, OSI, TCP/UDP",
     "КС - Архитектура, OSI, TCP",
     "Тестирование ПО/QA",
-    "fin/Finance.canvas",
     "Lua.canvas",
     "Algo/Lua",
     "Algo",
