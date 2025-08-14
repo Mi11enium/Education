@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1af019478083c2f",
+        "id": "6ca1edc2e5ccd64a",
         "type": "tabs",
         "children": [
           {
-            "id": "3852c1788c302dbb",
+            "id": "75a8a87fc05e310f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C Sharp/Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Типы данных переменных.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Типы данных переменных"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Untitled 1.canvas",
+                "file": "Типы данных переменных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Типы данных переменных"
             }
           },
           {
@@ -201,17 +198,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5005e377ebd9acc",
+  "active": "75a8a87fc05e310f",
   "lastOpenFiles": [
-    "Обзор статей/Как грамотно составить резюме.md",
     "C Sharp/Untitled 1.canvas",
+    "Типы данных переменных.md",
+    "Переменные.md",
+    "Виды шлюзов.md",
+    "Обзор статей/Как грамотно составить резюме.md",
     "C Sharp",
     "templates/Concept.md",
     "Programming/Оформление/Работа в Word и Excel.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/4. ТЗ на разработку ИС.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
     "API/API Canvas.canvas",
-    "Виды шлюзов.md",
     "Pasted image 20250814015232.png",
     "Pasted image 20250814015209.png",
     "Pasted image 20250814014853.png",
@@ -244,8 +243,6 @@
     "fin/Наценка.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/3. Анализ и моделирование функциональной области.md",
     "Programming/vol 3/Проектирование и дизайн информационных систем/2. Спецификация функциональных требований ИС.md",
-    "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
-    "Тестирование ПО/QA/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
     "Untitled.canvas",
     "Тестирование ПО/QA/1 QA.canvas",
     "HTTP",
