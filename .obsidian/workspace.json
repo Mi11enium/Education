@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Типы данных переменных.md",
+                "file": "C Sharp/Переменные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы данных переменных"
+              "title": "Переменные"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Типы данных переменных.md",
+                "file": "C Sharp/Переменные.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типы данных переменных"
+              "title": "Outline of Переменные"
             }
           },
           {
@@ -200,9 +200,9 @@
   },
   "active": "75a8a87fc05e310f",
   "lastOpenFiles": [
+    "C Sharp/Типы данных переменных.md",
     "C Sharp/Untitled 1.canvas",
-    "Типы данных переменных.md",
-    "Переменные.md",
+    "C Sharp/Переменные.md",
     "Виды шлюзов.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "C Sharp",
