@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convert.md",
+                "file": "Конвертация типов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convert"
+              "title": "Конвертация типов"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convert.md",
+                "file": "Конвертация типов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Convert"
+              "title": "Outline of Конвертация типов"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "51047c548991bc84",
   "lastOpenFiles": [
-    "C Sharp/Untitled 1.canvas",
     "Convert.md",
+    "C Sharp/Untitled 1.canvas",
     "C Sharp/Арифметические операции.md",
     "Untitled.canvas",
     "Конвертация типов.md",
