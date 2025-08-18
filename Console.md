@@ -33,3 +33,14 @@
 |`Console.ResetColor()`|Сбрасывает цвета по умолчанию|`Console.ResetColor();`|
 |`Console.Title`|Заголовок окна консоли|`Console.Title = "Моя программа";`|
 |`Console.Beep()`|Издаёт звуковой сигнал (писк)|`Console.Beep();`|
+
+## Частые ошибки
+
+- ❌ Использовать `ReadLine()` для чисел без преобразования:
+    `int x = Console.ReadLine(); // Ошибка`
+    ✅ Правильно:
+    `int x = int.Parse(Console.ReadLine());`
+
+- ❌ Забыть `ReadKey()` → окно мгновенно закроется.
+    
+- ❌ Смешивать `Write` и `WriteLine` и путаться в строках.
