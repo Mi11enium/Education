@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Арифметические операции.md",
+                "file": "Console.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Арифметические операции"
+              "title": "Console"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Арифметические операции.md",
+                "file": "Console.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Арифметические операции"
+              "title": "Outline of Console"
             }
           },
           {
@@ -215,10 +215,12 @@
   },
   "active": "51047c548991bc84",
   "lastOpenFiles": [
+    "C Sharp/Untitled 1.canvas",
+    "Console.md",
+    "C Sharp/Арифметические операции.md",
+    "Тестирование ПО/QA/Порты, длина URL.md",
     "C Sharp/Конвертация типов.md",
     "Convert.md",
-    "C Sharp/Untitled 1.canvas",
-    "C Sharp/Арифметические операции.md",
     "Untitled.canvas",
     "C Sharp/Конкатенация.md",
     "C Sharp/Логические операторы.md",
@@ -238,7 +240,6 @@
     "Тестирование ПО/QA/Cookie, Local storage, Session storage.md",
     "Тестирование ПО/QA/Client cache, Server cache.md",
     "Тестирование ПО/QA/Chrome Dev Tools.md",
-    "Тестирование ПО/QA/Порты, длина URL.md",
     "BMPN/Виды шлюзов.md",
     "Обзор статей/Как грамотно составить резюме.md",
     "C Sharp",
@@ -255,7 +256,6 @@
     "BMPN/BPMN.canvas",
     "BMPN/Оркестровка.md",
     "BMPN/Виды потоков.md",
-    "BMPN/Виды задач (активностей).md",
     "fin/Finance.canvas",
     "zpic/Pasted image 20250812001836.png",
     "API",
