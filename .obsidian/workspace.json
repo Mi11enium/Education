@@ -25,17 +25,14 @@
             "id": "51047c548991bc84",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C Sharp/Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 90,
-                  "zoom": 0
-                }
+                "file": "Конкатенация.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Конкатенация"
             }
           }
         ],
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Untitled 1.canvas",
+                "file": "Конкатенация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Конкатенация"
             }
           },
           {
@@ -218,11 +215,12 @@
   },
   "active": "51047c548991bc84",
   "lastOpenFiles": [
+    "C Sharp/Untitled 1.canvas",
+    "Конкатенация.md",
     "C Sharp/Логические операторы.md",
     "C Sharp/Арифметические операции.md",
     "C Sharp/Типы данных переменных.md",
     "C Sharp/Переменные.md",
-    "C Sharp/Untitled 1.canvas",
     "Untitled.canvas",
     "Тестирование ПО/Python/Python.canvas",
     "API/Что такое API.md",
@@ -258,7 +256,6 @@
     "BMPN/Виды задач (активностей).md",
     "BMPN/Виды диаграмм.md",
     "BMPN/Базовые элементы.md",
-    "fin/валовая маржа.md",
     "fin/Finance.canvas",
     "zpic/Pasted image 20250812001836.png",
     "API",
