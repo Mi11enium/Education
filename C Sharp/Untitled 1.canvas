@@ -7,7 +7,8 @@
 		{"id":"cb7a8febd615d083","type":"text","text":"[[Конкатенация]]","x":-125,"y":210,"width":250,"height":60},
 		{"id":"742f9bf8155136db","type":"text","text":"[[Конвертация типов]]","x":-125,"y":270,"width":250,"height":60},
 		{"id":"3ae85ba34eda1ff1","type":"text","text":"[[Convert]]","x":220,"y":360,"width":250,"height":60},
-		{"id":"04575da69fec83df","x":220,"y":420,"width":250,"height":60,"type":"text","text":"[[Console]]"}
+		{"id":"04575da69fec83df","type":"text","text":"[[Console]]","x":220,"y":420,"width":250,"height":60},
+		{"id":"61e4f947173a30ff","x":-140,"y":390,"width":250,"height":60,"type":"text","text":"[[Ошибки вывода]]"}
 	],
 	"edges":[]
 }
