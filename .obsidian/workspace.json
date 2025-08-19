@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "int.md",
+                "file": "C Sharp/Конвертация типов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "int"
+              "title": "Конвертация типов"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "int.md",
+                "file": "C Sharp/Конвертация типов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of int"
+              "title": "Outline of Конвертация типов"
             }
           },
           {
@@ -201,9 +201,9 @@
   "active": "8c9a5650f3694b4d",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "C Sharp/Арифметические операции.md",
     "int.md",
     "Тестирование ПО/Python/int.md",
-    "C Sharp/Арифметические операции.md",
     "Untitled.md",
     "Ошибки вывода.md",
     "Тестирование ПО/QA/Порты, длина URL.md",
