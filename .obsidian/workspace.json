@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Артефакты.md",
+                "file": "Инкремент и декремент.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Артефакты"
+              "title": "Инкремент и декремент"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Артефакты.md",
+                "file": "Инкремент и декремент.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Артефакты"
+              "title": "Outline of Инкремент и декремент"
             }
           },
           {
@@ -215,6 +215,10 @@
   },
   "active": "194dcf7a8d8801f3",
   "lastOpenFiles": [
+    "C Sharp/Untitled 1.canvas",
+    "Инкремент и декремент.md",
+    "BMPN/Базовые элементы.md",
+    "Артефакты.md",
     "Pasted image 20250819173828.png",
     "Pasted image 20250819173744.png",
     "Pasted image 20250819173207.png",
@@ -222,13 +226,11 @@
     "Pasted image 20250819173102.png",
     "Pasted image 20250819173042.png",
     "BMPN/BPMN.canvas",
-    "Артефакты.md",
     "C Sharp/Ошибки вывода.md",
     "C Sharp/Classes/Convert.md",
     "C Sharp/Classes",
     "C Sharp/Classes/Console.md",
     "C Sharp/Конвертация типов.md",
-    "C Sharp/Untitled 1.canvas",
     "C Sharp/Арифметические операции.md",
     "C Sharp/Classes/int.md",
     "Тестирование ПО/Python/int.md",
@@ -254,11 +256,8 @@
     "Тестирование ПО/QA/Client cache, Server cache.md",
     "Тестирование ПО/QA/Chrome Dev Tools.md",
     "BMPN/Виды шлюзов.md",
-    "Обзор статей/Как грамотно составить резюме.md",
     "C Sharp",
-    "templates/Concept.md",
     "zpic/Pasted image 20250814015232.png",
-    "zpic/Pasted image 20250814015209.png",
     "fin/Finance.canvas",
     "API",
     "BMPN",
