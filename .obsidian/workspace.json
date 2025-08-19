@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ошибки вывода.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ошибки вывода"
+              "title": "Untitled"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ошибки вывода.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ошибки вывода"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "8c9a5650f3694b4d",
   "lastOpenFiles": [
-    "C Sharp/Untitled 1.canvas",
     "Ошибки вывода.md",
+    "Untitled.md",
+    "C Sharp/Untitled 1.canvas",
     "Тестирование ПО/QA/Порты, длина URL.md",
     "Console.md",
     "C Sharp/Арифметические операции.md",
