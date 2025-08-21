@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Инкремент и декремент"
             }
+          },
+          {
+            "id": "c369fb589a522d05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,8 +97,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -153,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инкремент и декремент.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Инкремент и декремент"
+              "title": "Outline"
             }
           },
           {
@@ -201,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,7 +225,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "194dcf7a8d8801f3",
+  "active": "c369fb589a522d05",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
     "Инкремент и декремент.md",
