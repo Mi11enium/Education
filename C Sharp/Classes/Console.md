@@ -9,7 +9,8 @@
 - Работает только с **текстом**.
 - Методы часто начинаются с **Write / WriteLine / ReadLine**.
 - Можно управлять цветами через **Console.ForegroundColor / BackgroundColor**.
-- Ввод всегда строка, но её можно преобразовать в числа (`int.Parse`, `double.Parse`).
+
+ <mark style="background: #FF5582A6;">!</mark> Ввод всегда строка, но её можно преобразовать в числа (`Convert.ToInt32`,`Convert.ToSingle`). ^b7bf6b
 
 ## Частые ошибки новичков
 1. **Забывают про `ReadKey()` или `ReadLine()`** в конце программы → окно сразу закрывается.
