@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Логические операторы.md",
+                "file": "Условные конструкции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Логические операторы"
+              "title": "Условные конструкции"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Логические операторы.md",
+                "file": "Условные конструкции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Логические операторы"
+              "title": "Outline of Условные конструкции"
             }
           },
           {
@@ -230,10 +230,11 @@
   },
   "active": "98880f3c36463af0",
   "lastOpenFiles": [
+    "C Sharp/Инкремент и декремент.md",
+    "C Sharp/Логические операторы.md",
     "Условные конструкции.md",
     "C Sharp/Untitled 1.canvas",
     "C Sharp/Ошибки вывода.md",
-    "C Sharp/Логические операторы.md",
     "C Sharp/Переменные.md",
     "C Sharp/Типы данных переменных.md",
     "C Sharp/Classes/Console.md",
@@ -244,7 +245,6 @@
     "C Sharp/Конкатенация.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Инкремент и декремент.md",
     "BMPN/Базовые элементы.md",
     "Артефакты.md",
     "Pasted image 20250819173828.png",
