@@ -12,7 +12,8 @@
 		{"id":"960bc650e7dbd2b0","type":"text","text":"[[int]]","x":820,"y":330,"width":250,"height":60},
 		{"id":"d9f9518af835f618","type":"text","text":"[[Инкремент и декремент]]","x":740,"y":60,"width":250,"height":60},
 		{"id":"08d68bffe1de7702","type":"text","text":"[[Условные конструкции]]","x":240,"y":-30,"width":250,"height":60},
-		{"id":"e833074f043e487b","x":240,"y":30,"width":250,"height":60,"type":"text","text":"[[Циклы]]"}
+		{"id":"e833074f043e487b","type":"text","text":"[[Циклы]]","x":240,"y":30,"width":250,"height":60},
+		{"id":"af69ae44e6f3d39a","x":820,"y":390,"width":250,"height":60,"type":"text","text":"[[Random]]"}
 	],
 	"edges":[]
 }
