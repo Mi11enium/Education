@@ -13,7 +13,9 @@
 		{"id":"d9f9518af835f618","type":"text","text":"[[Инкремент и декремент]]","x":740,"y":60,"width":250,"height":60},
 		{"id":"08d68bffe1de7702","type":"text","text":"[[Условные конструкции]]","x":240,"y":-30,"width":250,"height":60},
 		{"id":"e833074f043e487b","type":"text","text":"[[Циклы]]","x":240,"y":30,"width":250,"height":60},
-		{"id":"af69ae44e6f3d39a","x":820,"y":390,"width":250,"height":60,"type":"text","text":"[[Random]]"}
+		{"id":"af69ae44e6f3d39a","type":"text","text":"[[Random]]","x":820,"y":390,"width":250,"height":60},
+		{"id":"60158894ebf03fa7","x":125,"y":420,"width":250,"height":60,"type":"text","text":"Структуры данных"},
+		{"id":"edf81049817b5d3c","x":223,"y":225,"width":250,"height":60,"type":"text","text":"[[Одномерные массивы]]"}
 	],
 	"edges":[]
 }
