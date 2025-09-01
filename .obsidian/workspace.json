@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Одномерные массивы.md",
+                "file": "C Sharp/Ошибки вывода.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Одномерные массивы"
+              "title": "Ошибки вывода"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Одномерные массивы.md",
+                "file": "C Sharp/Ошибки вывода.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Одномерные массивы"
+              "title": "Outline of Ошибки вывода"
             }
           },
           {
@@ -201,17 +201,17 @@
   },
   "active": "8c9a5650f3694b4d",
   "lastOpenFiles": [
+    "Циклы.md",
     "C Sharp/Untitled 1.canvas",
+    "C Sharp/Типы данных переменных.md",
+    "C Sharp/Ошибки вывода.md",
     "Одномерные массивы.md",
     "Random.md",
     "C Sharp/Classes/int.md",
-    "Циклы.md",
     "C Sharp/Условные конструкции.md",
     "C Sharp/Инкремент и декремент.md",
     "C Sharp/Логические операторы.md",
-    "C Sharp/Ошибки вывода.md",
     "C Sharp/Переменные.md",
-    "C Sharp/Типы данных переменных.md",
     "C Sharp/Classes/Console.md",
     "C Sharp/Classes/Convert.md",
     "C Sharp/Арифметические операции.md",
