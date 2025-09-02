@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Из комментариев.md",
+                "file": "Многомерные массивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Из комментариев"
+              "title": "Многомерные массивы"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Из комментариев.md",
+                "file": "Многомерные массивы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Из комментариев"
+              "title": "Outline of Многомерные массивы"
             }
           },
           {
@@ -202,6 +202,7 @@
   "active": "8c9a5650f3694b4d",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "Многомерные массивы.md",
     "Из комментариев.md",
     "C Sharp/Условные конструкции.md",
     "C Sharp/Ошибки вывода.md",
@@ -236,7 +237,6 @@
     "API/Что такое API.md",
     "Тестирование ПО/QA/HTML, CSS.md",
     "pass.md",
-    "Тестирование ПО/QA/Postman, API, Swagger.md",
     "zpic/Pasted image 20250812001749.png",
     "zpic/Pasted image 20250814014853.png",
     "zpic/Pasted image 20250814014454.png",
