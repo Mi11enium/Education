@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Многомерные массивы.md",
+                "file": "C Sharp/Условные конструкции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многомерные массивы"
+              "title": "Условные конструкции"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Многомерные массивы.md",
+                "file": "C Sharp/Условные конструкции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Многомерные массивы"
+              "title": "Outline of Условные конструкции"
             }
           },
           {
@@ -202,9 +202,9 @@
   "active": "8c9a5650f3694b4d",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "C Sharp/Условные конструкции.md",
     "Многомерные массивы.md",
     "Из комментариев.md",
-    "C Sharp/Условные конструкции.md",
     "C Sharp/Ошибки вывода.md",
     "Циклы.md",
     "C Sharp/Типы данных переменных.md",
