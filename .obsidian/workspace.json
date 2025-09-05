@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Условные конструкции.md",
+                "file": "C Sharp/Ошибки вывода.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Условные конструкции"
+              "title": "Ошибки вывода"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Условные конструкции.md",
+                "file": "C Sharp/Ошибки вывода.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Условные конструкции"
+              "title": "Outline of Ошибки вывода"
             }
           },
           {
@@ -203,9 +203,9 @@
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
     "C Sharp/Условные конструкции.md",
+    "C Sharp/Ошибки вывода.md",
     "Многомерные массивы.md",
     "Из комментариев.md",
-    "C Sharp/Ошибки вывода.md",
     "Циклы.md",
     "C Sharp/Типы данных переменных.md",
     "Одномерные массивы.md",
