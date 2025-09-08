@@ -17,7 +17,8 @@
 		{"id":"edf81049817b5d3c","type":"text","text":"[[Одномерные массивы]]","x":223,"y":225,"width":250,"height":60},
 		{"id":"60158894ebf03fa7","type":"text","text":"Структуры данных","x":200,"y":165,"width":250,"height":60},
 		{"id":"7666aaaec38725e1","type":"text","text":"[[Из комментариев]]","x":348,"y":510,"width":250,"height":60},
-		{"id":"34f4b12ae9c28e37","x":223,"y":285,"width":250,"height":60,"type":"text","text":"[[Многомерные массивы]]"}
+		{"id":"34f4b12ae9c28e37","type":"text","text":"[[Многомерные массивы]]","x":223,"y":285,"width":250,"height":60},
+		{"id":"cb383b6290f56d09","x":223,"y":390,"width":250,"height":60,"type":"text","text":"[[String]]"}
 	],
 	"edges":[]
 }
