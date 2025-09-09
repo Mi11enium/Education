@@ -19,7 +19,8 @@
 		{"id":"34f4b12ae9c28e37","type":"text","text":"[[Многомерные массивы]]","x":223,"y":285,"width":250,"height":60},
 		{"id":"cb383b6290f56d09","type":"text","text":"[[String]]","x":223,"y":390,"width":250,"height":60},
 		{"id":"8570070b253470cc","type":"text","text":"[[Ссылочные типы]]","x":-27,"y":570,"width":250,"height":60},
-		{"id":"7666aaaec38725e1","type":"text","text":"[[Из комментариев]]","x":450,"y":570,"width":250,"height":60}
+		{"id":"7666aaaec38725e1","type":"text","text":"[[Из комментариев]]","x":450,"y":570,"width":250,"height":60},
+		{"id":"0ee54528bb06ded1","x":40,"y":740,"width":250,"height":60,"type":"text","text":"[[Функции]]"}
 	],
 	"edges":[]
 }
