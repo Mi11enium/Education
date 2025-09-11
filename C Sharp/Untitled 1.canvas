@@ -20,7 +20,9 @@
 		{"id":"cb383b6290f56d09","type":"text","text":"[[String]]","x":223,"y":390,"width":250,"height":60},
 		{"id":"8570070b253470cc","type":"text","text":"[[Ссылочные типы]]","x":-27,"y":570,"width":250,"height":60},
 		{"id":"7666aaaec38725e1","type":"text","text":"[[Из комментариев]]","x":450,"y":570,"width":250,"height":60},
-		{"id":"0ee54528bb06ded1","x":40,"y":740,"width":250,"height":60,"type":"text","text":"[[Функции]]"}
+		{"id":"0ee54528bb06ded1","type":"text","text":"[[Функции]]","x":223,"y":720,"width":250,"height":60},
+		{"id":"a4df675e7d9779c5","x":530,"y":910,"width":250,"height":60,"type":"text","text":""},
+		{"id":"59c4be36ace03a09","x":240,"y":780,"width":250,"height":60,"type":"text","text":"[[Перегрузка методов]]"}
 	],
 	"edges":[]
 }
