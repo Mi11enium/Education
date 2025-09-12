@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Перегрузка методов.md",
+                "file": "Упражнения с массивами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перегрузка методов"
+              "title": "Упражнения с массивами"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Перегрузка методов.md",
+                "file": "Упражнения с массивами.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Перегрузка методов"
+              "title": "Outline of Упражнения с массивами"
             }
           },
           {
@@ -202,6 +202,7 @@
   "active": "8c9a5650f3694b4d",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "Упражнения с массивами.md",
     "Перегрузка методов.md",
     "C Sharp/Одномерные массивы.md",
     "Функции.md",
@@ -236,7 +237,6 @@
     "Pasted image 20250819173042.png",
     "BMPN/BPMN.canvas",
     "C Sharp/Classes",
-    "Тестирование ПО/Python/int.md",
     "Тестирование ПО/Python/Python.canvas",
     "zpic/Pasted image 20250812001749.png",
     "zpic/Pasted image 20250814014853.png",
