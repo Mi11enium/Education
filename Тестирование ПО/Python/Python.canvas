@@ -150,7 +150,7 @@
 		{"id":"792dd3fea1af537a","x":7360,"y":-3075,"width":250,"height":60,"type":"text","text":"Средства разработки и окружение"},
 		{"id":"d6d4bb14a04ec021","x":-4900,"y":-2620,"width":250,"height":60,"type":"text","text":"complex"},
 		{"id":"28b38c6014dde467","type":"text","text":"[[bool]]","x":-4920,"y":-2500,"width":250,"height":60},
-		{"id":"0276a6f78eac3009","type":"text","text":"[[list]]","x":-4920,"y":-2440,"width":250,"height":60},
+		{"id":"0276a6f78eac3009","type":"text","text":"[[List]]","x":-4920,"y":-2440,"width":250,"height":60},
 		{"id":"852629c1cc229735","type":"text","text":"[[touple]]","x":-4920,"y":-2380,"width":250,"height":60},
 		{"id":"af84eff86dd8d586","type":"text","text":"[[set]]","x":-4920,"y":-2320,"width":250,"height":60},
 		{"id":"1bfd7afde5a8f4ae","type":"text","text":"[[dict]]","x":-4920,"y":-2260,"width":250,"height":60},

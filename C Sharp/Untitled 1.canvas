@@ -23,7 +23,8 @@
 		{"id":"0ee54528bb06ded1","type":"text","text":"[[Функции]]","x":223,"y":720,"width":250,"height":60},
 		{"id":"a4df675e7d9779c5","type":"text","text":"","x":530,"y":910,"width":250,"height":60},
 		{"id":"59c4be36ace03a09","type":"text","text":"[[Перегрузка методов]]","x":240,"y":780,"width":250,"height":60},
-		{"id":"047cf5b68308cd8e","x":780,"y":660,"width":250,"height":60,"type":"text","text":"[[Упражнения с массивами]]"}
+		{"id":"047cf5b68308cd8e","type":"text","text":"[[Упражнения с массивами]]","x":780,"y":660,"width":250,"height":60},
+		{"id":"1c8a56c5c6ca9c02","x":640,"y":450,"width":250,"height":60,"type":"text","text":"[[List]]"}
 	],
 	"edges":[]
 }
