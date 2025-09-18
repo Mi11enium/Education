@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b248e2b0484851e",
+        "id": "d6b52b8b5e9d5043",
         "type": "tabs",
         "children": [
           {
-            "id": "8c9a5650f3694b4d",
+            "id": "75b83c2a43a136ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List.md",
+                "file": "Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Queue"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List.md",
+                "file": "Queue.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of List"
+              "title": "Outline of Queue"
             }
           },
           {
@@ -199,11 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c9a5650f3694b4d",
+  "active": "75b83c2a43a136ab",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
-    "List.md",
+    "Queue.md",
     "Упражнения с массивами.md",
+    "List.md",
     "C Sharp/Циклы.md",
     "Перегрузка методов.md",
     "C Sharp/Одномерные массивы.md",
@@ -228,7 +229,6 @@
     "C Sharp/Classes/Convert.md",
     "Untitled.canvas",
     "Untitled.md",
-    "BMPN/Базовые элементы.md",
     "Pasted image 20250819173828.png",
     "Pasted image 20250819173744.png",
     "Pasted image 20250819173207.png",
