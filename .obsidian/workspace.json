@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack.md",
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "Dictionary"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack.md",
+                "file": "Dictionary.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stack"
+              "title": "Outline of Dictionary"
             }
           },
           {
@@ -202,6 +202,7 @@
   "active": "f2de38647d0ce840",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "Dictionary.md",
     "Stack.md",
     "Queue.md",
     "Упражнения с массивами.md",
@@ -227,7 +228,6 @@
     "Random.md",
     "C Sharp/Classes/int.md",
     "C Sharp/Classes/Console.md",
-    "C Sharp/Classes/Convert.md",
     "Untitled.canvas",
     "Pasted image 20250819173828.png",
     "Pasted image 20250819173744.png",
