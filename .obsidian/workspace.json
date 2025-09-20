@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Абстракция.md",
+                "file": "Инкапсуляция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Абстракция"
+              "title": "Инкапсуляция"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Абстракция.md",
+                "file": "Инкапсуляция.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Абстракция"
+              "title": "Outline of Инкапсуляция"
             }
           },
           {
@@ -202,7 +202,8 @@
   "active": "0042cff52ea284a5",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
-    "Абстракция.md",
+    "Инкапсуляция.md",
+    "C Sharp/Абстракция.md",
     "C Sharp/Конкатенация.md",
     "C Sharp/Типы данных переменных.md",
     "Артефакты.md",
@@ -226,7 +227,6 @@
     "C Sharp/Ошибки вывода.md",
     "C Sharp/Переменные.md",
     "C Sharp/Ссылочные типы.md",
-    "C Sharp/Условные конструкции.md",
     "Pasted image 20250908085220.png",
     "Untitled.canvas",
     "Pasted image 20250819173828.png",
