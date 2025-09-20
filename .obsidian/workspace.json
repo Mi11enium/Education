@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Типы отношений.md",
+                "file": "Типизация в ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы отношений"
+              "title": "Типизация в ООП"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Типы отношений.md",
+                "file": "Типизация в ООП.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типы отношений"
+              "title": "Outline of Типизация в ООП"
             }
           },
           {
@@ -202,6 +202,7 @@
   "active": "0042cff52ea284a5",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "Типизация в ООП.md",
     "Типы отношений.md",
     "C Sharp/Одномерные массивы.md",
     "ООП.md",
@@ -227,7 +228,6 @@
     "Pasted image 20250908085220.png",
     "String.md",
     "Из комментариев.md",
-    "Random.md",
     "Untitled.canvas",
     "Pasted image 20250819173828.png",
     "Pasted image 20250819173744.png",

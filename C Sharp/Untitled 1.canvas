@@ -21,8 +21,6 @@
 		{"id":"0ee54528bb06ded1","type":"text","text":"[[Функции]]","x":-200,"y":880,"width":250,"height":60},
 		{"id":"59c4be36ace03a09","type":"text","text":"[[Перегрузка методов]]","x":-183,"y":940,"width":250,"height":60},
 		{"id":"a7dac0a184cd81a5","type":"text","text":"[[ООП]]","x":615,"y":820,"width":250,"height":60},
-		{"id":"ebd3c213a99dd2de","type":"text","text":"Абстракция","x":640,"y":880,"width":250,"height":60},
-		{"id":"15a308ce7e0cc259","type":"text","text":"Инкапсуляция","x":640,"y":940,"width":250,"height":60},
 		{"id":"cb383b6290f56d09","type":"text","text":"[[String]]","x":220,"y":225,"width":250,"height":60},
 		{"id":"34f4b12ae9c28e37","type":"text","text":"[[Многомерные массивы]]","x":220,"y":345,"width":250,"height":60},
 		{"id":"1c8a56c5c6ca9c02","type":"text","text":"[[List]]","x":220,"y":405,"width":250,"height":60},
@@ -30,9 +28,12 @@
 		{"id":"1756056e099a04a6","type":"text","text":"[[Stack]]","x":220,"y":525,"width":250,"height":60},
 		{"id":"a4df675e7d9779c5","type":"text","text":"[[Dictionary]]","x":220,"y":585,"width":250,"height":60},
 		{"id":"edf81049817b5d3c","type":"text","text":"[[Одномерные массивы]]","x":220,"y":285,"width":250,"height":60},
-		{"id":"9f6d016944008f9b","x":640,"y":1000,"width":250,"height":60,"type":"text","text":"Наследование"},
-		{"id":"6bc98d67c4d9c54c","x":640,"y":1060,"width":250,"height":60,"type":"text","text":"Полиморфизм"},
-		{"id":"79ac1174673bdcda","x":340,"y":916,"width":250,"height":60,"type":"text","text":"[[Типы отношений]]"}
+		{"id":"ebd3c213a99dd2de","type":"text","text":"Абстракция","x":655,"y":1140,"width":250,"height":60},
+		{"id":"15a308ce7e0cc259","type":"text","text":"Инкапсуляция","x":655,"y":1200,"width":250,"height":60},
+		{"id":"9f6d016944008f9b","type":"text","text":"Наследование","x":655,"y":1260,"width":250,"height":60},
+		{"id":"6bc98d67c4d9c54c","type":"text","text":"Полиморфизм","x":655,"y":1320,"width":250,"height":60},
+		{"id":"79ac1174673bdcda","type":"text","text":"[[Типы отношений]]","x":655,"y":880,"width":250,"height":60},
+		{"id":"8eb7563b3dc038f6","x":655,"y":940,"width":250,"height":60,"type":"text","text":"[[Типизация в ООП]]"}
 	],
 	"edges":[]
 }
