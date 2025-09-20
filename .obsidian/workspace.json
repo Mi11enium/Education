@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инкапсуляция.md",
+                "file": "Полиморфизм.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инкапсуляция"
+              "title": "Полиморфизм"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инкапсуляция.md",
+                "file": "Полиморфизм.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Инкапсуляция"
+              "title": "Outline of Полиморфизм"
             }
           },
           {
@@ -202,6 +202,7 @@
   "active": "0042cff52ea284a5",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
+    "Полиморфизм.md",
     "Инкапсуляция.md",
     "C Sharp/Абстракция.md",
     "C Sharp/Конкатенация.md",
@@ -226,7 +227,6 @@
     "C Sharp/Логические операторы.md",
     "C Sharp/Ошибки вывода.md",
     "C Sharp/Переменные.md",
-    "C Sharp/Ссылочные типы.md",
     "Pasted image 20250908085220.png",
     "Untitled.canvas",
     "Pasted image 20250819173828.png",
