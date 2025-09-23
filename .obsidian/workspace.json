@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Упражнения с массивами.md",
+                "file": "Функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Упражнения с массивами"
+              "title": "Функции"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Упражнения с массивами.md",
+                "file": "Функции.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Упражнения с массивами"
+              "title": "Outline of Функции"
             }
           },
           {
@@ -202,8 +202,9 @@
   "active": "0042cff52ea284a5",
   "lastOpenFiles": [
     "C Sharp/Untitled 1.canvas",
-    "Dictionary.md",
     "C Sharp/Циклы.md",
+    "Упражнения с массивами.md",
+    "Dictionary.md",
     "Полиморфизм.md",
     "Инкапсуляция.md",
     "C Sharp/Абстракция.md",
@@ -216,7 +217,6 @@
     "C Sharp/Одномерные массивы.md",
     "Stack.md",
     "Queue.md",
-    "Упражнения с массивами.md",
     "List.md",
     "Перегрузка методов.md",
     "Функции.md",
