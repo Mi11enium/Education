@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dda0e4f8219d906a",
+        "id": "67871c759d65e832",
         "type": "tabs",
         "children": [
           {
-            "id": "0042cff52ea284a5",
+            "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Функции.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Функции"
+              "title": "New tab"
             }
           }
         ]
@@ -138,13 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Функции.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Функции"
+              "title": "Outline"
             }
           },
           {
@@ -199,9 +194,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0042cff52ea284a5",
+  "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "Перегрузка методов.md",
     "C Sharp/Untitled 1.canvas",
+    "Функции.md",
     "C Sharp/Ошибки вывода.md",
     "C Sharp/Ссылочные типы.md",
     "Упражнения с массивами.md",
@@ -209,7 +206,6 @@
     "C Sharp/Условные конструкции.md",
     "C Sharp/Типы данных переменных.md",
     "C Sharp/Одномерные массивы.md",
-    "Функции.md",
     "Dictionary.md",
     "Полиморфизм.md",
     "Инкапсуляция.md",
@@ -222,7 +218,6 @@
     "Stack.md",
     "Queue.md",
     "List.md",
-    "Перегрузка методов.md",
     "C Sharp/Арифметические операции.md",
     "C Sharp/Инкремент и декремент.md",
     "C Sharp/Конвертация типов.md",
