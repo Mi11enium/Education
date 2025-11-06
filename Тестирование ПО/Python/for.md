@@ -4,7 +4,7 @@ The 'for' loop in Python used for iterating over a sequence or an iterable objec
 # Функция
  It allows you to execute a block of code repeatedly for each item in the sequence.
 # Объект воздействия
-[[List]], [[tuple]], [[string]], [[set]], [[dictionary]], or any other [[object]]
+[[List]], [[tuple]], [[String]], [[set]], [[Dictionary]], or any other [[object]]
 
 # Как
 Синтаксис
