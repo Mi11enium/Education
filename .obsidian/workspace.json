@@ -25,17 +25,14 @@
             "id": "83d37d5926c6cd1c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "fin/zFinance.canvas",
-                "viewState": {
-                  "x": -675.6666259765625,
-                  "y": -182,
-                  "zoom": 0
-                }
+                "file": "CFS общая сводка.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "zFinance"
+              "icon": "lucide-file",
+              "title": "CFS общая сводка"
             }
           }
         ],
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fin/zFinance.canvas",
+                "file": "CFS общая сводка.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of zFinance"
+              "title": "Outline of CFS общая сводка"
             }
           },
           {
@@ -219,10 +216,11 @@
   },
   "active": "83d37d5926c6cd1c",
   "lastOpenFiles": [
+    "fin/zFinance.canvas",
+    "CFS общая сводка.md",
     "fin/Активы и пассивы.md",
     "fin/Маржа.md",
     "fin/валовая маржа.md",
-    "fin/zFinance.canvas",
     "fin/чистая маржа.md",
     "fin/Наценка.md",
     "fin/операционная маржа.md",
@@ -251,7 +249,6 @@
     "C Sharp/Структуры данных/Queue.md",
     "C Sharp/Classes/Random.md",
     "C Sharp/Структуры данных/Stack.md",
-    "C Sharp/Classes/String.md",
     "zpic/Pasted image 20250819173042.png",
     "zpic/Pasted image 20250819173102.png",
     "zpic/Pasted image 20250908085220.png",
