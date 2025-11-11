@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Этичный хакинг.md",
+                "file": "Хакер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Этичный хакинг"
+              "title": "Хакер"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Этичный хакинг.md",
+                "file": "Хакер.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Этичный хакинг"
+              "title": "Outline of Хакер"
             }
           },
           {
@@ -202,8 +202,9 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Этичный хакинг.md",
+    "Хакер.md",
     "Untitled.canvas",
+    "Этичный хакинг.md",
     "Рекомендации.md",
     "Pen",
     "fin/CFS общая сводка.md",
@@ -235,7 +236,6 @@
     "C Sharp/Рассортировать",
     "C Sharp/Classes/Untitled",
     "C Sharp/Структуры данных/List.md",
-    "C Sharp/Структуры данных/Queue.md",
     "zpic/Pasted image 20250819173042.png",
     "zpic/Pasted image 20250819173102.png",
     "zpic/Pasted image 20250908085220.png",

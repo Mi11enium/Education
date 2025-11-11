@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"7957072e998a65ea","type":"text","text":"[[Рекомендации]]","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"efebf9473da9b3d2","x":-250,"y":140,"width":250,"height":60,"type":"text","text":"[[Этичный хакинг]]"}
+		{"id":"efebf9473da9b3d2","type":"text","text":"[[Этичный хакинг]]","x":-250,"y":140,"width":250,"height":60},
+		{"id":"42e0824651b67425","x":-187,"y":55,"width":250,"height":60,"type":"text","text":"[[Хакер]]"}
 	],
 	"edges":[]
 }
