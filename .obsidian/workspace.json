@@ -11,14 +11,17 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Хакер.md",
-                "mode": "source",
-                "source": false
+                "file": "LearnPenT.canvas",
+                "viewState": {
+                  "x": 62.5,
+                  "y": 155,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Хакер"
+              "icon": "lucide-layout-dashboard",
+              "title": "LearnPenT"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хакер.md",
+                "file": "LearnPenT.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Хакер"
+              "title": "Outline of LearnPenT"
             }
           },
           {
@@ -201,11 +204,12 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "LearnPenT.canvas",
-    "Хакер.md",
     "Untitled.canvas",
-    "Этичный хакинг.md",
-    "Рекомендации.md",
+    "Pen/Рекомендации.md",
+    "Pen/VirtualBox.md",
+    "LearnPenT.canvas",
+    "Pen/Хакер.md",
+    "Pen/Этичный хакинг.md",
     "Pen",
     "fin/CFS общая сводка.md",
     "fin/zFinance.canvas",
@@ -235,7 +239,6 @@
     "BMPN/Артефакты.md",
     "C Sharp/Рассортировать",
     "C Sharp/Classes/Untitled",
-    "C Sharp/Структуры данных/List.md",
     "zpic/Pasted image 20250819173042.png",
     "zpic/Pasted image 20250819173102.png",
     "zpic/Pasted image 20250908085220.png",

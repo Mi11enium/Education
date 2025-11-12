@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"4ec1503e0902a70f","x":-1010,"y":-620,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4ec1503e0902a70f","type":"text","text":"\n","x":-1010,"y":-620,"width":250,"height":60},
 		{"id":"0fab16a17e97ef1b","type":"text","text":"[[Python.canvas|Python]]","x":-1220,"y":-520,"width":250,"height":60},
 		{"id":"f6e476053d90179c","type":"text","text":"Тестирование ПО","x":-820,"y":-840,"width":250,"height":60},
 		{"id":"88a739084b09e761","type":"text","text":"[[Git]]","x":-820,"y":-520,"width":250,"height":60},
