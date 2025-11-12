@@ -4,7 +4,8 @@
 		{"id":"7957072e998a65ea","type":"text","text":"[[Рекомендации]]","x":-140,"y":-160,"width":250,"height":60},
 		{"id":"42e0824651b67425","type":"text","text":"[[Хакер]]","x":-440,"y":-160,"width":250,"height":60},
 		{"id":"bf5ab41a9e7c3f15","type":"text","text":"[[VirtualBox]]","x":160,"y":-160,"width":250,"height":60},
-		{"id":"9d2f0697c6589efe","x":160,"y":-100,"width":250,"height":60,"type":"text","text":"[[Kali Linux]]"}
+		{"id":"9d2f0697c6589efe","type":"text","text":"[[Kali Linux]]","x":160,"y":-100,"width":250,"height":60},
+		{"id":"310b8f695ebef96d","x":180,"y":-40,"width":250,"height":60,"type":"text","text":"[[Linux - команды]]"}
 	],
 	"edges":[]
 }

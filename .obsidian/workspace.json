@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kali Linux.md",
+                "file": "Linux - команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kali Linux"
+              "title": "Linux - команды"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kali Linux.md",
+                "file": "Linux - команды.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kali Linux"
+              "title": "Outline of Linux - команды"
             }
           },
           {
@@ -202,8 +202,9 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Kali Linux.md",
+    "Linux - команды.md",
     "Untitled.canvas",
+    "Pen/Kali Linux.md",
     "Pen/VirtualBox.md",
     "Pen/Рекомендации.md",
     "Pen/Хакер.md",
@@ -233,7 +234,6 @@
     "C Sharp/Рассортировать/Перегрузка методов.md",
     "C Sharp/Рассортировать/ООП.md",
     "C Sharp/Рассортировать/Инкапсуляция.md",
-    "C Sharp/Рассортировать/Из комментариев.md",
     "C Sharp/Рассортировать",
     "C Sharp/Classes/Untitled",
     "zpic/Pasted image 20250819173042.png",
