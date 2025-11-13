@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pen/pfSense.md",
+                "file": "Pen/Этичный хакинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pfSense"
+              "title": "Этичный хакинг"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/pfSense.md",
+                "file": "Pen/Этичный хакинг.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pfSense"
+              "title": "Outline of Этичный хакинг"
             }
           },
           {
@@ -201,15 +201,15 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "Pen/Хакер.md",
+    "Pen/pfSense.md",
     "zpic/Pasted image 20251113133304.png",
     "Linux - команды.md",
-    "Pen/pfSense.md",
     "Untitled.canvas",
     "LearnPenT.canvas",
     "Pen/Kali Linux.md",
     "Pen/VirtualBox.md",
     "Pen/Рекомендации.md",
-    "Pen/Хакер.md",
     "Pen/Этичный хакинг.md",
     "Pen",
     "fin/CFS общая сводка.md",
