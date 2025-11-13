@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pfSense.md",
+                "file": "Pen/pfSense.md",
                 "mode": "source",
                 "source": false
               },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pfSense.md",
+                "file": "Pen/pfSense.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -201,9 +201,10 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "pfSense.md",
+    "zpic/Pasted image 20251113133304.png",
     "Linux - команды.md",
+    "Pen/pfSense.md",
+    "Untitled.canvas",
     "LearnPenT.canvas",
     "Pen/Kali Linux.md",
     "Pen/VirtualBox.md",
@@ -247,7 +248,6 @@
     "C Sharp/Classes",
     "zpic/Pasted image 20250812001749.png",
     "zpic/Pasted image 20250814014853.png",
-    "zpic/Pasted image 20250814014454.png",
     "API/API Canvas.canvas",
     "Тестирование ПО/QA/1 QA.canvas",
     "C Sharp",
