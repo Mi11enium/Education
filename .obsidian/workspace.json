@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Дистрибутивы Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Дистрибутивы Linux"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md",
+                "file": "Дистрибутивы Linux.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux"
+              "title": "Outline of Дистрибутивы Linux"
             }
           },
           {
@@ -202,9 +202,10 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Linux.md",
-    "Untitled.canvas",
+    "Дистрибутивы Linux.md",
+    "Pen/Linux.md",
     "Linux - команды.md",
+    "Untitled.canvas",
     "Pen/pfSense.md",
     "Pen/Этичный хакинг.md",
     "Pen/Хакер.md",
@@ -234,7 +235,6 @@
     "C Sharp/Рассортировать/Типы отношений.md",
     "C Sharp/Рассортировать/Полиморфизм.md",
     "C Sharp/Рассортировать/Типизация в ООП.md",
-    "C Sharp/Рассортировать/Перегрузка методов.md",
     "C Sharp/Рассортировать",
     "C Sharp/Classes/Untitled",
     "zpic/Pasted image 20250819173042.png",
