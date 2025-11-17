@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pen/Linux.md",
+                "file": "Linux - команды (терминал).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Linux - команды (терминал)"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/Linux.md",
+                "file": "Linux - команды (терминал).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux"
+              "title": "Outline of Linux - команды (терминал)"
             }
           },
           {
@@ -201,17 +201,17 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "LearnPenT.canvas",
+    "Linux - команды (терминал).md",
+    "Pen/Дистрибутивы Linux.md",
+    "Pen/Linux.md",
     "Pen/Kali Linux.md",
     "Pen/Хакер.md",
     "Pen/Этичный хакинг.md",
     "Pen/Рекомендации.md",
-    "LearnPenT.canvas",
-    "Linux - команды.md",
     "Untitled.canvas",
     "Pen/pfSense.md",
     "Pen/VirtualBox.md",
-    "Pen/Linux.md",
-    "Дистрибутивы Linux.md",
     "zpic/Pasted image 20251113133304.png",
     "Pen",
     "fin/CFS общая сводка.md",
