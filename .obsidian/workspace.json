@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pen/Права доступа.md",
+                "file": "Pen/Рекомендации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Права доступа"
+              "title": "Рекомендации"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/Права доступа.md",
+                "file": "Pen/Рекомендации.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Права доступа"
+              "title": "Outline of Рекомендации"
             }
           },
           {
@@ -201,14 +201,14 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "Pen/Linux - команды (терминал).md",
-    "Pen/Права доступа.md",
-    "Сетевые интерфейсы.md",
     "LearnPenT.canvas",
-    "Untitled.canvas",
-    "Основы сети.md",
-    "zpic/Pasted image 20251117152220.png",
+    "Pen/Права доступа.md",
+    "Pen/Основы сети.md",
     "Pen/Дистрибутивы Linux.md",
+    "Pen/Сетевые интерфейсы.md",
+    "Pen/Linux - команды (терминал).md",
+    "Untitled.canvas",
+    "zpic/Pasted image 20251117152220.png",
     "Pen/Linux.md",
     "Pen/Kali Linux.md",
     "Pen/Хакер.md",
