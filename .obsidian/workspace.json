@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы сети.md",
+                "file": "Сетевые интерфейсы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы сети"
+              "title": "Сетевые интерфейсы"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основы сети.md",
+                "file": "Сетевые интерфейсы.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Основы сети"
+              "title": "Outline of Сетевые интерфейсы"
             }
           },
           {
@@ -202,10 +202,11 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
+    "Сетевые интерфейсы.md",
+    "Untitled.canvas",
     "Основы сети.md",
     "Pen/Права доступа.md",
     "zpic/Pasted image 20251117152220.png",
-    "Untitled.canvas",
     "Pen/Linux - команды (терминал).md",
     "Pen/Дистрибутивы Linux.md",
     "Pen/Linux.md",
@@ -235,7 +236,6 @@
     "C Sharp/Untitled.md",
     "C Sharp/Рассортировать/Функции.md",
     "C Sharp/Рассортировать/Упражнения с массивами.md",
-    "C Sharp/Рассортировать/Типы отношений.md",
     "C Sharp/Рассортировать",
     "C Sharp/Classes/Untitled",
     "zpic/Pasted image 20250819173042.png",
