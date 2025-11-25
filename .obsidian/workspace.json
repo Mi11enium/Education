@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сетевые интерфейсы.md",
+                "file": "Pen/Права доступа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сетевые интерфейсы"
+              "title": "Права доступа"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сетевые интерфейсы.md",
+                "file": "Pen/Права доступа.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Сетевые интерфейсы"
+              "title": "Outline of Права доступа"
             }
           },
           {
@@ -201,13 +201,13 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "LearnPenT.canvas",
+    "Pen/Linux - команды (терминал).md",
+    "Pen/Права доступа.md",
     "Сетевые интерфейсы.md",
+    "LearnPenT.canvas",
     "Untitled.canvas",
     "Основы сети.md",
-    "Pen/Права доступа.md",
     "zpic/Pasted image 20251117152220.png",
-    "Pen/Linux - команды (терминал).md",
     "Pen/Дистрибутивы Linux.md",
     "Pen/Linux.md",
     "Pen/Kali Linux.md",
