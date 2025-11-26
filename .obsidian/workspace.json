@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пентестер.md",
+                "file": "Методология.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пентестер"
+              "title": "Методология"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Пентестер.md",
+                "file": "Методология.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Пентестер"
+              "title": "Outline of Методология"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -217,6 +217,9 @@
   "active": "a1d96680c8d17130",
   "lastOpenFiles": [
     "LearnPenT.canvas",
+    "Методология.md",
+    "Untitled.canvas",
+    "Этапы пентеста.md",
     "Пентестер.md",
     "Pen/Сетевые интерфейсы.md",
     "Pen/Хакер.md",
@@ -230,7 +233,6 @@
     "Pen/VirtualBox.md",
     "Pen/Основы сети.md",
     "Pen/Дистрибутивы Linux.md",
-    "Untitled.canvas",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
     "Pen",
@@ -249,8 +251,6 @@
     "Тестирование ПО/Python/Python.canvas",
     "C Sharp/Untitled 1.canvas",
     "C Sharp/Структуры данных",
-    "C Sharp/Untitled.md",
-    "C Sharp/Рассортировать/Функции.md",
     "C Sharp/Рассортировать",
     "C Sharp/Classes/Untitled",
     "zpic/Pasted image 20250819173042.png",
