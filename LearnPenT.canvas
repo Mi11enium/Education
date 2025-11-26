@@ -16,7 +16,8 @@
 		{"id":"e01a072600c8f166","type":"text","text":"[[Пентестер]]","x":-560,"y":-100,"width":250,"height":60},
 		{"id":"991ac3488c88c3ef","type":"text","text":"[[Этапы пентеста]]","x":-540,"y":-40,"width":250,"height":60},
 		{"id":"2399168f8b4ec3de","type":"text","text":"[[Методология]]","x":-540,"y":20,"width":250,"height":60},
-		{"id":"3def2e57f491be5b","x":-580,"y":80,"width":250,"height":60,"type":"text","text":"[[Социальная инженерия]]"}
+		{"id":"3def2e57f491be5b","type":"text","text":"[[Социальная инженерия]]","x":-580,"y":80,"width":250,"height":60},
+		{"id":"5aa20707d1c18561","x":-560,"y":140,"width":250,"height":60,"type":"text","text":"[[Фишинг]]"}
 	],
 	"edges":[]
 }

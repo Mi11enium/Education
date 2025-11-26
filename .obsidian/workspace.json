@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Социальная инженерия.md",
+                "file": "Фишинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Социальная инженерия"
+              "title": "Фишинг"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Социальная инженерия.md",
+                "file": "Фишинг.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Социальная инженерия"
+              "title": "Outline of Фишинг"
             }
           },
           {
@@ -217,13 +217,15 @@
   "active": "a1d96680c8d17130",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Социальная инженерия.md",
-    "Этапы пентеста.md",
-    "Методология.md",
-    "Пентестер.md",
+    "Фишинг.md",
     "Untitled.canvas",
+    "Pen/Основы хакинга/Социальная инженерия.md",
+    "Pen/Основы хакинга",
+    "Pen/Основы хакинга/Этапы пентеста.md",
+    "Pen/Основы хакинга/Методология.md",
+    "Pen/Основы хакинга/Пентестер.md",
     "Pen/Сетевые интерфейсы.md",
-    "Pen/Хакер.md",
+    "Pen/Основы хакинга/Хакер.md",
     "Pen/Рекомендации.md",
     "Pen/Права доступа.md",
     "Pen/Этичный хакинг.md",
@@ -247,7 +249,6 @@
     "fin/операционная маржа.md",
     "fin/LTV.md",
     "fin/Untitled 1.canvas",
-    "Обзор статей/Как грамотно составить резюме.md",
     "Тестирование ПО/Python/Python.canvas",
     "C Sharp/Untitled 1.canvas",
     "C Sharp/Структуры данных",
@@ -269,7 +270,6 @@
     "API",
     "BMPN",
     "HTTP",
-    "КС - Архитектура, OSI, TCP/UDP",
     "Lua.canvas"
   ]
 }
