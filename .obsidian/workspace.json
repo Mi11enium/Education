@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pen/Основы хакинга/Социальная инженерия.md",
+                "file": "Pen/Основы сети.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Социальная инженерия"
+              "title": "Основы сети"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/Основы хакинга/Социальная инженерия.md",
+                "file": "Pen/Основы сети.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Социальная инженерия"
+              "title": "Outline of Основы сети"
             }
           },
           {
@@ -201,21 +201,21 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "Pen/Основы хакинга/Методология.md",
-    "Эксплойты и уязвимости.md",
+    "Pen/Права доступа.md",
+    "Pen/Рекомендации.md",
+    "Pen/Сетевые интерфейсы.md",
+    "Pen/Этичный хакинг.md",
     "Система.md",
-    "Фишинг.md",
     "LearnPenT.canvas",
     "Untitled.canvas",
-    "Pen/Рекомендации.md",
+    "Pen/Основы хакинга/Методология.md",
     "Pen/Основы хакинга/Социальная инженерия.md",
+    "Эксплойты и уязвимости.md",
+    "Фишинг.md",
     "Pen/Основы хакинга",
     "Pen/Основы хакинга/Этапы пентеста.md",
     "Pen/Основы хакинга/Пентестер.md",
-    "Pen/Сетевые интерфейсы.md",
     "Pen/Основы хакинга/Хакер.md",
-    "Pen/Права доступа.md",
-    "Pen/Этичный хакинг.md",
     "Pen/Kali Linux.md",
     "Pen/Linux.md",
     "Pen/pfSense.md",
