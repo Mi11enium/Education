@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Трояны.md",
+                "file": "Логи и следы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Трояны"
+              "title": "Логи и следы"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Трояны.md",
+                "file": "Логи и следы.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Трояны"
+              "title": "Outline of Логи и следы"
             }
           },
           {
@@ -202,8 +202,12 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Трояны.md",
+    "Логи и следы.md",
     "Untitled.canvas",
+    "Эксплойты и уязвимости.md",
+    "Бекдор.md",
+    "Система.md",
+    "Трояны.md",
     "Pen/VirtualBox.md",
     "Pen/pfSense.md",
     "Pen/Linux - команды (терминал).md",
@@ -212,12 +216,10 @@
     "Pen/Сетевые интерфейсы.md",
     "Pen/Этичный хакинг.md",
     "Фишинг.md",
-    "Система.md",
     "Pen/Права доступа.md",
     "Pen/Основы сети.md",
     "Pen/Основы хакинга/Методология.md",
     "Pen/Основы хакинга/Социальная инженерия.md",
-    "Эксплойты и уязвимости.md",
     "Pen/Основы хакинга",
     "Pen/Основы хакинга/Этапы пентеста.md",
     "Pen/Основы хакинга/Пентестер.md",
@@ -231,8 +233,6 @@
     "fin/zFinance.canvas",
     "fin/Активы и пассивы.md",
     "fin/Маржа.md",
-    "fin/валовая маржа.md",
-    "fin/чистая маржа.md",
     "fin/Untitled 1.canvas",
     "Тестирование ПО/Python/Python.canvas",
     "C Sharp/Untitled 1.canvas",

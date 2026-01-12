@@ -19,8 +19,10 @@
 		{"id":"3def2e57f491be5b","type":"text","text":"[[Социальная инженерия]]","x":-580,"y":80,"width":250,"height":60},
 		{"id":"5aa20707d1c18561","type":"text","text":"[[Фишинг]]","x":-560,"y":140,"width":250,"height":60},
 		{"id":"8882d58fc66701bc","type":"text","text":"[[Система]]","x":-560,"y":200,"width":250,"height":60},
-		{"id":"5f6d46509c1c231c","x":-560,"y":460,"width":250,"height":60,"type":"text","text":"[[Трояны]]"},
-		{"id":"7e2c4c1ecfac5e03","type":"text","text":"[[Эксплойты и уязвимости]]","x":-560,"y":320,"width":250,"height":60}
+		{"id":"5f6d46509c1c231c","type":"text","text":"[[Трояны]]","x":-560,"y":460,"width":250,"height":60},
+		{"id":"7e2c4c1ecfac5e03","type":"text","text":"[[Эксплойты и уязвимости]]","x":-560,"y":320,"width":250,"height":60},
+		{"id":"2beb00c09cfe829d","type":"text","text":"[[Бекдор]]","x":-560,"y":520,"width":250,"height":60},
+		{"id":"71617515a61297eb","x":-560,"y":580,"width":250,"height":60,"type":"text","text":"[[Логи и следы]]"}
 	],
 	"edges":[]
 }
