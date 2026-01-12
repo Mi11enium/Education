@@ -11,14 +11,17 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Pen/VirtualBox.md",
-                "mode": "source",
-                "source": false
+                "file": "LearnPenT.canvas",
+                "viewState": {
+                  "x": -27.66668701171875,
+                  "y": 113.00006103515625,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "VirtualBox"
+              "icon": "lucide-layout-dashboard",
+              "title": "LearnPenT"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/VirtualBox.md",
+                "file": "LearnPenT.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VirtualBox"
+              "title": "Outline of LearnPenT"
             }
           },
           {
@@ -201,12 +204,12 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Pen/VirtualBox.md",
     "Pen/pfSense.md",
     "Pen/Linux - команды (терминал).md",
     "Pen/Linux.md",
     "LearnPenT.canvas",
-    "Untitled.canvas",
-    "Pen/VirtualBox.md",
     "Pen/Рекомендации.md",
     "Pen/Сетевые интерфейсы.md",
     "Pen/Этичный хакинг.md",
