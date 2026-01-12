@@ -23,7 +23,8 @@
 		{"id":"7e2c4c1ecfac5e03","type":"text","text":"[[Эксплойты и уязвимости]]","x":-560,"y":320,"width":250,"height":60},
 		{"id":"2beb00c09cfe829d","type":"text","text":"[[Бекдор]]","x":-560,"y":520,"width":250,"height":60},
 		{"id":"71617515a61297eb","type":"text","text":"[[Логи и следы]]","x":-560,"y":580,"width":250,"height":60},
-		{"id":"11aa51b26559bb00","x":-560,"y":640,"width":250,"height":60,"type":"text","text":"[[CVE и CVSS]]"}
+		{"id":"11aa51b26559bb00","type":"text","text":"[[CVE и CVSS]]","x":-560,"y":640,"width":250,"height":60},
+		{"id":"5b517d8a8d78da3b","x":-180,"y":404,"width":250,"height":60,"type":"text","text":"[[Утечка информации]]"}
 	],
 	"edges":[]
 }
