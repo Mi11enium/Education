@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pen/Linux - команды (терминал).md",
+                "file": "Pen/VirtualBox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux - команды (терминал)"
+              "title": "VirtualBox"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/Linux - команды (терминал).md",
+                "file": "Pen/VirtualBox.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux - команды (терминал)"
+              "title": "Outline of VirtualBox"
             }
           },
           {
@@ -201,6 +201,8 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "Pen/pfSense.md",
+    "Pen/Linux - команды (терминал).md",
     "Pen/Linux.md",
     "LearnPenT.canvas",
     "Untitled.canvas",
@@ -208,7 +210,6 @@
     "Pen/Рекомендации.md",
     "Pen/Сетевые интерфейсы.md",
     "Pen/Этичный хакинг.md",
-    "Pen/Linux - команды (терминал).md",
     "Фишинг.md",
     "Система.md",
     "Pen/Права доступа.md",
@@ -221,7 +222,6 @@
     "Pen/Основы хакинга/Пентестер.md",
     "Pen/Основы хакинга/Хакер.md",
     "Pen/Kali Linux.md",
-    "Pen/pfSense.md",
     "Pen/Дистрибутивы Linux.md",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
