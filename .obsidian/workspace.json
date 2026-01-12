@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Логи и следы.md",
+                "file": "CVE и CVSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Логи и следы"
+              "title": "CVE и CVSS"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Логи и следы.md",
+                "file": "CVE и CVSS.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Логи и следы"
+              "title": "Outline of CVE и CVSS"
             }
           },
           {
@@ -202,8 +202,9 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Логи и следы.md",
+    "CVE и CVSS.md",
     "Untitled.canvas",
+    "Логи и следы.md",
     "Эксплойты и уязвимости.md",
     "Бекдор.md",
     "Система.md",
@@ -232,7 +233,6 @@
     "fin/CFS общая сводка.md",
     "fin/zFinance.canvas",
     "fin/Активы и пассивы.md",
-    "fin/Маржа.md",
     "fin/Untitled 1.canvas",
     "Тестирование ПО/Python/Python.canvas",
     "C Sharp/Untitled 1.canvas",
