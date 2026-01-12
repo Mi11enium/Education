@@ -19,7 +19,8 @@
 		{"id":"3def2e57f491be5b","type":"text","text":"[[Социальная инженерия]]","x":-580,"y":80,"width":250,"height":60},
 		{"id":"5aa20707d1c18561","type":"text","text":"[[Фишинг]]","x":-560,"y":140,"width":250,"height":60},
 		{"id":"8882d58fc66701bc","type":"text","text":"[[Система]]","x":-560,"y":200,"width":250,"height":60},
-		{"id":"7e2c4c1ecfac5e03","x":-580,"y":350,"width":250,"height":60,"type":"text","text":"[[Эксплойты и уязвимости]]"}
+		{"id":"5f6d46509c1c231c","x":-560,"y":460,"width":250,"height":60,"type":"text","text":"[[Трояны]]"},
+		{"id":"7e2c4c1ecfac5e03","type":"text","text":"[[Эксплойты и уязвимости]]","x":-560,"y":320,"width":250,"height":60}
 	],
 	"edges":[]
 }

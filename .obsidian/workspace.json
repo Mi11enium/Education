@@ -11,17 +11,14 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "LearnPenT.canvas",
-                "viewState": {
-                  "x": -27.66668701171875,
-                  "y": 113.00006103515625,
-                  "zoom": 0
-                }
+                "file": "Трояны.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LearnPenT"
+              "icon": "lucide-file",
+              "title": "Трояны"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LearnPenT.canvas",
+                "file": "Трояны.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LearnPenT"
+              "title": "Outline of Трояны"
             }
           },
           {
@@ -204,12 +201,13 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "LearnPenT.canvas",
+    "Трояны.md",
     "Untitled.canvas",
     "Pen/VirtualBox.md",
     "Pen/pfSense.md",
     "Pen/Linux - команды (терминал).md",
     "Pen/Linux.md",
-    "LearnPenT.canvas",
     "Pen/Рекомендации.md",
     "Pen/Сетевые интерфейсы.md",
     "Pen/Этичный хакинг.md",
@@ -235,7 +233,6 @@
     "fin/Маржа.md",
     "fin/валовая маржа.md",
     "fin/чистая маржа.md",
-    "fin/Наценка.md",
     "fin/Untitled 1.canvas",
     "Тестирование ПО/Python/Python.canvas",
     "C Sharp/Untitled 1.canvas",
