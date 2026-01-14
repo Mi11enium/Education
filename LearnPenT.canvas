@@ -26,7 +26,9 @@
 		{"id":"4565c91ccb87730f","type":"text","text":"[[Даркнет]]","x":-560,"y":620,"width":250,"height":60},
 		{"id":"5b517d8a8d78da3b","type":"text","text":"[[Утечка информации]]","x":-560,"y":320,"width":250,"height":60},
 		{"id":"7e2c4c1ecfac5e03","type":"text","text":"[[Эксплойты и уязвимости]]","x":-560,"y":260,"width":250,"height":60},
-		{"id":"f7c04f1373f40ce1","x":-560,"y":680,"width":250,"height":60,"type":"text","text":"[[DoS и DDoS]]"}
+		{"id":"f7c04f1373f40ce1","type":"text","text":"[[DoS и DDoS]]","x":-560,"y":680,"width":250,"height":60},
+		{"id":"69b3bd4f7404e664","type":"text","text":"[[CTF]]","x":-560,"y":740,"width":250,"height":60},
+		{"id":"a0d0bc7841d0f4ae","x":-560,"y":800,"width":250,"height":60,"type":"text","text":"[[Bug bounty]]"}
 	],
 	"edges":[]
 }

@@ -11,17 +11,14 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -885,
-                  "y": -590,
-                  "zoom": 0
-                }
+                "file": "Bug bounty.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Bug bounty"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Bug bounty.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Bug bounty"
             }
           },
           {
@@ -204,11 +201,13 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "DoS и DDoS.md",
     "LearnPenT.canvas",
+    "Bug bounty.md",
+    "Untitled.canvas",
+    "CTF.md",
+    "DoS и DDoS.md",
     "Даркнет.md",
     "Утечка информации.md",
-    "Untitled.canvas",
     "Pen/Основы сети.md",
     "CVE и CVSS.md",
     "Логи и следы.md",
@@ -230,8 +229,6 @@
     "Pen/Основы хакинга",
     "Pen/Основы хакинга/Этапы пентеста.md",
     "Pen/Основы хакинга/Пентестер.md",
-    "Pen/Основы хакинга/Хакер.md",
-    "Pen/Kali Linux.md",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
     "Pen",
