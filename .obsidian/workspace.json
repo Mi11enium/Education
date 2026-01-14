@@ -11,14 +11,17 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bug bounty.md",
-                "mode": "source",
-                "source": false
+                "file": "LearnPenT.canvas",
+                "viewState": {
+                  "x": 245,
+                  "y": 304.37407013815096,
+                  "zoom": -0.7311278254134427
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bug bounty"
+              "icon": "lucide-layout-dashboard",
+              "title": "LearnPenT"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug bounty.md",
+                "file": "LearnPenT.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bug bounty"
+              "title": "Outline of LearnPenT"
             }
           },
           {
@@ -201,34 +204,34 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "LearnPenT.canvas",
-    "Bug bounty.md",
+    "OSINT.md",
     "Untitled.canvas",
-    "CTF.md",
-    "DoS и DDoS.md",
-    "Даркнет.md",
-    "Утечка информации.md",
+    "Классификация OSINT.md",
+    "LearnPenT.canvas",
+    "Pen/Linux - команды (терминал).md",
+    "Pen/Бекдор.md",
+    "Pen/Bug bounty.md",
+    "Pen/CTF.md",
+    "Pen/DoS и DDoS.md",
+    "Pen/Даркнет.md",
+    "Pen/Утечка информации.md",
     "Pen/Основы сети.md",
-    "CVE и CVSS.md",
-    "Логи и следы.md",
-    "Эксплойты и уязвимости.md",
-    "Бекдор.md",
-    "Система.md",
-    "Трояны.md",
+    "Pen/CVE и CVSS.md",
+    "Pen/Логи и следы.md",
+    "Pen/Эксплойты и уязвимости.md",
+    "Pen/Система.md",
+    "Pen/Трояны.md",
     "Pen/VirtualBox.md",
     "Pen/pfSense.md",
-    "Pen/Linux - команды (терминал).md",
     "Pen/Linux.md",
     "Pen/Рекомендации.md",
     "Pen/Сетевые интерфейсы.md",
     "Pen/Этичный хакинг.md",
-    "Фишинг.md",
+    "Pen/Фишинг.md",
     "Pen/Права доступа.md",
     "Pen/Основы хакинга/Методология.md",
     "Pen/Основы хакинга/Социальная инженерия.md",
     "Pen/Основы хакинга",
-    "Pen/Основы хакинга/Этапы пентеста.md",
-    "Pen/Основы хакинга/Пентестер.md",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
     "Pen",
