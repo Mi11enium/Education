@@ -11,17 +11,14 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "LearnPenT.canvas",
-                "viewState": {
-                  "x": 283.73181178288553,
-                  "y": 149.44664570629044,
-                  "zoom": -0.7311278254134427
-                }
+                "file": "OSINT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LearnPenT"
+              "icon": "lucide-file",
+              "title": "OSINT"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LearnPenT.canvas",
+                "file": "OSINT.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LearnPenT"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -202,12 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e97eaef34b25d89",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
+    "zpic/Pasted image 20260114145200.png",
+    "LearnPenT.canvas",
     "OSINT.md",
     "Untitled.canvas",
     "Классификация OSINT.md",
-    "LearnPenT.canvas",
     "Pen/Linux - команды (терминал).md",
     "Pen/Бекдор.md",
     "Pen/Bug bounty.md",
