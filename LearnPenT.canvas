@@ -30,7 +30,8 @@
 		{"id":"efebf9473da9b3d2","type":"text","text":"[[Этичный хакинг]]","x":-240,"y":-560,"width":250,"height":60},
 		{"id":"7957072e998a65ea","type":"text","text":"[[Рекомендации]]","x":-240,"y":-480,"width":250,"height":60},
 		{"id":"90cbc4c4f09f3c40","type":"text","text":"[[OSINT]]","x":-160,"y":-220,"width":250,"height":60},
-		{"id":"2ddfb726ff9975ed","x":-160,"y":-160,"width":250,"height":60,"type":"text","text":"[[Классификация OSINT]]"}
+		{"id":"2ddfb726ff9975ed","type":"text","text":"[[Классификация OSINT]]","x":-160,"y":-160,"width":250,"height":60},
+		{"id":"d75bd209d5c1b8d1","x":120,"y":120,"width":250,"height":60,"type":"text","text":"[[Google Dorks]]"}
 	],
 	"edges":[]
 }
