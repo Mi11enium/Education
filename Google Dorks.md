@@ -9,3 +9,6 @@
     - `intext:` – поиск по тексту на странице.
 
 
+
+Множество примеров:
+https://www.boxpiper.com/posts/google-dork-list-web-server-detection/
