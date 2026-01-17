@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nmap.md",
+                "file": "theHarvester.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nmap"
+              "title": "theHarvester"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nmap.md",
+                "file": "theHarvester.md",
                 "followCursor": false,
                 "showSearch": true,
-                "searchQuery": "apt"
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nmap"
+              "title": "Outline of theHarvester"
             }
           },
           {
@@ -202,7 +202,8 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "nmap.md",
+    "theHarvester.md",
+    "Pen/Введение в OSINT/nmap.md",
     "Pen/Введение в OSINT/Whois.md",
     "Pen/Рекомендации.md",
     "Pen/Программы/Даркнет.md",
@@ -234,7 +235,6 @@
     "zpic/Pasted image 20260114145200.png",
     "Pen/Основы хакинга/Bug bounty.md",
     "Pen/Основы хакинга/CTF.md",
-    "Pen/Основы хакинга/Методы атак и уязвимости/DoS и DDoS.md",
     "Pen/Основы хакинга",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",

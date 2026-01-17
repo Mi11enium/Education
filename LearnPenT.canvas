@@ -35,7 +35,8 @@
 		{"id":"066be9469c00d96b","type":"text","text":"[[Wayback Machine]]","x":-160,"y":-40,"width":250,"height":60},
 		{"id":"92c0cfba4e35af76","type":"text","text":"[[Have I Been Pwned]]","x":-160,"y":20,"width":250,"height":60},
 		{"id":"4ea62beba7e40a67","type":"text","text":"[[Whois]]","x":-160,"y":80,"width":250,"height":60},
-		{"id":"6ee3da352aa94a43","x":-160,"y":140,"width":250,"height":60,"type":"text","text":"[[nmap]]"}
+		{"id":"6ee3da352aa94a43","type":"text","text":"[[nmap]]","x":-160,"y":140,"width":250,"height":60},
+		{"id":"0826387028b19c49","x":-160,"y":200,"width":250,"height":60,"type":"text","text":"[[theHarvester]]"}
 	],
 	"edges":[]
 }
