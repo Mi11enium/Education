@@ -73,13 +73,13 @@
 
 ### В разных дистрибутивах используются свои форматы пакетов и менеджеры:
 
-|Дистрибутив|Формат пакета|Менеджер|Пример команды|
-|---|---|---|---|
-|Debian/Ubuntu|`.deb`|`APT`|`sudo apt install firefox`|
-|RHEL/Fedora|`.rpm`|`DNF` (или `YUM`)|`sudo dnf install chromium`|
-|Arch Linux|`.pkg.tar.zst`|`Pacman`|`sudo pacman -S neofetch`|
-|openSUSE|`.rpm`|`Zypper`|`sudo zypper install vlc`|
-|Gentoo|(сборка из исходников)|`Portage`|`sudo emerge firefox`|
+| Дистрибутив   | Формат пакета          | Менеджер          | Пример команды              |
+| ------------- | ---------------------- | ----------------- | --------------------------- |
+| Debian/Ubuntu | `.deb`                 | `APT`             | `sudo apt install firefox`  |
+| RHEL/Fedora   | `.rpm`                 | `DNF` (или `YUM`) | `sudo dnf install chromium` |
+| Arch Linux    | `.pkg.tar.zst`         | `Pacman`          | `sudo pacman -S neofetch`   |
+| openSUSE      | `.rpm`                 | `Zypper`          | `sudo zypper install vlc`   |
+| Gentoo        | (сборка из исходников) | `Portage`         | `sudo emerge firefox`       |
 ### **Экосистема дистрибутива это:**
 Это совокупность:
 - **Репозиториев** (официальных и пользовательских хранилищ пакетов).

@@ -35,6 +35,14 @@ sudo apt-get update
 sudo apt full-upgrade
 sudo apt autoremove -y
 sudo reboot
+
+# Установка пакетов
+sudo apt install firefox - установка
+apt search firefox - поиск пакета по ключевому слову
+apt-cache search - поиск пакета по ключевому слову  в наименовании или описании 
+apt show firefox - просмотр информации о пакете
+
+
 # Сетевые команды
 ip a // просмотр ip адресов и сетевых устройств
 

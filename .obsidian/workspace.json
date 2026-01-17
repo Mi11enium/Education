@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wayback Machine.md",
+                "file": "Pen/Linux - команды (терминал).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wayback Machine"
+              "title": "Linux - команды (терминал)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wayback Machine.md",
+                "file": "Pen/Linux - команды (терминал).md",
                 "followCursor": false,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "apt"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wayback Machine"
+              "title": "Outline of Linux - команды (терминал)"
             }
           },
           {
@@ -203,12 +203,13 @@
   "lastOpenFiles": [
     "LearnPenT.canvas",
     "Wayback Machine.md",
+    "Pen/Дистрибутивы Linux.md",
+    "Pen/Linux - команды (терминал).md",
     "Google Dorks.md",
     "Pen/OSINT.md",
     "Классификация OSINT.md",
     "Тестирование ПО/Untitled.canvas",
     "zpic/Pasted image 20260114145200.png",
-    "Pen/Linux - команды (терминал).md",
     "Pen/Бекдор.md",
     "Pen/Bug bounty.md",
     "Pen/CTF.md",
@@ -228,7 +229,6 @@
     "Pen/Сетевые интерфейсы.md",
     "Pen/Этичный хакинг.md",
     "Pen/Фишинг.md",
-    "Pen/Права доступа.md",
     "Pen/Основы хакинга",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
