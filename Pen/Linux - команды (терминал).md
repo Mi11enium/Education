@@ -37,12 +37,19 @@ sudo apt autoremove -y
 sudo reboot
 
 # Установка пакетов
+## Поиск и установка
 sudo apt install firefox - установка
 apt search firefox - поиск пакета по ключевому слову
 apt-cache search - поиск пакета по ключевому слову  в наименовании или описании 
 apt show firefox - просмотр информации о пакете
+dpkg -L firefox - какие файлы установил пакет
 
+<название пакета> --help - первичная информация
 
+## Удаление пакетов
+sudo apt remove firefox - удаление с оставлением конфигов
+sudo apt purge firefox - удаление с конфигами
+sudo apt autoremove - удаление ненужных зависимостей
 # Сетевые команды
 ip a // просмотр ip адресов и сетевых устройств
 
