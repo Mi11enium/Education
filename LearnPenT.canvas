@@ -37,7 +37,8 @@
 		{"id":"90cbc4c4f09f3c40","type":"text","text":"[[OSINT]]","x":-75,"y":-220,"width":250,"height":60},
 		{"id":"2ddfb726ff9975ed","type":"text","text":"[[Классификация OSINT]]","x":-75,"y":-160,"width":250,"height":60},
 		{"id":"7957072e998a65ea","type":"text","text":"[[Рекомендации]]","x":-20,"y":-700,"width":250,"height":60},
-		{"id":"d0fa426f2a121ea6","x":400,"y":-220,"width":250,"height":60,"type":"text","text":"[[Основы сетей]]"}
+		{"id":"d0fa426f2a121ea6","type":"text","text":"[[Основы сетей]]","x":400,"y":-220,"width":250,"height":60},
+		{"id":"9892679c6ec62501","x":420,"y":-160,"width":250,"height":60,"type":"text","text":"[[Компьютерные сети]]"}
 	],
 	"edges":[]
 }

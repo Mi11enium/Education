@@ -11,17 +11,14 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "LearnPenT.canvas",
-                "viewState": {
-                  "x": 440.6232424988376,
-                  "y": 583.8517493816865,
-                  "zoom": -0.8481672466036619
-                }
+                "file": "Компьютерные сети.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LearnPenT"
+              "icon": "lucide-file",
+              "title": "Компьютерные сети"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LearnPenT.canvas",
+                "file": "Компьютерные сети.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LearnPenT"
+              "title": "Outline of Компьютерные сети"
             }
           },
           {
@@ -204,11 +201,13 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
+    "LearnPenT.canvas",
+    "Компьютерные сети.md",
+    "Основы сетей.md",
     "Pen/Основы хакинга/Социальная инженерия/Социальная инженерия.md",
     "Pen/Основы хакинга/Социальная инженерия/Фишинг.md",
     "Pen/Введение в OSINT/OSINT.md",
     "Pen/Введение в OSINT/Классификация OSINT.md",
-    "LearnPenT.canvas",
     "Pen/Введение в OSINT/Активный/Recon-ng.md",
     "Pen/Введение в OSINT/Активный/nmap.md",
     "Pen/Введение в OSINT/Активный/theHarvester.md",
@@ -236,11 +235,8 @@
     "Pen/Linux/Основы сети.md",
     "Pen/Linux",
     "Pen/Введение в OSINT",
-    "Pen/Linux/Linux - команды (терминал).md",
-    "Pen/Linux/Дистрибутивы Linux.md",
     "Тестирование ПО/Untitled.canvas",
     "zpic/Pasted image 20260114145200.png",
-    "Pen/Основы хакинга/Bug bounty.md",
     "Pen/Основы хакинга",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
