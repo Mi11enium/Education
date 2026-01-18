@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура.md",
+                "file": "Порты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архитектура"
+              "title": "Порты"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архитектура.md",
+                "file": "Порты.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Архитектура"
+              "title": "Outline of Порты"
             }
           },
           {
@@ -202,9 +202,15 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
+    "Порты.md",
+    "OSI  TCPIP.md",
+    "Компьютерные сети.md",
     "Архитектура.md",
     "Основы сетей.md",
-    "Компьютерные сети.md",
+    "zpic/Pasted image 20260118061130.png",
+    "OSI  TCP/IP.md",
+    "OSI.md",
+    "OSI  TCP",
     "Pen/Основы хакинга/Социальная инженерия/Социальная инженерия.md",
     "Pen/Основы хакинга/Социальная инженерия/Фишинг.md",
     "Pen/Введение в OSINT/OSINT.md",
@@ -226,13 +232,9 @@
     "Pen/Основы хакинга/Методы атак и уязвимости/Трояны.md",
     "Pen/Основы хакинга/Работа с системой/Логи и следы.md",
     "Pen/Основы хакинга/Работа с системой",
-    "Pen/Основы хакинга/Методы атак и уязвимости/Бекдор.md",
-    "Pen/Linux/Kali Linux.md",
     "Pen/Основы хакинга/Социальная инженерия",
     "Pen/Основы хакинга/Методы атак и уязвимости",
     "Pen/Программы",
-    "Pen/Linux/Сетевые интерфейсы.md",
-    "Pen/Linux/Права доступа.md",
     "Pen/Linux",
     "Pen/Введение в OSINT",
     "Тестирование ПО/Untitled.canvas",
@@ -240,7 +242,6 @@
     "Pen/Основы хакинга",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
-    "Pen",
     "fin/zFinance.canvas",
     "fin/Untitled 1.canvas",
     "Тестирование ПО/Python/Python.canvas",
@@ -251,7 +252,6 @@
     "zpic/Pasted image 20250819173828.png",
     "zpic/Pasted image 20250819173744.png",
     "zpic/Pasted image 20250819173207.png",
-    "zpic/Pasted image 20250819173145.png",
     "BMPN/BPMN.canvas",
     "API/API Canvas.canvas",
     "Тестирование ПО/QA/1 QA.canvas",

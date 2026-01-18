@@ -39,7 +39,9 @@
 		{"id":"7957072e998a65ea","type":"text","text":"[[Рекомендации]]","x":-20,"y":-700,"width":250,"height":60},
 		{"id":"d0fa426f2a121ea6","type":"text","text":"[[Основы сетей]]","x":400,"y":-220,"width":250,"height":60},
 		{"id":"9892679c6ec62501","type":"text","text":"[[Компьютерные сети]]","x":420,"y":-160,"width":250,"height":60},
-		{"id":"2b4ba0967809184d","x":420,"y":-100,"width":250,"height":60,"type":"text","text":"[[Архитектура]]"}
+		{"id":"2b4ba0967809184d","type":"text","text":"[[Архитектура]]","x":420,"y":-100,"width":250,"height":60},
+		{"id":"4027bbbfd941f8a0","type":"text","text":"[[OSI  TCPIP]]","x":420,"y":-40,"width":250,"height":60},
+		{"id":"64caeb3f831c41ea","x":420,"y":20,"width":250,"height":60,"type":"text","text":"[[Порты]]"}
 	],
 	"edges":[]
 }
