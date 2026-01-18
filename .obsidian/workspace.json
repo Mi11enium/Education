@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Компьютерные сети.md",
+                "file": "Архитектура.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Компьютерные сети"
+              "title": "Архитектура"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Компьютерные сети.md",
+                "file": "Архитектура.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Компьютерные сети"
+              "title": "Outline of Архитектура"
             }
           },
           {
@@ -202,8 +202,9 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Компьютерные сети.md",
+    "Архитектура.md",
     "Основы сетей.md",
+    "Компьютерные сети.md",
     "Pen/Основы хакинга/Социальная инженерия/Социальная инженерия.md",
     "Pen/Основы хакинга/Социальная инженерия/Фишинг.md",
     "Pen/Введение в OSINT/OSINT.md",
@@ -232,7 +233,6 @@
     "Pen/Программы",
     "Pen/Linux/Сетевые интерфейсы.md",
     "Pen/Linux/Права доступа.md",
-    "Pen/Linux/Основы сети.md",
     "Pen/Linux",
     "Pen/Введение в OSINT",
     "Тестирование ПО/Untitled.canvas",
