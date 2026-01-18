@@ -41,7 +41,8 @@
 		{"id":"9892679c6ec62501","type":"text","text":"[[Компьютерные сети]]","x":420,"y":-160,"width":250,"height":60},
 		{"id":"2b4ba0967809184d","type":"text","text":"[[Архитектура]]","x":420,"y":-100,"width":250,"height":60},
 		{"id":"4027bbbfd941f8a0","type":"text","text":"[[OSI  TCPIP]]","x":420,"y":-40,"width":250,"height":60},
-		{"id":"64caeb3f831c41ea","x":420,"y":20,"width":250,"height":60,"type":"text","text":"[[Порты]]"}
+		{"id":"64caeb3f831c41ea","type":"text","text":"[[Порты]]","x":420,"y":20,"width":250,"height":60},
+		{"id":"afe7dd5e5be777e1","x":420,"y":80,"width":250,"height":60,"type":"text","text":"[[HTTP и HTTPS]]"}
 	],
 	"edges":[]
 }

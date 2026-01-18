@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Порты.md",
+                "file": "HTTP и HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Порты"
+              "title": "HTTP и HTTPS"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Порты.md",
+                "file": "HTTP и HTTPS.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Порты"
+              "title": "Outline of HTTP и HTTPS"
             }
           },
           {
@@ -202,11 +202,13 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "Порты.md",
-    "OSI  TCPIP.md",
-    "Компьютерные сети.md",
-    "Архитектура.md",
-    "Основы сетей.md",
+    "HTTP и HTTPS.md",
+    "Pen/Компьютерные сети/Порты.md",
+    "Pen/Компьютерные сети/OSI  TCPIP.md",
+    "Pen/Компьютерные сети/Основы сетей.md",
+    "Pen/Компьютерные сети",
+    "Pen/Компьютерные сети/Компьютерные сети.md",
+    "Pen/Компьютерные сети/Архитектура.md",
     "zpic/Pasted image 20260118061130.png",
     "OSI  TCP/IP.md",
     "OSI.md",
@@ -230,7 +232,6 @@
     "Pen/Основы хакинга/Работа с системой/Утечка информации.md",
     "Pen/Основы хакинга/Работа с системой/Система.md",
     "Pen/Основы хакинга/Методы атак и уязвимости/Трояны.md",
-    "Pen/Основы хакинга/Работа с системой/Логи и следы.md",
     "Pen/Основы хакинга/Работа с системой",
     "Pen/Основы хакинга/Социальная инженерия",
     "Pen/Основы хакинга/Методы атак и уязвимости",
@@ -239,7 +240,6 @@
     "Pen/Введение в OSINT",
     "Тестирование ПО/Untitled.canvas",
     "zpic/Pasted image 20260114145200.png",
-    "Pen/Основы хакинга",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
     "fin/zFinance.canvas",
