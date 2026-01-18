@@ -11,14 +11,17 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "HTTP и HTTPS.md",
-                "mode": "source",
-                "source": false
+                "file": "LearnPenT.canvas",
+                "viewState": {
+                  "x": 405,
+                  "y": 50,
+                  "zoom": -0.8101993964046417
+                }
               },
-              "icon": "lucide-file",
-              "title": "HTTP и HTTPS"
+              "icon": "lucide-layout-dashboard",
+              "title": "LearnPenT"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP и HTTPS.md",
+                "file": "LearnPenT.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTP и HTTPS"
+              "title": "Outline of LearnPenT"
             }
           },
           {
@@ -201,8 +204,8 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "LearnPenT.canvas",
     "HTTP и HTTPS.md",
+    "LearnPenT.canvas",
     "Pen/Компьютерные сети/Порты.md",
     "Pen/Компьютерные сети/OSI  TCPIP.md",
     "Pen/Компьютерные сети/Основы сетей.md",
