@@ -11,17 +11,14 @@
             "id": "2e97eaef34b25d89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "LearnPenT.canvas",
-                "viewState": {
-                  "x": 405,
-                  "y": 50,
-                  "zoom": -0.8101993964046417
-                }
+                "file": "DNS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LearnPenT"
+              "icon": "lucide-file",
+              "title": "DNS"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LearnPenT.canvas",
+                "file": "DNS.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LearnPenT"
+              "title": "Outline of DNS"
             }
           },
           {
@@ -204,8 +201,10 @@
   },
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
-    "HTTP и HTTPS.md",
     "LearnPenT.canvas",
+    "DNS.md",
+    "IPv4 и IPv6.md",
+    "HTTP и HTTPS.md",
     "Pen/Компьютерные сети/Порты.md",
     "Pen/Компьютерные сети/OSI  TCPIP.md",
     "Pen/Компьютерные сети/Основы сетей.md",
@@ -233,8 +232,6 @@
     "Pen/Программы/Даркнет.md",
     "Pen/Основы хакинга/Методы атак и уязвимости/Эксплойты и уязвимости.md",
     "Pen/Основы хакинга/Работа с системой/Утечка информации.md",
-    "Pen/Основы хакинга/Работа с системой/Система.md",
-    "Pen/Основы хакинга/Методы атак и уязвимости/Трояны.md",
     "Pen/Основы хакинга/Работа с системой",
     "Pen/Основы хакинга/Социальная инженерия",
     "Pen/Основы хакинга/Методы атак и уязвимости",
