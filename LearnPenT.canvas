@@ -44,7 +44,11 @@
 		{"id":"64caeb3f831c41ea","type":"text","text":"[[Порты]]","x":420,"y":20,"width":250,"height":60},
 		{"id":"afe7dd5e5be777e1","type":"text","text":"[[HTTP и HTTPS]]","x":420,"y":80,"width":250,"height":60},
 		{"id":"9af18b9b75bb1676","type":"text","text":"[[IPv4 и IPv6]]","x":420,"y":140,"width":250,"height":60},
-		{"id":"68f9a527dbde5ff3","x":420,"y":200,"width":250,"height":60,"type":"text","text":"[[DNS]]"}
+		{"id":"68f9a527dbde5ff3","type":"text","text":"[[DNS]]","x":420,"y":200,"width":250,"height":60},
+		{"id":"c0bee8aaeb95b849","type":"text","text":"[[ARP-отравление]]","x":420,"y":260,"width":250,"height":60},
+		{"id":"558d90d41864a2ba","type":"text","text":"[[Сниффинг]]","x":420,"y":320,"width":250,"height":60},
+		{"id":"74dd3602940f2945","type":"text","text":"[[MITM]]","x":420,"y":380,"width":250,"height":60},
+		{"id":"c792fc3c9513cffe","x":420,"y":440,"width":250,"height":60,"type":"text","text":"[[Wireshark]]"}
 	],
 	"edges":[]
 }

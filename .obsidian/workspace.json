@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS.md",
+                "file": "Wireshark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "Wireshark"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNS.md",
+                "file": "Wireshark.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DNS"
+              "title": "Outline of Wireshark"
             }
           },
           {
@@ -202,9 +202,13 @@
   "active": "2e97eaef34b25d89",
   "lastOpenFiles": [
     "LearnPenT.canvas",
-    "DNS.md",
-    "IPv4 и IPv6.md",
-    "HTTP и HTTPS.md",
+    "Wireshark.md",
+    "Pen/Основы хакинга/Методы атак и уязвимости/MITM.md",
+    "Pen/Компьютерные сети/IPv4 и IPv6.md",
+    "Pen/Компьютерные сети/DNS.md",
+    "Pen/Основы хакинга/Методы атак и уязвимости/Сниффинг.md",
+    "Pen/Основы хакинга/Методы атак и уязвимости/ARP-отравление.md",
+    "Pen/Компьютерные сети/HTTP и HTTPS.md",
     "Pen/Компьютерные сети/Порты.md",
     "Pen/Компьютерные сети/OSI  TCPIP.md",
     "Pen/Компьютерные сети/Основы сетей.md",
@@ -228,10 +232,6 @@
     "Pen/Введение в OSINT/Пассивный/Google Dorks.md",
     "Pen/Введение в OSINT/Пассивный",
     "Pen/Введение в OSINT/Активный",
-    "Pen/Рекомендации.md",
-    "Pen/Программы/Даркнет.md",
-    "Pen/Основы хакинга/Методы атак и уязвимости/Эксплойты и уязвимости.md",
-    "Pen/Основы хакинга/Работа с системой/Утечка информации.md",
     "Pen/Основы хакинга/Работа с системой",
     "Pen/Основы хакинга/Социальная инженерия",
     "Pen/Основы хакинга/Методы атак и уязвимости",
