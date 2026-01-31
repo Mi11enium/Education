@@ -49,7 +49,8 @@
 		{"id":"558d90d41864a2ba","type":"text","text":"[[Сниффинг]]","x":420,"y":320,"width":250,"height":60},
 		{"id":"74dd3602940f2945","type":"text","text":"[[MITM]]","x":420,"y":380,"width":250,"height":60},
 		{"id":"c792fc3c9513cffe","type":"text","text":"[[Wireshark]]","x":420,"y":440,"width":250,"height":60},
-		{"id":"c45506c098c9ad97","x":420,"y":500,"width":250,"height":60,"type":"text","text":"[[tcpdump]]"}
+		{"id":"c45506c098c9ad97","type":"text","text":"[[tcpdump]]","x":420,"y":500,"width":250,"height":60},
+		{"id":"f6b35469bd804023","x":420,"y":560,"width":250,"height":60,"type":"text","text":"[[BetterCAP]]"}
 	],
 	"edges":[]
 }
