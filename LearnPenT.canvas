@@ -48,7 +48,8 @@
 		{"id":"c0bee8aaeb95b849","type":"text","text":"[[ARP-отравление]]","x":420,"y":260,"width":250,"height":60},
 		{"id":"558d90d41864a2ba","type":"text","text":"[[Сниффинг]]","x":420,"y":320,"width":250,"height":60},
 		{"id":"74dd3602940f2945","type":"text","text":"[[MITM]]","x":420,"y":380,"width":250,"height":60},
-		{"id":"c792fc3c9513cffe","x":420,"y":440,"width":250,"height":60,"type":"text","text":"[[Wireshark]]"}
+		{"id":"c792fc3c9513cffe","type":"text","text":"[[Wireshark]]","x":420,"y":440,"width":250,"height":60},
+		{"id":"c45506c098c9ad97","x":420,"y":500,"width":250,"height":60,"type":"text","text":"[[tcpdump]]"}
 	],
 	"edges":[]
 }
