@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"2b3085aab764d2cb","x":-140,"y":-20,"width":250,"height":60,"type":"text","text":"[[Введение в тестирование ПО]]"}
+		{"id":"2b3085aab764d2cb","type":"text","text":"[[Введение в тестирование ПО]]","x":-140,"y":-20,"width":250,"height":60},
+		{"id":"fefe54ddeb32eb7c","x":-460,"y":-20,"width":250,"height":60,"type":"text","text":"[[Глоссарий]]"}
 	],
 	"edges":[]
 }
