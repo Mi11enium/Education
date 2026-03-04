@@ -11,14 +11,17 @@
             "id": "eeb2f2bac1a91829",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Pen/Введение в OSINT/Активный/nmap.md",
-                "mode": "source",
-                "source": false
+                "file": "Тестирование ПО - Политех.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "nmap"
+              "icon": "lucide-layout-dashboard",
+              "title": "Тестирование ПО - Политех"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/Введение в OSINT/Активный/nmap.md",
+                "file": "Тестирование ПО - Политех.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nmap"
+              "title": "Outline of Тестирование ПО - Политех"
             }
           },
           {
@@ -201,13 +204,26 @@
   },
   "active": "eeb2f2bac1a91829",
   "lastOpenFiles": [
-    "BetterCAP.md",
     "LearnPenT.canvas",
+    "Тестирование ПО - Политех.canvas",
+    "Pen/Программы/BetterCAP.md",
+    "zpic/Pasted image 20260124124944.png",
+    "zpic/Pasted image 20260124125845.png",
+    "Тестирование ПО/QA/XML, JSON.md",
+    "Тестирование ПО/QA/Q Базы данных.md",
+    "Тестирование ПО/QA/Postman, API, Swagger.md",
+    "Тестирование ПО/QA/HTML, CSS.md",
+    "Тестирование ПО/QA/CMD - команды.md",
+    "Тестирование ПО/QA/Chrome Dev Tools.md",
+    "Тестирование ПО/QA/Порты, длина URL.md",
+    "Тестирование ПО/QA/Отношения и типы данных.md",
+    "Тестирование ПО/QA/Кэширование.md",
+    "Тестирование ПО/QA/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
+    "Тестирование ПО/QA/Внешний ключ (FK).md",
+    "Pen/Введение в OSINT/Активный/nmap.md",
     "Pen/Программы/Wireshark.md",
     "Pen/Программы/tcpdump.md",
-    "Pasted image 20260124130055.png",
-    "Pasted image 20260124125845.png",
-    "Pasted image 20260124124944.png",
+    "zpic/Pasted image 20260124130055.png",
     "Pen/Основы хакинга/Методы атак и уязвимости/MITM.md",
     "Pen/Компьютерные сети/IPv4 и IPv6.md",
     "Pen/Компьютерные сети/DNS.md",
@@ -219,20 +235,8 @@
     "Pen/Компьютерные сети/Основы сетей.md",
     "Pen/Компьютерные сети",
     "Pen/Компьютерные сети/Компьютерные сети.md",
-    "Pen/Компьютерные сети/Архитектура.md",
     "zpic/Pasted image 20260118061130.png",
-    "OSI  TCP/IP.md",
-    "OSI.md",
     "OSI  TCP",
-    "Pen/Основы хакинга/Социальная инженерия/Социальная инженерия.md",
-    "Pen/Основы хакинга/Социальная инженерия/Фишинг.md",
-    "Pen/Введение в OSINT/OSINT.md",
-    "Pen/Введение в OSINT/Классификация OSINT.md",
-    "Pen/Введение в OSINT/Активный/Recon-ng.md",
-    "Pen/Введение в OSINT/Активный/nmap.md",
-    "Pen/Введение в OSINT/Активный/theHarvester.md",
-    "Pen/Введение в OSINT/Пассивный/Whois.md",
-    "Pen/Введение в OSINT/Пассивный/Wayback Machine.md",
     "Pen/Введение в OSINT/Пассивный",
     "Pen/Введение в OSINT/Активный",
     "Pen/Основы хакинга/Работа с системой",
@@ -254,7 +258,6 @@
     "zpic/Pasted image 20250908085220.png",
     "BMPN/BPMN.canvas",
     "API/API Canvas.canvas",
-    "Тестирование ПО/QA/1 QA.canvas",
-    "Lua.canvas"
+    "Тестирование ПО/QA/1 QA.canvas"
   ]
 }
