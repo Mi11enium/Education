@@ -11,17 +11,14 @@
             "id": "eeb2f2bac1a91829",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Тестирование ПО - Политех.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Введение в тестирование ПО.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Тестирование ПО - Политех"
+              "icon": "lucide-file",
+              "title": "Введение в тестирование ПО"
             }
           }
         ]
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование ПО - Политех.canvas",
+                "file": "Введение в тестирование ПО.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Тестирование ПО - Политех"
+              "title": "Outline of Введение в тестирование ПО"
             }
           },
           {
@@ -204,8 +201,10 @@
   },
   "active": "eeb2f2bac1a91829",
   "lastOpenFiles": [
-    "LearnPenT.canvas",
+    "Pasted image 20260304221722.png",
     "Тестирование ПО - Политех.canvas",
+    "Введение в тестирование ПО.md",
+    "LearnPenT.canvas",
     "Pen/Программы/BetterCAP.md",
     "zpic/Pasted image 20260124124944.png",
     "zpic/Pasted image 20260124125845.png",
@@ -234,7 +233,6 @@
     "Pen/Компьютерные сети/OSI  TCPIP.md",
     "Pen/Компьютерные сети/Основы сетей.md",
     "Pen/Компьютерные сети",
-    "Pen/Компьютерные сети/Компьютерные сети.md",
     "zpic/Pasted image 20260118061130.png",
     "OSI  TCP",
     "Pen/Введение в OSINT/Пассивный",
