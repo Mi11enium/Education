@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"2b3085aab764d2cb","type":"text","text":"[[Введение в тестирование ПО]]","x":-140,"y":-20,"width":250,"height":60},
-		{"id":"fefe54ddeb32eb7c","x":-460,"y":-20,"width":250,"height":60,"type":"text","text":"[[Глоссарий]]"}
+		{"id":"fefe54ddeb32eb7c","type":"text","text":"[[Глоссарий]]","x":-760,"y":-20,"width":250,"height":60},
+		{"id":"2b3085aab764d2cb","type":"text","text":"[[Введение в тестирование ПО]]","x":-380,"y":-180,"width":250,"height":60},
+		{"id":"34f4025f571c612f","x":-380,"y":-120,"width":250,"height":60,"type":"text","text":"[[Виды тестирования]]"}
 	],
 	"edges":[]
 }

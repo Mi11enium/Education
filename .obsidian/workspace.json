@@ -11,14 +11,17 @@
             "id": "eeb2f2bac1a91829",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Глоссарий.md",
-                "mode": "source",
-                "source": false
+                "file": "Тестирование ПО - Политех.canvas",
+                "viewState": {
+                  "x": -175,
+                  "y": 10,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Глоссарий"
+              "icon": "lucide-layout-dashboard",
+              "title": "Тестирование ПО - Политех"
             }
           }
         ]
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глоссарий.md",
+                "file": "Тестирование ПО - Политех.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Глоссарий"
+              "title": "Outline of Тестирование ПО - Политех"
             }
           },
           {
@@ -201,8 +204,8 @@
   },
   "active": "eeb2f2bac1a91829",
   "lastOpenFiles": [
-    "Тестирование ПО - Политех.canvas",
     "Глоссарий.md",
+    "Тестирование ПО - Политех.canvas",
     "Введение в тестирование ПО.md",
     "Pasted image 20260304221722.png",
     "LearnPenT.canvas",
