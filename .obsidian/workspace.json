@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Системный анализ.md",
+                "file": "Компетенции системного аналитика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Системный анализ"
+              "title": "Компетенции системного аналитика"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Системный анализ.md",
+                "file": "Компетенции системного аналитика.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Системный анализ"
+              "title": "Outline of Компетенции системного аналитика"
             }
           },
           {
@@ -202,6 +202,7 @@
   "active": "eeb2f2bac1a91829",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Компетенции системного аналитика.md",
     "Системный анализ.md",
     "Виды тестирования.md",
     "Pasted image 20260307001641.png",
@@ -233,7 +234,6 @@
     "Pen/Компьютерные сети/DNS.md",
     "Pen/Основы хакинга/Методы атак и уязвимости/Сниффинг.md",
     "Pen/Основы хакинга/Методы атак и уязвимости/ARP-отравление.md",
-    "Pen/Компьютерные сети/HTTP и HTTPS.md",
     "Pen/Компьютерные сети",
     "zpic/Pasted image 20260118061130.png",
     "OSI  TCP",
