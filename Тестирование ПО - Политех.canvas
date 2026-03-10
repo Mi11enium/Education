@@ -4,7 +4,8 @@
 		{"id":"2b3085aab764d2cb","type":"text","text":"[[Введение в тестирование ПО]]","x":-380,"y":-180,"width":250,"height":60},
 		{"id":"34f4025f571c612f","type":"text","text":"[[Виды тестирования]]","x":-380,"y":-120,"width":250,"height":60},
 		{"id":"e1c1bb22df78f11f","type":"text","text":"[[Документация и тест-кейсы]]","x":-380,"y":-60,"width":250,"height":60},
-		{"id":"39d6a353ba3d2a1e","x":-760,"y":40,"width":250,"height":60,"type":"text","text":"[[ISTQB term]]"}
+		{"id":"39d6a353ba3d2a1e","type":"text","text":"[[ISTQB term]]","x":-760,"y":40,"width":250,"height":60},
+		{"id":"8219ee36d6b97094","x":-380,"y":0,"width":250,"height":60,"type":"text","text":"[[Техники тестирования]]"}
 	],
 	"edges":[]
 }
