@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3da212a13b4a7a1b",
+        "id": "6cc2171e92666fb0",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb2f2bac1a91829",
+            "id": "69051c7fc2064d25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pen/Linux/Linux - команды (терминал).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linux - команды (терминал)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -139,13 +135,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pen/Linux/Linux - команды (терминал).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Linux - команды (терминал)"
+              "title": "Структура"
             }
           },
           {
@@ -200,8 +195,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeb2f2bac1a91829",
+  "active": "69051c7fc2064d25",
   "lastOpenFiles": [
+    "Pen/Linux/Linux - команды (терминал).md",
     "Pen/Linux/Дистрибутивы Linux.md",
     "Техники тестирования.md",
     "Pasted image 20260311001150.png",
@@ -236,7 +232,6 @@
     "Тестирование ПО/QA/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
     "Тестирование ПО/QA/Внешний ключ (FK).md",
     "Pen/Введение в OSINT/Активный/nmap.md",
-    "Pen/Программы/Wireshark.md",
     "zpic/Pasted image 20260124130055.png",
     "Pen/Компьютерные сети",
     "zpic/Pasted image 20260118061130.png",
