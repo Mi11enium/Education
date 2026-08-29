@@ -11,17 +11,10 @@
             "id": "cf96a2a0f9a015e9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "LLM/LLM.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "LLM"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
