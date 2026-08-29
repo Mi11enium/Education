@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d20bdada910d537a","x":-460,"y":-160,"width":250,"height":60,"type":"text","text":"Machine Learning"},
+		{"id":"bf139b64ec71002b","x":-160,"y":-160,"width":250,"height":60,"type":"text","text":"Deep Learning"},
+		{"id":"ca0023f03a7c714c","x":-360,"y":60,"width":250,"height":60,"type":"text","text":"Large Language Model"}
+	],
+	"edges":[]
+}

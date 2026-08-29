@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2fe49c27ef8904",
+        "id": "f8b65bada0ee1a89",
         "type": "tabs",
         "children": [
           {
-            "id": "7af7f7bada940f92",
+            "id": "cf96a2a0f9a015e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "LLM/LLM.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "LLM"
             }
           }
         ]
@@ -37,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -134,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lesson-01-what-is-api.md",
+                "file": "LLM/LLM.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура lesson-01-what-is-api"
+              "title": "Структура"
             }
           },
           {
@@ -197,41 +206,45 @@
   },
   "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
-    "lesson-01-what-is-api.md",
-    "Pen/Linux/Linux - команды (терминал).md",
-    "Pen/Linux/Дистрибутивы Linux.md",
-    "Техники тестирования.md",
-    "Pasted image 20260311001150.png",
-    "Тестирование ПО - Политех.canvas",
-    "Документация и тест-кейсы.md",
-    "Глоссарий.md",
-    "ISTQB term.md",
-    "Виды документации.md",
-    "Виды тестирования.md",
-    "LearnPenT.canvas",
-    "Системный анализ/Untitled.canvas",
-    "Pasted image 20260307001641.png",
-    "Pasted image 20260304221722.png",
-    "Системный анализ/Структура документации.md",
+    "LLM/Без названия.md",
+    "LLM/LLM.canvas",
+    "Обзор статей/Как грамотно составить резюме.md",
     "Системный анализ/Системный анализ.md",
+    "Системный анализ/Структура документации.md",
+    "Системный анализ/Untitled.canvas",
     "Системный анализ/Понятие системы.md",
     "Системный анализ/Компетенции системного аналитика.md",
+    "Programming/Оформление/Работа в Word и Excel.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/1. Анализ и моделирование ИС.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/3. Анализ и моделирование функциональной области.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/5. Пример реализации.md",
+    "Programming/vol 3/Проектирование и дизайн информационных систем/2. Спецификация функциональных требований ИС.md",
+    "templates/Concept.md",
+    "zpic/Pasted image 20260311001150.png",
+    "Тестирование ПО/Документация и тест-кейсы.md",
+    "ISTQB term.md",
+    "Тестирование ПО/Тестирование ПО - Политех.canvas",
+    "Тестирование ПО/Техники тестирования.md",
+    "Глоссарий.md",
+    "Pen/LearnPenT.canvas",
+    "Виды тестирования.md",
+    "Виды документации.md",
     "Введение в тестирование ПО.md",
+    "fin/zFinance.canvas",
+    "fin/LTV.md",
+    "fin/CFS общая сводка.md",
+    "fin/чистая маржа.md",
+    "fin/операционная маржа.md",
+    "fin/Наценка.md",
+    "fin/Маржа.md",
+    "API/API Canvas.canvas",
+    "LLM",
+    "BMPN/BPMN.canvas",
+    "Pasted image 20260307001641.png",
+    "Pasted image 20260304221722.png",
     "Системный анализ",
-    "Pen/Программы/BetterCAP.md",
     "zpic/Pasted image 20260124124944.png",
     "zpic/Pasted image 20260124125845.png",
-    "Тестирование ПО/QA/XML, JSON.md",
-    "Тестирование ПО/QA/Q Базы данных.md",
-    "Тестирование ПО/QA/Postman, API, Swagger.md",
-    "Тестирование ПО/QA/HTML, CSS.md",
-    "Тестирование ПО/QA/CMD - команды.md",
-    "Тестирование ПО/QA/Chrome Dev Tools.md",
-    "Тестирование ПО/QA/Порты, длина URL.md",
-    "Тестирование ПО/QA/Отношения и типы данных.md",
-    "Тестирование ПО/QA/Кэширование.md",
-    "Тестирование ПО/QA/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
-    "Тестирование ПО/QA/Внешний ключ (FK).md",
     "zpic/Pasted image 20260124130055.png",
     "Pen/Компьютерные сети",
     "zpic/Pasted image 20260118061130.png",
@@ -242,16 +255,11 @@
     "Pen/Основы хакинга/Социальная инженерия",
     "Pen/Основы хакинга/Методы атак и уязвимости",
     "Pen/Программы",
-    "Pen/Linux",
     "Тестирование ПО/Untitled.canvas",
     "zpic/Pasted image 20260114145200.png",
     "zpic/Pasted image 20251117152220.png",
     "zpic/Pasted image 20251113133304.png",
-    "fin/zFinance.canvas",
     "fin/Untitled 1.canvas",
-    "Тестирование ПО/Python/Python.canvas",
-    "C Sharp/Untitled 1.canvas",
-    "BMPN/BPMN.canvas",
-    "API/API Canvas.canvas"
+    "Тестирование ПО/Python/Python.canvas"
   ]
 }
