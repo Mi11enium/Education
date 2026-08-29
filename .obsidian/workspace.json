@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc2171e92666fb0",
+        "id": "9f2fe49c27ef8904",
         "type": "tabs",
         "children": [
           {
-            "id": "69051c7fc2064d25",
+            "id": "7af7f7bada940f92",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo apt ins",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,12 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "lesson-01-what-is-api.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура lesson-01-what-is-api"
             }
           },
           {
@@ -195,8 +195,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69051c7fc2064d25",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
+    "lesson-01-what-is-api.md",
     "Pen/Linux/Linux - команды (терминал).md",
     "Pen/Linux/Дистрибутивы Linux.md",
     "Техники тестирования.md",
@@ -231,7 +232,6 @@
     "Тестирование ПО/QA/Кэширование.md",
     "Тестирование ПО/QA/КС - Архитектура, OSI, TCP-UDP-QUIC, Валидация-Верификация.md",
     "Тестирование ПО/QA/Внешний ключ (FK).md",
-    "Pen/Введение в OSINT/Активный/nmap.md",
     "zpic/Pasted image 20260124130055.png",
     "Pen/Компьютерные сети",
     "zpic/Pasted image 20260118061130.png",
