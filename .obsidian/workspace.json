@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алготрейдинг/12-metriki-riska.md",
+                "file": "Алготрейдинг/17-streess-testirovanie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-metriki-riska"
+              "title": "17-streess-testirovanie"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алготрейдинг/12-metriki-riska.md",
+                "file": "Алготрейдинг/17-streess-testirovanie.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -218,6 +218,11 @@
   },
   "active": "f1a73376d365a58f",
   "lastOpenFiles": [
+    "Алготрейдинг/16-exposure-i-leverage.md",
+    "Алготрейдинг/15-cagr-i-rosta-kapitala.md",
+    "Алготрейдинг/14-sortino-i-drugie-kojefficienty.md",
+    "Алготрейдинг/13-sharpe-ratio.md",
+    "Алготрейдинг/12-metriki-riska.md",
     "Алготрейдинг/11-osnovnye-metriki-pnl.md",
     "Алготрейдинг/10-proverka-gipotez.md",
     "Алготрейдинг/09-stationarnost-i-vremennye-ryady.md",
@@ -239,11 +244,6 @@
     "Алготрейдинг/45-drawdown-i-recovery.md",
     "Алготрейдинг/44-stop-loss-i-take-profit.md",
     "Алготрейдинг/43-kelly-criterion.md",
-    "Алготрейдинг/42-position-sizing.md",
-    "Алготрейдинг/41-risk-management-osnovy.md",
-    "Алготрейдинг/40-otchety-i-dashboard.md",
-    "Алготрейдинг/39-attribute-analysis.md",
-    "Алготрейдинг/38-marginalnyy-utility.md",
     "Алготрейдинг",
     "SEO",
     "Тестирование ПО/Python/Python.canvas",
