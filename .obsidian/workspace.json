@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алготрейдинг/04-brokery-i-api.md",
+                "file": "Алготрейдинг/05-yazyki-i-instrumenty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-brokery-i-api"
+              "title": "05-yazyki-i-instrumenty"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алготрейдинг/04-brokery-i-api.md",
+                "file": "Алготрейдинг/05-yazyki-i-instrumenty.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -218,6 +218,7 @@
   },
   "active": "f1a73376d365a58f",
   "lastOpenFiles": [
+    "Алготрейдинг/04-brokery-i-api.md",
     "Алготрейдинг/03-arhitektura-torgovogo-robota.md",
     "Алготрейдинг/02-vidy-strategiy.md",
     "Алготрейдинг/01-chto-takoe-algotreyding.md",
@@ -243,7 +244,6 @@
     "Алготрейдинг/33-impact-cost-na-strategiyu.md",
     "Алготрейдинг/32-realistic-slippage-model.md",
     "Алготрейдинг/31-realistic-commission-model.md",
-    "Алготрейдинг/30-curve-fitting-i-robastnost.md",
     "Алготрейдинг",
     "SEO",
     "Тестирование ПО/Python/Python.canvas",

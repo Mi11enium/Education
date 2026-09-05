@@ -36,13 +36,13 @@
 
 ## Рекомендация по выбору
 
-| Задача | Язык |
-|---|---|
-| Бэктест, research | Python |
-| Live-торговля (среднечастотная) | Python + asyncio |
-| Live HFT | C++ / Rust |
-| MetaTrader | MQL5 |
-| Распределённая система | Python + Kafka + Go |
+| Задача                          | Язык                |
+| ------------------------------- | ------------------- |
+| Бэктест, research               | Python              |
+| Live-торговля (среднечастотная) | Python + asyncio    |
+| Live HFT                        | C++ / Rust          |
+| MetaTrader                      | MQL5                |
+| Распределённая система          | Python + Kafka + Go |
 
 ## Python-экосистема
 
