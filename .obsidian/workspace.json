@@ -25,14 +25,17 @@
             "id": "f1a73376d365a58f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Алготрейдинг/17-streess-testirovanie.md",
-                "mode": "source",
-                "source": false
+                "file": "Метрики/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "17-streess-testirovanie"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ],
@@ -155,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алготрейдинг/17-streess-testirovanie.md",
+                "file": "Метрики/Без названия.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -216,34 +219,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1a73376d365a58f",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
+    "Алготрейдинг/21-printsipy-bekttesta.md",
+    "Метрики/Без названия.canvas",
+    "Метрики/Рейтинг.md",
+    "Метрики/Расход на рекламу.md",
+    "Метрики/Процент возвратов.md",
+    "Метрики/Правила решений по метрикам.md",
+    "Метрики/Показы.md",
+    "Метрики/Отзывы.md",
+    "Метрики/Клики.md",
+    "Метрики/Заказы.md",
+    "Метрики/Добавления в корзину.md",
+    "Метрики/Выручка.md",
+    "Метрики/Воронка карточки.md",
+    "Метрики/ROAS.md",
+    "Метрики/CTR.md",
+    "Метрики/CR в корзину.md",
+    "Метрики/CR в заказ.md",
+    "Метрики/AOV.md",
+    "Метрики/ACOS.md",
+    "Метрики/00 Метрики контент-менеджера МП.md",
+    "Метрики/╨а╨╡╨╣╤В╨╕╨╜╨│.md",
+    "Метрики",
+    "Алготрейдинг/19-komissii-i-struktura-izderzhek.md",
+    "Алготрейдинг/18-treyn-out-of-sample.md",
+    "Алготрейдинг/17-streess-testirovanie.md",
     "Алготрейдинг/16-exposure-i-leverage.md",
     "Алготрейдинг/15-cagr-i-rosta-kapitala.md",
-    "Алготрейдинг/14-sortino-i-drugie-kojefficienty.md",
-    "Алготрейдинг/13-sharpe-ratio.md",
-    "Алготрейдинг/12-metriki-riska.md",
-    "Алготрейдинг/11-osnovnye-metriki-pnl.md",
-    "Алготрейдинг/10-proverka-gipotez.md",
-    "Алготрейдинг/09-stationarnost-i-vremennye-ryady.md",
-    "Алготрейдинг/08-raspredeleniya-i-statistika.md",
-    "Алготрейдинг/07-dispersiya-i-standartnoe-otklonenie.md",
-    "Алготрейдинг/06-matematicheskoe-ozhidanie.md",
-    "Алготрейдинг/05-yazyki-i-instrumenty.md",
-    "Алготрейдинг/04-brokery-i-api.md",
-    "Алготрейдинг/03-arhitektura-torgovogo-robota.md",
-    "Алготрейдинг/02-vidy-strategiy.md",
-    "Алготрейдинг/01-chto-takoe-algotreyding.md",
-    "Без названия.md",
-    "Алготрейдинг/README.md",
-    "Алготрейдинг/50-checklist-zapuska.md",
-    "Алготрейдинг/49-regime-change-i-adaptaciya.md",
-    "Алготрейдинг/48-monitoring-i-alerts.md",
-    "Алготрейдинг/47-orders-i-execution.md",
-    "Алготрейдинг/46-risk-parity-i-korrelacii.md",
-    "Алготрейдинг/45-drawdown-i-recovery.md",
-    "Алготрейдинг/44-stop-loss-i-take-profit.md",
-    "Алготрейдинг/43-kelly-criterion.md",
     "Алготрейдинг",
     "SEO",
     "Тестирование ПО/Python/Python.canvas",
@@ -270,9 +274,7 @@
     "Pen/Введение в OSINT/Пассивный",
     "Pen/Введение в OSINT/Активный",
     "Pen/Основы хакинга/Работа с системой",
-    "Pen/Основы хакинга/Социальная инженерия",
     "zpic/Pasted image 20260114145200.png",
-    "zpic/Pasted image 20251117152220.png",
-    "fin/Untitled 1.canvas"
+    "zpic/Pasted image 20251117152220.png"
   ]
 }
