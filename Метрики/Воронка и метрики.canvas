@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"30bfe79b40e2132a","type":"text","text":"[[CTR]]","x":-280,"y":-240,"width":74,"height":60},
+		{"id":"0178a01e5ed4fa15","type":"text","text":"[[Клики]]","x":-180,"y":-240,"width":90,"height":60},
+		{"id":"a89a621340683f12","type":"text","text":"[[CR в корзину]]","x":-60,"y":-240,"width":160,"height":60},
+		{"id":"442902623ad13fd7","type":"text","text":"[[Показы]]","x":-406,"y":-240,"width":101,"height":60},
+		{"id":"5a38530daf125a6c","type":"text","text":"[[Воронка карточки]]","x":-245,"y":-360,"width":250,"height":60},
+		{"id":"76baa865685490ce","type":"text","text":"[[Рейтинг]]","x":-347,"y":-100,"width":104,"height":60},
+		{"id":"c5ede6af5fb18743","type":"text","text":"[[Отзывы]]","x":-205,"y":-100,"width":103,"height":60},
+		{"id":"f2a9f401d8541569","type":"text","text":"[[Возвраты]]","x":-60,"y":-100,"width":115,"height":60},
+		{"id":"563a1046d2cf363f","type":"text","text":"[[CR в заказ]]","x":120,"y":-240,"width":140,"height":60}
+	],
+	"edges":[]
+}
