@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метрики/CR в заказ.md",
+                "file": "Метрики/Unit-экономика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CR в заказ"
+              "title": "Unit-экономика"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метрики/CR в заказ.md",
+                "file": "Метрики/Unit-экономика.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -218,6 +218,7 @@
   },
   "active": "f1a73376d365a58f",
   "lastOpenFiles": [
+    "Метрики/CR в заказ.md",
     "Метрики/CR в корзину.md",
     "Метрики/CTR.md",
     "Метрики/Воронка карточки.md",
@@ -233,7 +234,6 @@
     "Воронка карточки.md",
     "Метрики/ACOS.md",
     "Метрики/AOV.md",
-    "Метрики/CR в заказ.md",
     "Метрики/ROAS.md",
     "Метрики/Выручка.md",
     "Метрики/Выкуп.md",
