@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метрики_MIMO/Уроки/12_cena-skidka_урок.md",
+                "file": "Метрики_MIMO/Уроки/14_unit-ekonomika_урок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12_cena-skidka_урок"
+              "title": "14_unit-ekonomika_урок"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метрики_MIMO/Уроки/12_cena-skidka_урок.md",
+                "file": "Метрики_MIMO/Уроки/14_unit-ekonomika_урок.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -218,6 +218,7 @@
   },
   "active": "f1a73376d365a58f",
   "lastOpenFiles": [
+    "Метрики_MIMO/Уроки/12_cena-skidka_урок.md",
     "Метрики_MIMO/README.md",
     "Метрики-qestions/Метрики_questions.canvas",
     "Метрики_GLM/урок-02-yunit_ekonomika_sku.md",
@@ -244,7 +245,6 @@
     "Метрики_LUNA/01_ctr_карточки_в_выдаче.md",
     "Метрики_LUNA/README.md",
     "Метрики_MIMO/Уроки/17_drr_урок.md",
-    "Метрики_MIMO/Уроки/18_seo-indeksaciya_урок.md",
     "Метрики_MIMO/Уроки",
     "Метрики_MIMO/Тренажёры/20_ab-effekt-voronki_тренажер.xlsx",
     "Метрики_MIMO/Тренажёры/19_otzyvy-reyting_тренажер.xlsx",
