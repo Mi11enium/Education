@@ -25,17 +25,14 @@
             "id": "f1a73376d365a58f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Метрики-qestions/Метрики_questions.canvas",
-                "viewState": {
-                  "x": 551.5864791557993,
-                  "y": 380.7032298852672,
-                  "zoom": -1.0527531869626918
-                }
+                "file": "Метрики_GLM/урок-02-yunit_ekonomika_sku.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Метрики_questions"
+              "icon": "lucide-file",
+              "title": "урок-02-yunit_ekonomika_sku"
             }
           }
         ],
@@ -158,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метрики-qestions/Метрики_questions.canvas",
+                "file": "Метрики_GLM/урок-02-yunit_ekonomika_sku.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -221,6 +218,10 @@
   },
   "active": "f1a73376d365a58f",
   "lastOpenFiles": [
+    "Метрики_GLM/урок-03-voronka_kartochki_ctr_cvr.md",
+    "Метрики_GLM/урок-01-demografia_i_cena.md",
+    "Метрики_GLM/урок-02-yunit_ekonomika_sku.md",
+    "Метрики-qestions/Метрики_questions.canvas",
     "Метрики_SB/11_source-efficiency_lesson.md",
     "Метрики_SB/08_gmv-revenue_lesson.md",
     "Метрики_SB/05_product-page_lesson.md",
@@ -233,13 +234,9 @@
     "Метрики/Unit-экономика.md",
     "Метрики_GLM/урок-05-pozicii_i_seo.md",
     "Метрики_GLM/урок-04-drr_romt_tacos_reklama.md",
-    "Метрики_GLM/урок-03-voronka_kartochki_ctr_cvr.md",
-    "Метрики_GLM/урок-02-yunit_ekonomika_sku.md",
-    "Метрики_GLM/урок-01-demografia_i_cena.md",
     "~$тренажёр-01-demografia_i_cena.xlsx",
     "Метрики_MIMO/Уроки/14_unit-ekonomika_урок.md",
     "Метрики_MIMO/Уроки/12_cena-skidka_урок.md",
-    "Метрики-qestions/Метрики_questions.canvas",
     "Метрики_MIMO/Уроки/02_pokazy-ohvat_урок.md",
     "Метрики_LUNA/03_конверсия_перехода_в_заказ.md",
     "Метрики_SB/06_cvr_lesson.md",
@@ -249,7 +246,6 @@
     "Метрики_SB/12_search-queries_lesson.md",
     "Метрики_SB/13_content-formats_lesson.md",
     "Метрики_SB/14_product-card_lesson.md",
-    "Метрики_SB/15_content-kpi_lesson.md",
     "Метрики_MIMO/Уроки",
     "Метрики_MIMO/Тренажёры/20_ab-effekt-voronki_тренажер.xlsx",
     "Метрики_MIMO/Тренажёры/19_otzyvy-reyting_тренажер.xlsx",
